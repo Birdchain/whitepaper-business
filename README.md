@@ -1,5 +1,5 @@
-## White paper
-# Birdchain
+
+# Birdchain - White paper
 ## The app that rewards
 
 1. [Abstract](#Abstract)
@@ -97,6 +97,8 @@ However, Birdchain does not guarantee any revenue to Birdchain token holder or t
 # SMS gateway
 Naudoja FB, Google ir panašiai
 
+![SMS stats](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png?raw=true)
+
 You may wonder:
 > Why do Facebook, Microsoft, Google, Apple and many others high-tech companies want to send SMS? Why would anyone want to use technology from the ‘80s?
 
@@ -108,6 +110,8 @@ Here is why:
 * SMS is app-independent (no need to have an app to communicate);
 * SMS does not require a data subscription (roaming scenarios for example);
 * SMS is by far the most standardized messaging technology.
+
+![Phone users](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png?raw=true)
 
 A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024. The reasons for A2P growth:
 * SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it and SMS has the highest engagement rate in comparison to emails and OTT apps.
@@ -124,15 +128,15 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 
 **In the ideal world**, when business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMSs and operators that CAN send them.
 
->>>>>iliustracija
+![Ideal SMS path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png?raw=true)
 
 **In real world**, it is not that straightforward.
 
->>>>>iliustracija
+![Real-world path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/09.png?raw=true)
 
 As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straigh as possible.
 
->>>>>iliustracija
+![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png?raw=true)
 
 **The problems:**
 1. People have unlimited SMS plans which they do not use;
@@ -140,6 +144,8 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 
 **The solution:**
 1. People can automatically sell their unused SMS to businesses via Birdchain instant messaging app. Companies get an up to 6 times cheaper service. People get paid for every single SMS which is sold.
+
+![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png?raw=true)
 
 ## How SMS gateway is going to work?
 
@@ -171,7 +177,7 @@ numbers (contacts) by itself;
 7. Birdchain uses blockchain to verify the delivery of every single SMS;
 8. When delivery is confirmed and the conditions of the Smart Contract are fulfilled, company bid is equally distributed among all app users whose SMS were used to deliver the messages.
 
-<Schema verslams>
+![Sending SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node.png?raw=true)
 
 **What Will Not Birdchain Do?**
 1. Birdchain will not provide phone numbers to companies. Birdchain only facilitates the service;
@@ -184,13 +190,14 @@ numbers (contacts) by itself;
 ## The Growing Demand
 In 2015, Application-to-person (A2P) SMS market was worth $57.3 billion and is forecast to grow to $83 billion by 2024.
 
->>>> lentelė
+![Growing number of SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/03.png?raw=true)
+![A2P SMS market value](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/02.png?raw=true)
 
 Until recent years, SMS marketing also used to be considered fast, safe, and reliable. However, as the market grew, it was monopolized and got distorted. Most of the market is shared amongst a few key players.
 
 Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages: SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
 
->>>>Lentelė
+![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/01.png?raw=true)
 >>>>grafikas 
 
 
