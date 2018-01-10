@@ -2,12 +2,6 @@
 # Birdchain
 ## The app that rewards
 
-[create an anchor](#anchors-in-markdown)
-
-
-
-
-
 1. Abstract
 2. Established business. Experienced team
 3. Birdchain. The app that rewards
@@ -40,6 +34,25 @@
     5. Are Birdchain tokens Securities?
     6. Please Note
 6. Roadmap
-7. Appendix
+7. [Appendix](#Appendix)
 
-# anchors-in-markdown
+# Appendix
+
+“How off-chain trading will work” by Martin Koeppelmann 
+“Ethereum Lightning Network and Beyond” by Robert McCone 
+“State Channels” by Jeff Coleman 
+“Raiden: Scaling Out With Off-chain State Networks” by Heiko Hees 
+“Epicenter Bitcoin: State Networks” by Jeff Coleman 
+“Universal Payment Channels” by Jehan Tremback 
+“Scalability via State Channels” by Martin Koeppelmann 
+“Ethereum: Platform Review” (page 30) by Vitalik Buterin 
+“Sparky: A Lightning Network in Two Pages of Solidity” by Dennis Peterson 
+“An Introduction to State Channels in Depth” by Ameen Soleimani 
+“State Channels Wiki” by Jeff Coleman 
+“Gamble Channels: Fast Verifiable Off-Chain Gambling” by Denis Peterson 
+“Toy State Channels” Jeff Coleman 
+“Raiden Network” by Brainbot 
+“Machinomy” by Sergey Ukustov 
+http://plasma.io/plasma.pdf
+https://iota.org/IOTA_Whitepaper.pdf
+And many MANY others.
