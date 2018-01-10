@@ -2,7 +2,7 @@
 # Birdchain - White paper
 ## The app that rewards
 
-1. [Abstract](#Abstract)
+1. [Abstract](#abstract)
 2. [Established business. Experienced team](#Established_business)
 3. [Birdchain. The app that rewards](#Birdchain)
     1. [Raising value of the Token](#Raising_value_of_the_Token)
