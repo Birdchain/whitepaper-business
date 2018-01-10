@@ -23,9 +23,9 @@
         1. How it is going to work? 
         2. Take back control 
         3. F.A.Q.
-4. Business prospects
-    1. SWOT
-    2. Finances
+4. [Business prospects](#Business_prospects)
+    1. [SWOT](#SWOT)
+    2. [Finances](#Finances)
 5. [Token sale](#Token_sale)
     1. [Tokens in numbers](#Tokens_in_numbers)
     2. [Purpose of the Token](#Purpose_of_the_Token)
@@ -35,6 +35,41 @@
     6. [Please Note](#Please_Note)
 6. [Roadmap](#Roadmap)
 7. [Appendix](#Appendix)
+
+# Business prospects
+## SWOT
+| **Strenghts**                                                                       | **Weaknesses**                                 |
+| :---------------------------------------------------------------------------------- | :--------------------------------------------- |
+| Almost 10 years of experience in A2P SMS market                                     | * Visible sender number                        |
+| Profitable and successful company                                                   |                                                | 
+| In-depth expertise of the market and business                                       |                                                | 
+| Team is gathered from different successful projects and share unique experiences    |                                                |
+| Owning all required technologies for A2P SMS delivery                               |                                                |
+| Huge potential market - US$56 billion in 2015                                       |                                                |
+| Market is growing - 5 percent annually                                              |                                                |
+| Direct access to potential clients - our current and previous clients               |                                                |
+| Birdchain will introduce very competitive prices                                    |                                                |
+| Passive income will accelerate mass adoption of Birdchain app                       |                                                |
+| Experience developing social/chat apps                                              |                                                |
+
+
+| **Opportunities**                                                                   | **Threats**                                    |
+| :---------------------------------------------------------------------------------- | :--------------------------------------------- |
+| Aggregators are interested in the lowest possible price of A2P SMS service          | * Competition with other IM apps               |
+| Aggregators have enormous SMS traffic                                               | * Competition after forking our service        |
+| Versatility of the SMS                                                              |                                                |
+| People are interested in getting additional income without much effort - it will    |                                                |
+| accelerate adoption of Birdchain app                                                |                                                |
+| Potential to grow in services                                                       |                                                |
+| Becoming global leader of decentralised A2P SMS delivery                            |                                                |
+| Growing interest in cryptocurrencies                                                |                                                |
+| No direct competitors                                                               |                                                |
+
+
+
+
+## Finances
+
 
 # Token sale
 ## Tokens in numbers
