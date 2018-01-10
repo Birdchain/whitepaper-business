@@ -2,25 +2,25 @@
 # Birdchain
 ## The app that rewards
 
-1. Abstract
-2. Established business. Experienced team
-3. Birdchain. The app that rewards
-    1. Streams of the Token
-        1. Internal economics - raising value of the Token
-        2. GBI - Global Basic Income
-    2. SMS gateway
-        1. How it is going to work? 
-        2. The Growing Demand for A2P SMS Service
-        3. F.A.Q.
-    3. Content engagement
-        1. How it is going to work?
-        2. Testing of the concept
-        3. F.A.Q.
-    4. In-app mini-games
-        1. How it is going to work?
-        2. F.A.Q.
+1. [Abstract](#Abstract)
+2. [Established business. Experienced team](#Established_business)
+3. [Birdchain. The app that rewards](#Birdchain)
+    1. [Raising value of the Token](#Raising_value_of_the_Token)
+        1. [Streams of the Token](#Streams_of_the_Token)
+        2. [GBI - Global Basic Income](#GBI)
+    2. [SMS gateway](#SMS_gateway)
+        1. [How SMS gateway is going to work?](#How_SMS_gateway_is_going_to_work?) 
+        2. [The Growing Demand](#The_Growing_Demand)
+        3. [F.A.Q.](#F.A.Q.)
+    3. [Content engagement](#Content_engagement)
+        1. [How content engagement is going to work?](#How_content_engagement_is_going_to_work?) 
+        2. [Tested concept](#Tested_concept)
+        3. [F.A.Q.](#F.A.Q.)
+    4. [In-app mini-games](#In-app mini-games)
+        1. [How mini-games are going to work?](#How_mini-games_are_going_to_work?) 
+        2. [F.A.Q.](#F.A.Q.)
     5. [Personal data marketplance](#Personal_data_marketplance)
-        1. [How it is going to work?](#How_it_is_going_to_work?) 
+        1. [How marketplace is going to work?](#How_marketplace_is_going_to_work?) 
         2. [Case studies](#Case_studies)
         3. [F.A.Q.](#F.A.Q.)
 4. [Business prospects](#Business_prospects)
@@ -36,8 +36,33 @@
 6. [Roadmap](#Roadmap)
 7. [Appendix](#Appendix)
 
+# Abstract
+
+# Established business
+
+# Birdchain
+
+# Raising value of the Token
+## Streams of the Token
+## GBI
+
+# SMS gateway
+## How SMS gateway is going to work?
+## The Growing Demand
+## F.A.Q.
+
+# Content engagement
+## How content engagement is going to work?
+## Tested concept
+## F.A.Q.
+
+# In-app mini-games
+## How mini-games are going to work?
+## F.A.Q.
+
+
 # Personal data marketplance
-## How it is going to work? 
+## How marketplace is going to work? 
 Neprivalomas dalyvavimas. Žmogus pats pasirinks. Tiesioginis duomenų pardavimas ir dalyvavimas apklausose. 
 ## Case studies
 FB, Google, Apple tavo informacij1 parduoda nemokamai, o čia gaus pinigų
