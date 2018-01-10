@@ -26,33 +26,82 @@
 4. Business prospects
     1. SWOT
     2. Finances
-5. Token sale
-    1. Tokens in numbers
-    2. Purpose of the Token
-    3. Rules of the Token sale
-    4. ICO
-    5. Are Birdchain tokens Securities?
-    6. Please Note
-6. Roadmap
+5. [Token sale](#Token_sale)
+    1. [Tokens in numbers](#Tokens_in_numbers)
+    2. [Purpose of the Token](#Purpose_of_the_Token)
+    3. [Rules of the Token sale](#Rules_of_the_Token_sale)
+    4. [ICO](#ICO)
+    5. [Are Birdchain tokens Securities?](#Are_Birdchain_tokens_Securities?)
+    6. [Please Note](#Please_Note)
+6. [Roadmap](#Roadmap)
 7. [Appendix](#Appendix)
+
+# Token sale
+## Tokens in numbers
+## Purpose of the Token
+## Rules of the Token sale
+## ICO
+## Are Birdchain tokens Securities?
+## Please Note
+
+# Roadmap
+
+##    What We Already Have
+2009-2018.01
+### Knowledge. 
+Since 2009, we have been working as an SMS aggregator. During the period of operation, we acquired in-depth knowledge, and the know-how about the market, operators, other aggregators, regulations and legal aspects in various regions. This experience and knowledge of the market shortcomings became the basis for Birdchain.
+### Technical Base. 
+In 2017 (the year is not over), we have delivered more than 200 million global SMS messages and more than 150 million global messages in 2016. To deliver such quantity of services we acquired very powerful and specific hardware and software solutions. Some of these technologies will be adapted to Birdchain to save time and cost of development.
+### People. 
+We gathered a proper team to bring Birdchain to the A2P SMS market and change it. All our team members have extensive experience working with A2P SMS projects, social network projects, blockchain, marketing, PR, social media, legislation and app development. These experiences are crucial to develop Birdchain app and service.
+
+## Pre-Sale
+2018.01 - 2018.02
+During the first two weeks of the January closed pre-sale will take place. It will be accessible only to the biggest believers of the Birdchain. Open pre-sale will start on January 18, 2018. Contributions colected during the pre-sale will be used to develop a minimum viable product (MVP) and to advertise main ICO event. 
+
+## MVP
+2018.02 - 2018.03
+TBD
+
+## ICO
+TBD
+
+
+## Listing in exchanges
+TBD
+
+## Commercial adaptation
+TBD
+
+### SMS gateway 
+TBD
+### Content engagement
+TBD
+### Private data marketplace
+TBD
+### In-app mini-games
+TBD
+
+## Official launch in MWC Barcelona
+2019.02 TBD
 
 # Appendix
 
-“How off-chain trading will work” by Martin Koeppelmann 
-“Ethereum Lightning Network and Beyond” by Robert McCone 
-“State Channels” by Jeff Coleman 
-“Raiden: Scaling Out With Off-chain State Networks” by Heiko Hees 
-“Epicenter Bitcoin: State Networks” by Jeff Coleman 
-“Universal Payment Channels” by Jehan Tremback 
-“Scalability via State Channels” by Martin Koeppelmann 
-“Ethereum: Platform Review” (page 30) by Vitalik Buterin 
-“Sparky: A Lightning Network in Two Pages of Solidity” by Dennis Peterson 
-“An Introduction to State Channels in Depth” by Ameen Soleimani 
-“State Channels Wiki” by Jeff Coleman 
-“Gamble Channels: Fast Verifiable Off-Chain Gambling” by Denis Peterson 
-“Toy State Channels” Jeff Coleman 
-“Raiden Network” by Brainbot 
-“Machinomy” by Sergey Ukustov 
-http://plasma.io/plasma.pdf
-https://iota.org/IOTA_Whitepaper.pdf
-And many MANY others.
+* “How off-chain trading will work” by Martin Koeppelmann 
+* “Ethereum Lightning Network and Beyond” by Robert McCone 
+* “State Channels” by Jeff Coleman 
+* “Raiden: Scaling Out With Off-chain State Networks” by Heiko Hees 
+* “Epicenter Bitcoin: State Networks” by Jeff Coleman 
+* “Universal Payment Channels” by Jehan Tremback 
+* “Scalability via State Channels” by Martin Koeppelmann 
+* “Ethereum: Platform Review” (page 30) by Vitalik Buterin 
+* “Sparky: A Lightning Network in Two Pages of Solidity” by Dennis Peterson 
+* “An Introduction to State Channels in Depth” by Ameen Soleimani 
+* “State Channels Wiki” by Jeff Coleman 
+* “Gamble Channels: Fast Verifiable Off-Chain Gambling” by Denis Peterson 
+* “Toy State Channels” Jeff Coleman 
+* “Raiden Network” by Brainbot 
+* “Machinomy” by Sergey Ukustov 
+* http://plasma.io/plasma.pdf
+* https://iota.org/IOTA_Whitepaper.pdf
+* And many MANY others.
