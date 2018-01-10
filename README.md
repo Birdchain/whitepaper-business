@@ -13,16 +13,16 @@
         2. The Growing Demand for A2P SMS Service
         3. F.A.Q.
     3. Content engagement
-        1. How it is going to work? 
+        1. How it is going to work?
         2. Testing of the concept
         3. F.A.Q.
     4. In-app mini-games
-        1. How it is going to work? 
+        1. How it is going to work?
         2. F.A.Q.
-    5. Selling personal data
-        1. How it is going to work? 
-        2. Take back control 
-        3. F.A.Q.
+    5. [Personal data marketplance](#Personal_data_marketplance)
+        1. [How it is going to work?](#How_it_is_going_to_work?) 
+        2. [Case studies](#Case_studies)
+        3. [F.A.Q.](#F.A.Q.)
 4. [Business prospects](#Business_prospects)
     1. [SWOT](#SWOT)
     2. [Finances](#Finances)
@@ -35,6 +35,14 @@
     6. [Please Note](#Please_Note)
 6. [Roadmap](#Roadmap)
 7. [Appendix](#Appendix)
+
+# Personal data marketplance
+## How it is going to work? 
+Neprivalomas dalyvavimas. Žmogus pats pasirinks. Tiesioginis duomenų pardavimas ir dalyvavimas apklausose. 
+## Case studies
+FB, Google, Apple tavo informacij1 parduoda nemokamai, o čia gaus pinigų
+## F.A.Q.
+TBD
 
 # Business prospects
 ## SWOT
@@ -69,7 +77,7 @@
 
 
 ## Finances
-
+TBD (updated Ernesto lentelės)
 
 # Token sale
 ## Tokens in numbers
