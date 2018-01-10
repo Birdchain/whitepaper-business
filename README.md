@@ -3,38 +3,38 @@
 ## The app that rewards
 
 1. [Abstract](#abstract)
-2. [Established business. Experienced team](#Established_business)
-3. [Birdchain. The app that rewards](#Birdchain)
-    1. [Raising value of the Token](#Raising_value_of_the_Token)
-        1. [Streams of the Token](#Streams_of_the_Token)
-        2. [GBI - Global Basic Income](#GBI)
-    2. [SMS gateway](#SMS_gateway)
-        1. [How SMS gateway is going to work?](#How_SMS_gateway_is_going_to_work?) 
-        2. [The Growing Demand](#The_Growing_Demand)
-        3. [F.A.Q.](#F.A.Q.)
-    3. [Content engagement](#Content_engagement)
-        1. [How content engagement is going to work?](#How_content_engagement_is_going_to_work?) 
-        2. [Tested concept](#Tested_concept)
-        3. [F.A.Q.](#F.A.Q.)
-    4. [In-app mini-games](#In-app_mini-games)
-        1. [How mini-games are going to work?](#How_mini-games_are_going_to_work?) 
-        2. [F.A.Q.](#F.A.Q.)
-    5. [Personal data marketplace](#Personal_data_marketplace)
-        1. [How marketplace is going to work?](#How_marketplace_is_going_to_work?) 
-        2. [Case studies](#Case_studies)
-        3. [F.A.Q.](#F.A.Q.)
-4. [Business prospects](#Business_prospects)
-    1. [SWOT](#SWOT)
-    2. [Finances](#Finances)
-5. [Token sale](#Token_sale)
-    1. [Tokens in numbers](#Tokens_in_numbers)
-    2. [Purpose of the Token](#Purpose_of_the_Token)
-    3. [Rules of the Token sale](#Rules_of_the_Token_sale)
-    4. [ICO](#ICO)
-    5. [Are Birdchain tokens Securities?](#Are_Birdchain_tokens_Securities?)
-    6. [Please Note](#Please_Note)
-6. [Roadmap](#Roadmap)
-7. [Appendix](#Appendix)
+2. [Established business. Experienced team](#established_business)
+3. [Birdchain. The app that rewards](#birdchain)
+    1. [Raising value of the Token](#raising_value_of_the_Token)
+        1. [Streams of the Token](#streams_of_the_Token)
+        2. [GBI - Global Basic Income](#gbi)
+    2. [SMS gateway](#sms_gateway)
+        1. [How SMS gateway is going to work?](#how_sms_gateway_is_going_to_work?) 
+        2. [The Growing Demand](#the_growing_demand)
+        3. [F.A.Q.](#f.a.q.)
+    3. [Content engagement](#content_engagement)
+        1. [How content engagement is going to work?](#how_content_engagement_is_going_to_work?) 
+        2. [Tested concept](#tested_concept)
+        3. [F.A.Q.](#f.a.q.)
+    4. [In-app mini-games](#in-app_mini-games)
+        1. [How mini-games are going to work?](#how_mini-games_are_going_to_work?) 
+        2. [F.A.Q.](#f.a.q.)
+    5. [Personal data marketplace](#personal_data_marketplace)
+        1. [How marketplace is going to work?](#how_marketplace_is_going_to_work?) 
+        2. [Case studies](#case_studies)
+        3. [F.A.Q.](#f.a.q.)
+4. [Business prospects](#business_prospects)
+    1. [SWOT](#swot)
+    2. [Finances](#finances)
+5. [Token sale](#token_sale)
+    1. [Tokens in numbers](#tokens_in_numbers)
+    2. [Purpose of the Token](#purpose_of_the_Token)
+    3. [Rules of the Token sale](#rules_of_the_Token_sale)
+    4. [ICO](#ico)
+    5. [Are Birdchain tokens Securities?](#are_birdchain_tokens_securities?)
+    6. [Please Note](#please_note)
+6. [Exchanges](#exchanges)
+7. [Appendix](#appendix)
 
 # Abstract
 
@@ -309,40 +309,8 @@ Any citizens and residents of and persons located in Russia, China, Canada or th
  
 Birdchain does not make and hereby disclaims, any representation, warranty or undertaking in any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
-# Roadmap
-
-##    What We Already Have
-2009-2018.01
-### Knowledge. 
-Since 2009, we have been working as an SMS aggregator. During the period of operation, we acquired in-depth knowledge, and the know-how about the market, operators, other aggregators, regulations and legal aspects in various regions. This experience and knowledge of the market shortcomings became the basis for Birdchain.
-### Technical Base. 
-In 2017 (the year is not over), we have delivered more than 200 million global SMS messages and more than 150 million global messages in 2016. To deliver such quantity of services we acquired very powerful and specific hardware and software solutions. Some of these technologies will be adapted to Birdchain to save time and cost of development.
-### People. 
-We gathered a proper team to bring Birdchain to the A2P SMS market and change it. All our team members have extensive experience working with A2P SMS projects, social network projects, blockchain, marketing, PR, social media, legislation and app development. These experiences are crucial to develop Birdchain app and service.
-
-## Pre-Sale
-2018.01 - 2018.02
-During the first two weeks of the January closed pre-sale will take place. It will be accessible only to the biggest believers of the Birdchain. Open pre-sale will start on January 18, 2018. Contributions colected during the pre-sale will be used to develop a minimum viable product (MVP) and to advertise main ICO event. 
-
-## MVP
-2018.02 - 2018.03
-TBD
-## ICO
-TBD
-## Listing in exchanges
-TBD
-## Commercial adaptation
-TBD
-### SMS gateway 
-TBD
-### Content engagement
-TBD
-### Private data marketplace
-TBD
-### In-app mini-games
-TBD
-## Official launch in MWC Barcelona
-2019.02 TBD
+# Exchanges
+We believe that it is better to get listed in one major exchange than in couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Binance** or **Bittrex**. Our calculations are that token will be listed within a month after our ICO.
 
 # Appendix
 * “How off-chain trading will work” by Martin Koeppelmann 
