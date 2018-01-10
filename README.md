@@ -19,7 +19,7 @@
     4. [In-app mini-games](#In-app_mini-games)
         1. [How mini-games are going to work?](#How_mini-games_are_going_to_work?) 
         2. [F.A.Q.](#F.A.Q.)
-    5. [Personal data marketplance](#Personal_data_marketplance)
+    5. [Personal data marketplace](#Personal_data_marketplace)
         1. [How marketplace is going to work?](#How_marketplace_is_going_to_work?) 
         2. [Case studies](#Case_studies)
         3. [F.A.Q.](#F.A.Q.)
@@ -79,7 +79,6 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 
 7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
-
 # Birdchain
 
 # Raising value of the Token
@@ -96,7 +95,6 @@ However, Birdchain does not guarantee any revenue to Birdchain token holder or t
 
 # SMS gateway
 Naudoja FB, Google ir panašiai
-
 ![SMS stats](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png?raw=true)
 
 You may wonder:
@@ -127,15 +125,12 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 * No need to install additional apps. SMS messages can be received and read on any mobile phone in any network, almost anywhere in the world.
 
 **In the ideal world**, when business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMSs and operators that CAN send them.
-
 ![Ideal SMS path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png?raw=true)
 
 **In real world**, it is not that straightforward.
-
 ![Real-world path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/09.png?raw=true)
 
 As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straigh as possible.
-
 ![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png?raw=true)
 
 **The problems:**
@@ -274,10 +269,32 @@ TBD (updated Ernesto lentelės)
 
 # Token sale
 ## Tokens in numbers
+
 ## Purpose of the Token
+Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
+The Birdchain token holders are only entitled to use the A2P SMS distribution service as described in this document if successfully developed, or to resell the tokens.
+
+The BIRD token itself will be based on Ethereum, a blockchain-based computing platform. Ethereum allows smart contracts, distributed computer programs that can facilitate online contractual agreements in a cryptographically secure manner.
+
+Smart contracts are what enables the existence of Birdchain token as a truly transparent and decentralized service. This technology also ensures that Birdchain eliminates the need for intermediaries and having a central authority you need to trust. Through smart contracts the complex process of choosing peers, tracking delivery, and facilitating bidding/payment can be described in the contract itself, while still running on the distributed Ethereum network and taking advantage of the blockchain features.
+
+BIRDs are distributed and kept on the main Ethereum network. To optimise the transaction cost and performance, all micro transactions are processed off-chain and only the final stakes are returned to the Ethereum network. We believe in idea of keeping tokens on Ethereum and see it as a bank platform which is excellent for entering exchange markets.
+![Token flow](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node2.png?raw=true)
+
 ## Rules of the Token sale
 ## ICO
 ## Are Birdchain tokens Securities?
+**No**, Birdchain tokens are **NOT** and are not intended to be securities, financial instruments, or investment products of any kind.
+
+For example, with a purposes of financial regulation in the European Union a “security” is often defined with a reference to “transferable security” within the meaning of the EU Directive on markets in financial instruments (MiFID)[13]. According to MiFID, “transferable securities” means those classes of securities which are negotiable on the capital market, with an exception of instruments of payment, such as:
+1. shares in companies and other securities equivalent to shares in companies, partnerships or other entities, and depositary receipts in respect of shares;
+2. bonds or other forms of securitised debt, including depositary receipts in respect of such securities;
+3. any other securities giving the right to acquire or sell any such transferable securities or giving rise to a cash settlement determined by reference to transferable securities, currencies, interest rates or yields, commodities or other indices or measures.
+BIRD does not qualify as “transferable security” for the above purposes.
+
+BIRD as a utility token in the future will only provide opportunity to access Birdchain services. The aim of the BIRD is to make it possible to exchange SMSs between the people wishing to access them and the people wishing to dispose extra SMSs.
+
+The BIRD has a specific utility use case. It serves a crucial role in settlement-making with a potentially very large number of mobile phones on the Birdchain network by allowing a fast and open blockchain-based transaction protocol that would not be possible using fiat currency. If the BIRD was not be based on the blockchain technology, it would be similar to purchasing a ticket or any other document which proves that the person has a right to use a particular service.
 
 ## Please Note
 In this white paper, references to “Birdchain”, “we”, “us” or “our” are to Birdchain OÜ, a company incorporated under the laws of Estonia with registry code 14362929, and references to “BIRD” or “Birdchain token” are to blockchain tokens created by Birdchain in connection with the project described in this white paper. In some cases, the term “Birdchain” has also been used to refer to the service proposed to be developed by us.         
@@ -310,17 +327,12 @@ During the first two weeks of the January closed pre-sale will take place. It wi
 ## MVP
 2018.02 - 2018.03
 TBD
-
 ## ICO
 TBD
-
-
 ## Listing in exchanges
 TBD
-
 ## Commercial adaptation
 TBD
-
 ### SMS gateway 
 TBD
 ### Content engagement
@@ -329,12 +341,10 @@ TBD
 TBD
 ### In-app mini-games
 TBD
-
 ## Official launch in MWC Barcelona
 2019.02 TBD
 
 # Appendix
-
 * “How off-chain trading will work” by Martin Koeppelmann 
 * “Ethereum Lightning Network and Beyond” by Robert McCone 
 * “State Channels” by Jeff Coleman 
