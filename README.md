@@ -61,9 +61,9 @@ Team of Birdchain are individuals with a set of unique experiences **to make Bir
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](htttps://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. **We will adapt this knowledge in Birdchain app and service**.
+**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](https://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. **We will adapt this knowledge in Birdchain app and service**.
 
-In 2013 we invested in manufacturing of **advanced micro lasers** - [Integrated Optics](https://integratedoptics.com)(. Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
+In 2013 we invested in manufacturing of **advanced micro lasers** - [Integrated Optics](https://integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service [BeKredito.lt](https://www.bekredito.lt).
 
