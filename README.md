@@ -63,9 +63,9 @@ The founding team has successfully co-launched several different businesses:
 
 **Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](htttps://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. **We will adapt this knowledge in Birdchain app and service**.
 
-In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
+In 2013 we invested in manufacturing of **advanced micro lasers** - [Integrated Optics](https://integratedoptics.com)(. Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
-**Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
+**Retail**. In 2013 we launched the first in the region rent-to-buy service [BeKredito.lt](https://www.bekredito.lt).
 
 Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
