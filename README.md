@@ -5,7 +5,7 @@
 1. [Abstract](#abstract)
 2. [Established business. Experienced team](#established_business)
 3. [Birdchain. The app that rewards](#birdchain)
-    1. [Raising value of the Token](#raising_value_of_the_Token)
+    1. [Raising value of the Token](#value_of_the_Token)
         1. [Streams of the Token](#streams_of_the_Token)
         2. [GBI - Global Basic Income](#gbi)
     2. [SMS gateway](#sms_gateway)
@@ -55,17 +55,17 @@ The combined per country turnover and EBITDA of Vertex is growing every year.
 2013 | 2-3M euro | 17% |
 2012 | 2-3M euro | 16% |
 
-[Vertex](https://www.vertex.lt) owns several brands - [VertexSMS](https://www.vertexsms.com) is one of them. Founders of the company gathered Birdchain team members from other brands. It means that members of the team of Birdchain know each other and have been working together for many years. **This decision eliminates possibilities of team not being able to work together and creates really healthy, creative and productive working atmosphere.**
+Vertex owns several brands - VertexSMS is one of them. Founders of the company gathered Birdchain team members from other brands. It means that members of the team of Birdchain know each other and have been working together for years. This decision eliminates possibilities of team not being able to work together and creates really healthy, creative and productive working atmosphere.
 
-Team of Birdchain are individuals with a set of unique experiences **to make Birdchain fly**. Of course, most of the Birdchain team have experience of working in global A2P SMS market and shares an extended know-how about regulations, key players, technologies and other aspects. Other team members are experts in marketing, business development, law, and software development. 
+Team of Birdchain are individuals with a set of unique experiences to make Birdchain fly. Of course, most of the Birdchain team have experience of working in global A2P SMS market and shares an extended know-how about regulations, key players, technologies and other aspects. Other team members are experts in marketing, business development, law, and software development. 
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](https://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. **We will adapt this knowledge in Birdchain app and service**.
+**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee and others). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
 
-In 2013 we invested in manufacturing of **advanced micro lasers** - [Integrated Optics](https://integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
+In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
-**Retail**. In 2013 we launched the first in the region rent-to-buy service [BeKredito.lt](https://www.bekredito.lt).
+**Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
 
 Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
@@ -80,14 +80,42 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
 # Birdchain
+Comming soon
 
-# Raising value of the Token
+# Value of the Token
+Our goal is to create strong token which would be useful for our contributors and could circulate in the world easily. We believe that circulation and spread of the token is the key to its value. The more people and companies would use our token, the more it would be used, the stronger it will be. Here are some key points that makes BIRD token to stand out:
+1. **Low initial cost**. During the ICO, the BIRD will be sold at the lowest price to create a higher incentive for contributors. 
+2. **Token flexibility**. When the BIRD value and demand increases, it can be fragmented into 18 decimals to serve the market needs. 
+3. **Unique currency**. Exclusively BIRD tokens are used for purchasing Birdchain A2P service and rewarding Birdchain app users. Ensuring the BIRD token has a real demand. 
+4. **Favorable viability**. To have a sustainable business it needs only 100 000 app installs. Each phone can sell about 100 SMS per day on a very conservative approach.
+5. **High desirability**. Providing the possibility of an income to its users, the Birdchain App is highly appealing to the public. The more users install the app, the more SMS flux it creates meaning a faster BIRD rotation, demand and appreciation. 
+6. New features and higher **BIRD circulation**. We will drive demand and circulation of BIRDs with new Birdchain features and services.
+7. **Embracing the competition**. Our A2P SMS service will be appealing to all companies that look for lower SMS price and high quality service. 
+8. Detailed **financial forecast**. Check it out here: [Finances](#finances)
+
 ## Streams of the Token
+This how BIRD token is going to circulate in the market. Please note that these schematics are simplified.
+
+### ICO stage
+![ICO stage](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-01.png?raw=true)
+
+### Earning from unused SMS sales
+![Earning from unused SMS sales](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-02.png?raw=true)
+
+### Spending BIRD tokens
+![Spending BIRD tokens](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-03.png?raw=true)
+
+### BIRD token circulation
+![ICO stage](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_4_FIX-04.png?raw=true)
+
+### Full scheme of BIRD token circulation
+![Full scheme of BIRD token circulation](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-05.png?raw=true)
+
 ## GBI
 The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology. Make it better, faster, more transparent and fair-priced. Although, we believe soon it will become obvious that Birdchain is a lot more than just a (r)evolutionary idea. 
 
 We believe Birdchain will be the first ever (in the history of the world!) non-governmental initiative to create Global Basic Income. 
-Depending on a country and market activity users of Birdchain app could be able to **earn 30-300 USD per month**. It means that Birdchain could create basic passive income for its users globally. 
+Depending on a country and market activity users of Birdchain app could be able to earn 30-300 USD per month. It means that Birdchain could create basic passive income for its users globally. 
 
 We see this feature as huge marketing opportunity and a chance to stand out in a global market of messaging apps. 
 
