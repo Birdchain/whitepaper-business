@@ -67,15 +67,15 @@ In 2013 we invested in manufacturing of **advanced micro lasers** (integratedopt
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
 
-Birdchain team is led by Ernestas Petkevicius, Audrius Vrubliauskas, Aurimas Sabaitis, Marius Petrauskas, Arminas Keraitis, Simas Radkevicius, Kristina Mataciunaite, Martynas Rackauskas, Aiste Surutkoviciute, and Zygimantas Vanagas.
+Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
 ### Advisors
 
-**Anatoly Ressin.** 
+**[Anatoly Ressin](https://www.linkedin.com/in/anatolyressin)** 
 
 A founder of Fastr, a reading-training application development firm, and AssistUnion which builds intelligent and performing web-enabled systems. Also has been a team member of Civic as a contractor, senior software developer at C.T.Co and #Decent as a core developer. At the moment he is a CEO of BlockVis a company involved in organizing blockchain competence and education opportunities and structuring the blockchain market in Latvia and abroad.
 
-**Andreas Petrow**
+**[Andreas Petrow](https://www.linkedin.com/in/andreypetrow)**
 
 7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
