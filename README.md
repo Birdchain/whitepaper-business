@@ -39,9 +39,9 @@
 # Abstract
 
 # Established business
-The team behind Birdchain has been part of the European-based company JSC “Vertex”.  In 2009 Vertex started our A2P SMS aggregation business called VertexSMS. Since then VertexSMS has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo and many others.
+The team behind Birdchain has been part of [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/).  In 2009 Vertex started our A2P SMS aggregation business called [VertexSMS](https://vertexsms.com/?lang=en). Since then [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo and many others.
  
-Vertex is a profitable company. In 2015 Vertex received award for being the fastest growing ITT company in Lithuania and Vertex continued the growth in 2016 as well. Moreover, in 2012 2012 Vertex was recognized as one of the fastest growing companies in Latvia.
+Vertex is a profitable company. In 2015 Vertex received award for being the fastest growing IT company in Lithuania and Vertex continued the growth in 2016 as well. Moreover, in 2012 Vertex was recognized as one of the fastest growing companies in Latvia.
 In early 2015 Vertex was certified in the field of information security management and received an ISO/IEC 27001 certificate. The certificate is adapted through all of our businesses that are held in Vertex headquarters: dating sites, bulk SMS sending systems and rent-to-own company. Now these procedures are being applied to Birdchain.
 
 The combined per country turnover and EBITDA of Vertex is growing every year. 
@@ -310,7 +310,7 @@ Any citizens and residents of and persons located in Russia, China, Canada or th
 Birdchain does not make and hereby disclaims, any representation, warranty or undertaking in any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
 # Exchanges
-We believe that it is better to get listed in one major exchange than in couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Binance** or **Bittrex**. Our calculations are that token will be listed within a month after our ICO.
+We believe that it is better to get listed in one major exchange than in couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Binance**, **Bittrex**, or **Kucoin**. Our calculations are that token will be listed within a month after our ICO.
 
 # Appendix
 * “How off-chain trading will work” by Martin Koeppelmann 
