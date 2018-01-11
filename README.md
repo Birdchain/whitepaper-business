@@ -55,13 +55,13 @@ The combined per country turnover and EBITDA of Vertex is growing every year.
 2013 | 2-3M euro | 17% |
 2012 | 2-3M euro | 16% |
 
-Vertex owns several brands - VertexSMS is one of them. Founders of the company gathered Birdchain team members from other brands. It means that members of the team of Birdchain know each other and have been working together for years. This decision eliminates possibilities of team not being able to work together and creates really healthy, creative and productive working atmosphere.
+[Vertex](https://www.vertex.lt) owns several brands - [VertexSMS](https://www.vertexsms.com) is one of them. Founders of the company gathered Birdchain team members from other brands. It means that members of the team of Birdchain know each other and have been working together for many years. **This decision eliminates possibilities of team not being able to work together and creates really healthy, creative and productive working atmosphere.**
 
-Team of Birdchain are individuals with a set of unique experiences to make Birdchain fly. Of course, most of the Birdchain team have experience of working in global A2P SMS market and shares an extended know-how about regulations, key players, technologies and other aspects. Other team members are experts in marketing, business development, law, and software development. 
+Team of Birdchain are individuals with a set of unique experiences **to make Birdchain fly**. Of course, most of the Birdchain team have experience of working in global A2P SMS market and shares an extended know-how about regulations, key players, technologies and other aspects. Other team members are experts in marketing, business development, law, and software development. 
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee and others). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
+**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](htttps://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
 
 In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
