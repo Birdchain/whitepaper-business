@@ -192,7 +192,7 @@ Until recent years, SMS marketing also used to be considered fast, safe, and rel
 
 Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages: SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
 
-![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/01.png?raw=true)
+![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/WP-Grafikai01.png?raw=true)
 >>>>grafikas 
 
 
