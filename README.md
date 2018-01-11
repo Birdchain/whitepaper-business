@@ -122,7 +122,19 @@ We see this feature as huge marketing opportunity and a chance to stand out in a
 However, Birdchain does not guarantee any revenue to Birdchain token holder or the user of the Birdchain app. 
 
 # SMS gateway
-Naudoja FB, Google ir panašiai
+An Application To Person (A2P) SMS is sent from an application — typically a web app — to a mobile subscriber. There are several types of the most popular A2P SMS:
+* SMS notifications;
+* SMS-based two-factor authentications;
+* Automatic booking confirmations;
+* One-time passwords;
+* Loyalty programs and marketing messages.
+
+Transactional SMS service is mostly used by social networks and companies which provide services of e-commerce and online retail, travel and transportation, financial services and payments, and gaming. Because of their effectiveness, promotional messages are sent by companies operating in almost all markets.
+
+Some examples of a transactional SMSs:
+* G-123456 is your Google verification code.
+* Hair Salon appointment reminder: haircut tomorrow at 10:30am with Charles. If you have any questions, please call 0161 5555555.
+
 ![SMS stats](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png?raw=true)
 
 You may wonder:
@@ -246,21 +258,39 @@ Answer to this question highly depends on a country and demand of Birdchain serv
 *Please note that Birdchain itself does not guarantee any payments to its users.*
 
 # Content engagement
+Comming soon
+
 ## How content engagement is going to work?
+Comming soon
+
 ## Tested concept
+Comming soon
+
 ## F.A.Q.
+Comming soon
+
 
 # In-app mini-games
+Comming soon
+
 ## How mini-games are going to work?
+Comming soon
+
 ## F.A.Q.
+Comming soon
+
 
 # Personal data marketplance
+Comming soon
+
 ## How marketplace is going to work? 
-Neprivalomas dalyvavimas. Žmogus pats pasirinks. Tiesioginis duomenų pardavimas ir dalyvavimas apklausose. 
+Comming soon
+
 ## Case studies
-FB, Google, Apple tavo informacij1 parduoda nemokamai, o čia gaus pinigų
+Comming soon
+
 ## F.A.Q.
-TBD
+Comming soon
 
 # Business prospects
 ## SWOT
@@ -293,10 +323,13 @@ TBD
 
 
 ## Finances
-TBD (updated Ernesto lentelės)
+Comming soon
 
 # Token sale
+Comming soon
+
 ## Tokens in numbers
+Comming soon
 
 ## Purpose of the Token
 Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
@@ -310,7 +343,11 @@ BIRDs are distributed and kept on the main Ethereum network. To optimise the tra
 ![Token flow](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node2.png?raw=true)
 
 ## Rules of the Token sale
+Comming soon
+
 ## ICO
+Comming soon
+
 ## Are Birdchain tokens Securities?
 **No**, Birdchain tokens are **NOT** and are not intended to be securities, financial instruments, or investment products of any kind.
 
