@@ -61,7 +61,7 @@ Team of Birdchain are individuals with a set of unique experiences **to make Bir
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](htttps://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
+**Social network** with more than **1 000 000 unique users** ([flirtas.lt](https://www.flirtas.lt), [flirts.lv](https://www.flirts.lv), [flirtak.pl](htttps://www.flirtak.pl), [teidi.ee](http://www.teidi.ee), [flertik.hr](http://www.flertik.hr) and [hotvibes.com](http://www.hotvibes.com)). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. **We will adapt this knowledge in Birdchain app and service**.
 
 In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
@@ -87,7 +87,7 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology. Make it better, faster, more transparent and fair-priced. Although, we believe soon it will become obvious that Birdchain is a lot more than just a (r)evolutionary idea. 
 
 We believe Birdchain will be the first ever (in the history of the world!) non-governmental initiative to create Global Basic Income. 
-Depending on a country and market activity users of Birdchain app could be able to earn 30-300 USD per month. It means that Birdchain could create basic passive income for its users globally. 
+Depending on a country and market activity users of Birdchain app could be able to **earn 30-300 USD per month**. It means that Birdchain could create basic passive income for its users globally. 
 
 We see this feature as huge marketing opportunity and a chance to stand out in a global market of messaging apps. 
 
