@@ -236,7 +236,7 @@ Despite these A2P SMS market defects, the demand for this service is increasing 
 >>>>grafikas 
 
 
-## F.A.Q.
+## SMS F.A.Q.
 **Will Birdchain send messages to my contact list?**
 No. Birdchain will send SMS messages only to numbers that are provided by company. Businesses will have to collect their database of contacts by its own. Birdchain will only facilitate the service of A2P SMS distribution.
 
@@ -266,7 +266,7 @@ Comming soon
 ## Tested concept
 Comming soon
 
-## F.A.Q.
+## Content F.A.Q.
 Comming soon
 
 
@@ -276,7 +276,7 @@ Comming soon
 ## How mini-games are going to work?
 Comming soon
 
-## F.A.Q.
+## Mini-games F.A.Q.
 Comming soon
 
 
@@ -289,7 +289,7 @@ Comming soon
 ## Case studies
 Comming soon
 
-## F.A.Q.
+## Marketplace F.A.Q.
 Comming soon
 
 # Business prospects
