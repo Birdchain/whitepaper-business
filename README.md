@@ -3,7 +3,7 @@
 ## The app that rewards
 
 1. [Abstract](#abstract)
-2. [Established business. Experienced team](#established_business)
+2. [Established business](#established_business)
 3. [Birdchain. The app that rewards](#birdchain)
     1. [Raising value of the Token](#value_of_the_Token)
         1. [Streams of the Token](#streams_of_the_Token)
