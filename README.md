@@ -3,11 +3,11 @@
 ## The app that rewards
 
 1. [Abstract](#abstract)
-2. [Established business](#established_business)
-3. [Birdchain. The app that rewards](#birdchain)
-    1. [Raising value of the Token](#value_of_the_Token)
-        1. [Streams of the Token](#streams_of_the_Token)
-        2. [GBI - Global Basic Income](#gbi)
+2. [Established business](#established-business)
+3. [Birdchain. The app that rewards](#birdchain-the-app-that-rewards)
+    1. [Raising value of the Token](#value-of-the-token)
+        1. [Streams of the Token](#streams_of_the_token)
+        2. [GBI - Global Basic Income](#gbi-global-basic-income)
     2. [SMS gateway](#sms_gateway)
         1. [How SMS gateway is going to work?](#how_sms_gateway_is_going_to_work?) 
         2. [The Growing Demand](#the_growing_demand)
@@ -79,7 +79,7 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 
 7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
-# Birdchain
+# Birdchain. The app that rewards
 Comming soon
 
 # Value of the Token
@@ -111,7 +111,7 @@ This how BIRD token is going to circulate in the market. Please note that these 
 ### Full scheme of BIRD token circulation
 ![Full scheme of BIRD token circulation](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-05.png?raw=true)
 
-## GBI
+## GBI - Global Basic Income
 The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology. Make it better, faster, more transparent and fair-priced. Although, we believe soon it will become obvious that Birdchain is a lot more than just a (r)evolutionary idea. 
 
 We believe Birdchain will be the first ever (in the history of the world!) non-governmental initiative to create Global Basic Income. 
