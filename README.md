@@ -344,23 +344,11 @@ Individualy asigned cap for all contributors - 300 Ether. Does not apply for coo
 | Totals    | 10,500    | 41,000,000    | 441,000,000   |                   | 
 
 ### Token distribution
-| PIE                                                           | %     | ETH        | BIRDS        |
-| :---                                                          | :---: | :---:      | :---:        | 
-| ICO                                                           | 76    | 10,500.00  | 441,000,000  |
-| Team                                                          | 5     | 690.79     | 29,013,158   |
-| Founders                                                      | 4     | 552.63     | 23,210,526   | 
-| Coorporate contributors                                       | 10    | 1,381.58   | 58,026,316   | 
-| Special coins                                                 | 1     | 138.16     | 5,802,632    |
-| Other                                                         | 4     | 552.63     | 23,210,526   | 	 
-|                                               **Total**       | 100   | 13,815.789 | 580,263,158  | 
 
-**Explanations**
-* **ICO** - Total ICO pool 
-* **Team** - Locked for 4 years. Every 12 months 25% are unlocked and distributed amongst team members.
-* **Founders** - Locked for 2 years. 50% are unlocked every 12 months. 
-* **Coorporate contributors** - Tokens used as incentive to attract major comapanies to test and start using our services.
-* **Special coins** - Bonus coins that are used as a marketing measure to attract contributors. There 2 types of coins: silver (1 Ether worth) and gold (5 Ether worth). There are made 1000 metal special coins, they will work only during pre-sale and ICO.
-* **Other** - Legal, incooporation, advisors,3th party services, marketing.
+* Maximum coin supply 580,263,158
+* Total ICO distribution 441,000,000
+* Team and founders 52,223,684
+* Involving oorporate contributors and other expenses 580,263,158
 
 ## Purpose of the Token
 Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
