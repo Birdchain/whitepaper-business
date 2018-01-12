@@ -1,5 +1,5 @@
 
-# Birdchain - White paper
+# Birdchain - Business white paper
 ## The app that rewards
 
 1. [Abstract](#abstract)
