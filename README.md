@@ -78,7 +78,7 @@ The founding team has successfully co-launched several different businesses:
 
 **Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee and others). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
 
-In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Eastern European start-ups. Currently we have more orders for our lasers than we manufacture. 
+In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Northern European start-ups. Currently we have more orders for our lasers than we manufacture. 
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
 
@@ -311,6 +311,8 @@ Comming soon
 
 # In-app mini-games
 To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users would be able to spend the earned tokens. Marketplace of in-app applications will the that space where users will be able to install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in the creation of the perfect IM application. However, the greatest potential we are seeing in the growing mobile gaming market. 
+
+![Mobile game market](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/MobileGames2.png)
 
 ## How mini-games are going to work?
 The Birdchain app will hold a marketplace where users will be able to download the needed extension. It could be a work-friendly app (such as a calendar, work scheduler, or a calculator), or some uncomplicated games.
