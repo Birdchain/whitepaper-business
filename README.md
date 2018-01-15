@@ -21,7 +21,7 @@
         2. [Mini-games F.A.Q.](#mini-games-faq)
     5. [Personal data marketplace](#personal-data-marketplance)
         1. [How marketplace is going to work?](#how-marketplace-is-going-to-work) 
-        2. [Case studies](#case-studies)
+        2. [Working examples](#working-examples)
         3. [Marketplace F.A.Q.](#marketplace-faq)
 4. [Business prospects](#business-prospects)
     1. [SWOT](#swot)
@@ -37,6 +37,21 @@
 7. [Appendix](#appendix)
 
 # Abstract
+Team of the Birdchain is **not** a start-up. It is part of a parent company named Vertex. Vertex is a profitable company with a team of experienced professionals whose profesionalism and skills were tested in action. The founding team has successfully co-launched several different businesses. 
+ 
+Birdchain is a decentralized application (Dapp), similar to instant messenger. The big diference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
+
+All features of the Birdchain are designed to create strong BIRD token. It stands out with low initial cost and token flexibility, as a unique currency with favorable viability. 
+
+The official app presentation is planned at the Mobile World Congress in Barcelona in 2019. 
+
+In short:
+1) Birdchain is DApp that rewards;
+2) The intelligent features system create internal economics and allow people to earn and spend money within the app;
+3) Dapps are the future of the blockchain. Everyone at the moment invests in protocols rather than actual applications. A comparison: whether to invest in HTML protocol or an Uber app? 
+
+**Join the ICO with the potential of real adaptability in the future.**
+
 
 # Established business
 The team behind Birdchain has been part of [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/).  In 2009 Vertex started our A2P SMS aggregation business called [VertexSMS](https://vertexsms.com/?lang=en). Since then [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo and many others.
@@ -67,7 +82,7 @@ In 2013 we invested in manufacturing of **advanced micro lasers** (integratedopt
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
 
-Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
+Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Joao Martins](https://www.linkedin.com/in/joao-martins-porto), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
 ### Advisors
 
@@ -80,7 +95,17 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
 # Birdchain. The app that rewards
-Comming soon
+Birdchain is a decentralized app that will help people to make a passive income and simultaneously will offer cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
+
+The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive money transfers and will be capable of earn income to the app holder. Our contributors will be able to test the version first. We will take into account their feedback and will improve our app and tune it in line with the recommendations, for the perfect launching.
+
+The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to sell unused SMS and also an opportunity to amass cryptocurrency from SMS messages. We will start with this feature because it has the highest potential of money earning in the beginning. Additionally, we have specialized in SMS delivery business for nearly ten years and hold the deep understanding of market specifics and SMS transmission technologies. Also, this will allow users to start earning money from the very first day. 
+
+Next step will be taking on the other features described in this WP, which will allow people to earn money: Content Engagement, Personal Data Marketplace, and 3rd party in-app mini games.
+
+All methods of money earning will be based on the volunteering principle. App users will be personally able to choose the means and amount of possible earnings.
+
+We will officially present the app at the Mobile World Congress in Barcelona in 2019.
 
 # Raising value of the token
 Our goal is to create strong token which would be useful for our contributors and could circulate in the world easily. We believe that circulation and spread of the token is the key to its value. The more people and companies would use our token, the more it would be used, the stronger it will be. Here are some key points that makes BIRD token to stand out:
@@ -258,36 +283,85 @@ Answer to this question highly depends on a country and demand of Birdchain serv
 *Please note that Birdchain itself does not guarantee any payments to its users.*
 
 # Content engagement
-Comming soon
+One of the easiest ways for people to start earning money will be the involvement in the content engagement. Foremost, we will develop the opportunity to receive BIRD Tokens for previewing the adverts. Later, we will install a live stream and provide other opportunities of content broadcast.
 
 ## How content engagement is going to work?
-Comming soon
+
+**Video viewing**
+
+For every video ad preview, users will get a reward of a certain amount of tokens. To accomplish this, users ought to open a designated app section and begin previewing the adverts. After the video preview, BIRD tokens would be automatically transferred to their account.
+
+Companies will be able to choose the amount they are willing to pay for an video preview and indicate their target group demographics: location, age, gender and other data. The company will only have to indicate the amount their want to assign (and transfer the sum as BIRD tokens), then choose the maximum amount of payment for a single preview, the number of times the entry could be previewed by the same person, and the preview video ad duration required, to merit earning the preview payment. The price of a single preview will be calculated accordingly. In case the company's campaign budget is not expended, the remaining amount will return to the company's wallet.
+
+**Live stream**
+
+At a later stage, we will enable users to create and broadcast the content within the Birdchain app. The viewers will be able to stream the content for free or after paying the number of BIRD tokens set by the content generating user. In both cases, viewers will be able to additionally donate BIRD tokens if they'll like the content.
+
+At the moment, the best example of such merit-based gaining would be the twitch.tv platform where people share how they play games and are rewarded by other players/viewers. Indeed, that is not the only adaptation of this feature. Users will be able to share moments of their life, travel or adventure.
 
 ## Tested concept
-Comming soon
+This feature has the potential of becoming the main momentum of Bird token circulation. The team developing Birdchain has previously engaged in developing the social network with over 1 million of unique users. The content engagement feature has proved to be very successful. 
+
+Experimenting with new opportunities for members to broadcast adverts, we have developed a system allowing granting rewards for users for previewing video ads. The results of user involvement were exceptionally good. Within a 6-month period since the feature launching, **80 percent** of the online users were using it. 
+
+As it turned out, people aren't against viewing corporate advertisements multiple times, as long as they are getting at least a symbolical reward for that. The main users' request was to be able to view more varied and diverse advertisements. 
 
 ## Content F.A.Q.
 Comming soon
 
-
 # In-app mini-games
-Comming soon
+To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users would be able to spend the earned tokens. Marketplace of in-app applications will the that space where users will be able to install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in the creation of the perfect IM application. However, the greatest potential we are seeing in the growing mobile gaming market. 
 
 ## How mini-games are going to work?
-Comming soon
+The Birdchain app will hold a marketplace where users will be able to download the needed extension. It could be a work-friendly app (such as a calendar, work scheduler, or a calculator), or some uncomplicated games.
+
+In the starting stages of the Birdchain app development, the Birdchain team themselves will present several simple yet engaging games, for users to spend their earned valuables. For example, we know from previous experience the slot machine game will be very successful.
+
+At the same time, we will create the SDK (software development kit) to third parties, so they would be able to develop games and apps customizable to the Birdchain application. Those will be placed on a marketplace and app users will be able to find and select the most enchanting ones for them.
+
+Birdchain app users will pay with BIRD tokens for the installed applications and games. Third parties will be able to choose the preferred monetization method.  We expect about 20 percent of the apps to be sold by "pay and hold" principle, and the remaining will be charged by subscription.
 
 ## Mini-games F.A.Q.
 Comming soon
 
-
 # Personal data marketplance
-Comming soon
+Facebook, Google, Apple and other companies collect and sell not only the demographic data of their users but also information about their hobbies and habits. And people get no benefits for providing this information. Birdchain Personal data marketplace reinstates the personal data processing to the people.
+
+*Important: Birdchain will not store any personal consumers' information and will not share it with other parties, with the exception of the information necessary for providing Birdchain services and helping people to earn valuables.*
 
 ## How marketplace is going to work? 
-Comming soon
+This tool will work in two ways: it will allow companies to conduct surveys or to directly purchase their personal data.
 
-## Case studies
-Comming soon
+In the app settings, people will be able to set whether they want additional earnings by participating in such surveys and by providing their personal information to third parties. The Birdchain app will require entering some demographic information about the user.
+
+**Surveys**
+Based upon to users' demographic information, the company will have an opportunity to offer users to participate in surveys and be rewarded for participation. The remuneration amount will be set by the company.
+
+We will notify the randomly selected user about the possibility to share their opinion and gain BIRD tokens. They will be provided with company's information, the survey theme and the remuneration amount for the answers. The user will be rewarded after completing the questionnaire.
+
+**Personal data**
+This feature is more expensive than surveys, but companies can acquire considerably more valuable information.
+
+Companies seeking to purchase Birdchain users' personal data will be required to indicate the search target, sample size, the type of information they want to receive and how much they are willing to pay for personal data of a single user.
+
+The Birdchain app will randomly select individuals from the list of users that meet the company's specified criteria. Users will be notified about the possibility of selling their personal data. They will be provided with company's information, the required data specificity and the amount of BIRD token remuneration. A person will be able to confirm or reject the offer.
+
+By choosing to confirm the offer, the person will have to input all the required personal information. For example, contact details, birthday, sex, place of residence, lifestyle, habits, income, and etc. A person will receive a reward immediately.
+
+## Working examples
+Tech giants like Facebook and Google dominate of the global digital advertising market year after year. Google is likely to make $72.69 billion in ad revenues in 2017, while Facebook will make $33.76 billion. Together, that equates to a 46.4 percent share of advertisers' total global digital ad spend. 
+
+To become world leader *both companies had to bend our perception of privacy*. 
+
+Google saves every user’s search history. As a large part of the search giant's business model is based around advertising, it needs to know who are their users. Google uses the advantage of storing personal data. 
+
+Facebook uses private personal data and with the help of advanced algorithms tracks users even when they are not using Facebook, because of their extensive surveillance network on sites that link to them. 
+
+Additionally, Facebook and Google (and other companies) collect and sell not only the users' demographic data but also information about their hobbies and habits. And people get no benefits for providing this invaluable information simply by agreeing with imposed privacy policies of such tech giants. 
+
+*As Birdchain is based upon volunteering principle*, users’ will decide how much of their personal information they are willing to relinquish. Birdchain will not store any personal consumers' information and will not share it with other parties, with the exception of the information necessary for providing Birdchain services. 
+
+Essentially, Birdchain is disrupting the market by reinstating the control of personal data and other information back to the people. 
 
 ## Marketplace F.A.Q.
 Comming soon
