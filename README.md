@@ -54,10 +54,11 @@ In short:
 
 
 # Established business
-The team behind Birdchain has been part of [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/).  In 2009 Vertex started our A2P SMS aggregation business called [VertexSMS](https://vertexsms.com/?lang=en). Since then [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo and many others.
+The team behind Birdchain has been a part of  [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/).  In 2009 Vertex started our A2P SMS aggregation business called [VertexSMS](https://vertexsms.com/?lang=en). Since then [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo, and many others.
  
-Vertex is a profitable company. In 2015 Vertex received award for being the fastest growing IT company in Lithuania and Vertex continued the growth in 2016 as well. Moreover, in 2012 Vertex was recognized as one of the fastest growing companies in Latvia.
-In early 2015 Vertex was certified in the field of information security management and received an ISO/IEC 27001 certificate. The certificate is adapted through all of our businesses that are held in Vertex headquarters: dating sites, bulk SMS sending systems and rent-to-own company. Now these procedures are being applied to Birdchain.
+Vertex is a profitable company. In 2015 Vertex received an award for being the fastest growing ITT company in Lithuania. Vertex continued to grow in 2016 too. Moreover, in 2012 Vertex was recognized as one of the fastest growing companies in Latvia.
+
+In early 2015, Vertex was certified in the field of information security management and received an ISO/IEC 27001 certificate. The certificate is adapted to all of our businesses which are held in Vertex headquarters: dating sites, bulk SMS sending systems, and a rent-to-own company. Now all these procedures are being applied to Birdchain.
 
 The combined per country turnover and EBITDA of Vertex is growing every year. 
 
@@ -70,15 +71,16 @@ The combined per country turnover and EBITDA of Vertex is growing every year.
 2013 | 2-3M euro | 17% |
 2012 | 2-3M euro | 16% |
 
-Vertex owns several brands - VertexSMS is one of them. Founders of the company gathered Birdchain team members from other brands. It means that members of the team of Birdchain know each other and have been working together for years. This decision eliminates possibilities of team not being able to work together and creates really healthy, creative and productive working atmosphere.
+Vertex owns several brands and VertexSMS is one of them. Company founders gathered Birdchain team members from other brands. It means that the members of Birdchain team know each other well and have been working together for years. This decision eliminates possibilities of the team not being able to work together and creates really healthy, creative, and productive working atmosphere.
 
-Team of Birdchain are individuals with a set of unique experiences to make Birdchain fly. Of course, most of the Birdchain team have experience of working in global A2P SMS market and shares an extended know-how about regulations, key players, technologies and other aspects. Other team members are experts in marketing, business development, law, and software development. 
+Birdchain team members are individuals with a set of unique experiences to make Birdchain fly. Of course, most of them have experience of working in a global A2P SMS market and share an extended know-how about regulations, key players, technologies, and other aspects. Other team members are experts in marketing, business development, law, and software development. 
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee and others). This business allowed our team to design and test new ways of advertisement. It exposed us several unique user experience patterns that led us to developing very effective campaigns. Moreover, we learned a lot about software and app development in the field of user communication. We will adapt this knowledge in Birdchain app and service.
+**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee, and others). This business allowed our team to design and test new ways of advertisement. It exposed several unique user experience patterns to us which led to developing very efficient campaigns. Moreover, we learnt a lot about software and app development in the user communication field. We will adapt this knowledge to the Birdchain app and service.
 
-In 2013 we invested in manufacturing of **advanced micro lasers** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered as one of the most promising Northern European start-ups. Currently we have more orders for our lasers than we manufacture. 
+In 2013, we invested in **advanced micro laser manufacture** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered to be one of the most promising Eastern European start-ups. Currently, we have more orders for our lasers than we are able to manufacture. 
+
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
 
@@ -137,14 +139,14 @@ This how BIRD token is going to circulate in the market. Please note that these 
 ![Full scheme of BIRD token circulation](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-05.png?raw=true)
 
 ## GBI - Global Basic Income
-The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology. Make it better, faster, more transparent and fair-priced. Although, we believe soon it will become obvious that Birdchain is a lot more than just a (r)evolutionary idea. 
+The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology. To make it better, faster, more transparent, and fair-priced. However, we believe that soon it will become obvious that Birdchain is much more than just a (r)evolutionary idea. 
 
-We believe Birdchain will be the first ever (in the history of the world!) non-governmental initiative to create Global Basic Income. 
-Depending on a country and market activity users of Birdchain app could be able to earn 30-300 USD per month. It means that Birdchain could create basic passive income for its users globally. 
+We believe that Birdchain will be the first ever (in the history of the world!) non-governmental initiative to create Global Basic Income. 
 
-We see this feature as huge marketing opportunity and a chance to stand out in a global market of messaging apps. 
+Depending on a country and market activity, Birdchain app users should be able to earn 30-300 USD per month. This means that Birdchain could create basic passive income for its users globally. 
 
-However, Birdchain does not guarantee any revenue to Birdchain token holder or the user of the Birdchain app. 
+We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. 
+However, Birdchain does not guarantee any revenue to Birdchain token holder or Birdchain app user. 
 
 # SMS gateway
 An Application To Person (A2P) SMS is sent from an application — typically a web app — to a mobile subscriber. There are several types of the most popular A2P SMS:
@@ -154,7 +156,7 @@ An Application To Person (A2P) SMS is sent from an application — typically a w
 * One-time passwords;
 * Loyalty programs and marketing messages.
 
-Transactional SMS service is mostly used by social networks and companies which provide services of e-commerce and online retail, travel and transportation, financial services and payments, and gaming. Because of their effectiveness, promotional messages are sent by companies operating in almost all markets.
+Transactional SMS service is mostly used by social networks and companies which provide services of e-commerce and online retail, travel and transportation, financial services and payments, and gaming. Because of their effectiveness, promotional messages are sent by companies operating in almost all markets. 
 
 Some examples of a transactional SMSs:
 * G-123456 is your verification code.
@@ -177,7 +179,7 @@ Here is why:
 ![Phone users](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png?raw=true)
 
 A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024. The reasons for A2P growth:
-* SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it and SMS has the highest engagement rate in comparison to emails and OTT apps.
+* SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it and SMS has the highest engagement rate in comparison to emails and OTT apps. 
 
 | User Count    | SMS Cost | Email Cost | Adwords Remarketing* | Facebook  | 
 | :---          | :---:    | :---:      | :---:                | :---:     |
@@ -186,10 +188,10 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 | Real CPM***   | 31$      | 66$        | 37$                  | 87.5$     | 
 
 * An increase of two-factor authentication and security via SMS. Today personal data is transferred over the web more often than ever before. Seeking to add a security layer, two-factor authentication has become the go-to method for companies that aim to protect their users. Sending an SMS as an authentication has become very popular, because customers usually have a mobile device on them at almost any given moment.
-* A 2-way authentication has a staggering 99.9% reachability rate across all mobile users, as long as the number provided is correct. It does not require to have an internet connection. Mobile bandwidth is enough to receive a two-factor authentication or marketing message.
+* A 2-way authentication has a staggering 99.9% reachability rate across all mobile users, as long as the number provided is correct. It does not require to have an internet connection. Mobile bandwidth is enough to receive a two-factor authentication or marketing message. 
 * No need to install additional apps. SMS messages can be received and read on any mobile phone in any network, almost anywhere in the world.
 
-**In the ideal world**, when business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMSs and operators that CAN send them.
+**In the ideal world**, when business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMSs and operators that CAN send them. 
 ![Ideal SMS path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png?raw=true)
 
 **In real world**, it is not that straightforward.
@@ -220,8 +222,7 @@ background;
 4. Check in-app wallet to track their earnings and number of messages sold.
 
 **For businesses** which are looking for a fairly priced A2P SMS service:
-1. Before starting to use the Birdchain service, the company will have to gather a list of phone
-numbers (contacts) by itself;
+1. Before starting to use the Birdchain service, the company will have to gather a list of phone numbers (contacts) by itself;
 2. The company must visit the Birdchain web-app and log in;
 3. The **company must purchase BIRD tokens** in order to send A2P SMSs;
 4. The company sets the campaign by taking these steps:
@@ -255,7 +256,7 @@ In 2015, Application-to-person (A2P) SMS market was worth $57.3 billion and is f
 
 Until recent years, SMS marketing also used to be considered fast, safe, and reliable. However, as the market grew, it was monopolized and got distorted. Most of the market is shared amongst a few key players.
 
-Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages: SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
+Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages : SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
 
 ![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/WP-Grafikai01.png?raw=true)
 >>>>grafikas 
@@ -263,22 +264,22 @@ Despite these A2P SMS market defects, the demand for this service is increasing 
 
 ## SMS F.A.Q.
 **Will Birdchain send messages to my contact list?**
-No. Birdchain will send SMS messages only to numbers that are provided by company. Businesses will have to collect their database of contacts by its own. Birdchain will only facilitate the service of A2P SMS distribution.
+No. Birdchain will send SMS messages only to the numbers provided by the company. Businesses will have to collect their own contact database. Birdchain will only facilitate the A2P SMS distribution service.
 
 **How will operators react to your service?**
-It is unlikely for operators to take any real actions in the next three-four years. First, we assume SMS delivery is of low importance to them as it generates relatively small profits. Second, we assume operators will not risk to get sued for privacy violations (reading private messages) and even if they would win, the cost of victory would be too high. Third, if Birdchain app user will not send more messages per day/month than he/she can send according to his/her operator’s Fair Usage Agreement, operator will not have any pretext to check what messages were sent from the phone.
+It is unlikely for operators to take any real action in the next three-four years. First of all, we assume that SMS delivery is of low importance to them as it generates relatively small profits. Secondly, we assume that operators are not going to risk getting sued for privacy violation (reading private messages) and even if they won, the cost of victory would be too high. Thirdly, if a Birdchain app user does not send more messages per day/month than they can send according to their operator’s Fair Usage Agreement, operator will not have any pretext to check what messages were sent from the phone.
 
 **How Birdchain will protect privacy of a sender?**
-The number of the sender will be visible to the person who received SMS. There is no way to avoid it at the moment. We understand that this might be a drawback for some potential app users so, from the earliest versions of Birdchain, we will implement several security features:
+Sender’s number will be visible to the person who receives SMS. At the moment, there is no way to avoid it. We understand that this might be a drawback for some potential app users so, from the earliest Birdchain versions, we are going to implement several security features:
 
-First, we will not send transactional or promotional messages to contact list of the Birdchain app user - the message will be delivered from someone else's phone. 
+Firstly, we will not send transactional or promotional messages to Birdchain app user’s contact list. The message will be delivered from someone else's phone. 
 
-Second, the name of sending company will be clearly stated in the message text so that receiver would know who to contact in case he/she wanted to cancel the subscription.
+Secondly, the name of the sending company will be clearly stated in the message text so that receiver would know who to contact in case he/she wanted to cancel the subscription.
 
-Third, for 72 hours after sending the promotional or transactional message Birdchain app will block all incoming calls and messages from that specific number. It means that person who received SMS will not be able to contact person whose phone was used to send that SMS.
+Thirdly, for the first 72 hours after sending the promotional or transactional message, Birdchain app will block all incoming calls and messages from the specific number to which it will been sent. It means that the person who receives an SMS will not be able to contact the person whose phone was used to deliver it.
 
 **How much money people will be able to earn?**
-Answer to this question highly depends on a country and demand of Birdchain service. Rough calculations suggest that under average conditions Birdchain app user in USA could **earn 50-100 USD per month**. More or less the same amount could be earned in most of the world. Exceptions: in developing countries earnings can be lower due to lower prices of regular A2P SMS service; under perfect conditions in Germany and Belgium monthly earnings could reach 300 euros. These are theoretical estimations and may be different after applying Birdchain in real life. 
+The answer to this question strongly depends on the country and demand for the Birdchain service. Rough calculations suggest that under average conditions a Birdchain app user in the USA could earn **50-100 USD** per month. More or less the same amount could be earned in most parts of the world. Exceptions: in developing countries earnings may be lower due to lower regular A2P SMS service prices; under perfect conditions in Germany and Belgium monthly earnings could reach up to 300 euros. These are theoretical estimations and may be different after applying Birdchain in real life. 
 
 *Please note that Birdchain itself does not guarantee any payments to its users.*
 
@@ -418,10 +419,11 @@ Hard cap of the ICO - **10,500 ETH**
 * Maximum coin supply **580,263,158**
 * Total ICO distribution **441,000,000**
 * Team and founders **52,223,684**
-* Involving oorporate contributors and other expenses **580,263,158**
+* Involving corporate contributors and other expenses **580,263,158**
 
 ## Purpose of the Token
 Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
+ 
 The Birdchain token holders are only entitled to use the A2P SMS distribution service as described in this document if successfully developed, or to resell the tokens.
 
 The BIRD token itself will be based on Ethereum, a blockchain-based computing platform. Ethereum allows smart contracts, distributed computer programs that can facilitate online contractual agreements in a cryptographically secure manner.
@@ -429,6 +431,7 @@ The BIRD token itself will be based on Ethereum, a blockchain-based computing pl
 Smart contracts are what enables the existence of Birdchain token as a truly transparent and decentralized service. This technology also ensures that Birdchain eliminates the need for intermediaries and having a central authority you need to trust. Through smart contracts the complex process of choosing peers, tracking delivery, and facilitating bidding/payment can be described in the contract itself, while still running on the distributed Ethereum network and taking advantage of the blockchain features.
 
 BIRDs are distributed and kept on the main Ethereum network. To optimise the transaction cost and performance, all micro transactions are processed off-chain and only the final stakes are returned to the Ethereum network. We believe in idea of keeping tokens on Ethereum and see it as a bank platform which is excellent for entering exchange markets.
+
 ![Token flow](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node2.png?raw=true)
 
 ## Rules of the Token sale
@@ -438,17 +441,19 @@ Comming soon
 Comming soon
 
 ## Are Birdchain tokens Securities?
-**No**, Birdchain tokens are **NOT** and are not intended to be securities, financial instruments, or investment products of any kind.
+**No**, Birdchain tokens are not and are not intended to be securities, financial instruments, or investment products of any kind.
 
-For example, with a purposes of financial regulation in the European Union a “security” is often defined with a reference to “transferable security” within the meaning of the EU Directive on markets in financial instruments (MiFID)[13]. According to MiFID, “transferable securities” means those classes of securities which are negotiable on the capital market, with an exception of instruments of payment, such as:
+For example, with a purposes of financial regulation in the European Union a “security” is often defined with a reference to “transferable security” within the meaning of the EU Directive on markets in financial instruments (MiFID) . According to MiFID, “transferable securities” means those classes of securities which are negotiable on the capital market, with an exception of instruments of payment, such as:
+ 
 1. shares in companies and other securities equivalent to shares in companies, partnerships or other entities, and depositary receipts in respect of shares;
 2. bonds or other forms of securitised debt, including depositary receipts in respect of such securities;
 3. any other securities giving the right to acquire or sell any such transferable securities or giving rise to a cash settlement determined by reference to transferable securities, currencies, interest rates or yields, commodities or other indices or measures.
+  
 BIRD does not qualify as “transferable security” for the above purposes.
 
 BIRD as a utility token in the future will only provide opportunity to access Birdchain services. The aim of the BIRD is to make it possible to exchange SMSs between the people wishing to access them and the people wishing to dispose extra SMSs.
 
-The BIRD has a specific utility use case. It serves a crucial role in settlement-making with a potentially very large number of mobile phones on the Birdchain network by allowing a fast and open blockchain-based transaction protocol that would not be possible using fiat currency. If the BIRD was not be based on the blockchain technology, it would be similar to purchasing a ticket or any other document which proves that the person has a right to use a particular service.
+The BIRD has a specific utility use case. It serves a crucial role in settlement-making with a potentially very large number of mobile phones on the Birdchain network by allowing a fast and open blockchain-based transaction protocol that would not be possible using fiat currency. If the BIRD was not be based on the blockchain technology, it would be similar to purchasing a ticket or any other document which proves that the person has a right to use a particular service. 
 
 ## Please Note
 In this white paper, references to “Birdchain”, “we”, “us” or “our” are to [Birdchain OÜ](https://www.e-krediidiinfo.ee/14362929-BIRDCHAIN%20O%C3%9C?lang=en), a company incorporated under the laws of Estonia with registry code 14362929, and references to “BIRD” or “Birdchain token” are to blockchain tokens created by Birdchain in connection with the project described in this white paper. In some cases, the term “Birdchain” has also been used to refer to the service proposed to be developed by us.         
