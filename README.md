@@ -157,8 +157,8 @@ An Application To Person (A2P) SMS is sent from an application — typically a w
 Transactional SMS service is mostly used by social networks and companies which provide services of e-commerce and online retail, travel and transportation, financial services and payments, and gaming. Because of their effectiveness, promotional messages are sent by companies operating in almost all markets.
 
 Some examples of a transactional SMSs:
-* G-123456 is your Google verification code.
-* Hair Salon appointment reminder: haircut tomorrow at 10:30am with Charles. If you have any questions, please call 0161 5555555.
+* G-123456 is your verification code.
+* Hair Salon appointment reminder: haircut tomorrow at 10:30AM with Charles. If you have any questions, please call 0161 5555555.
 
 ![SMS stats](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png?raw=true)
 
@@ -278,7 +278,7 @@ Second, the name of sending company will be clearly stated in the message text s
 Third, for 72 hours after sending the promotional or transactional message Birdchain app will block all incoming calls and messages from that specific number. It means that person who received SMS will not be able to contact person whose phone was used to send that SMS.
 
 **How much money people will be able to earn?**
-Answer to this question highly depends on a country and demand of Birdchain service. Rough calculations suggest that under average conditions Birdchain app user in USA could earn 50-100 USD per month. More or less the same amount could be earned in most of the world. Exceptions: in developing countries earnings can be lower due to lower prices of regular A2P SMS service; under perfect conditions in Germany and Belgium monthly earnings could reach 300 euros. These are theoretical estimations and may be different after applying Birdchain in real life. 
+Answer to this question highly depends on a country and demand of Birdchain service. Rough calculations suggest that under average conditions Birdchain app user in USA could **earn 50-100 USD per month**. More or less the same amount could be earned in most of the world. Exceptions: in developing countries earnings can be lower due to lower prices of regular A2P SMS service; under perfect conditions in Germany and Belgium monthly earnings could reach 300 euros. These are theoretical estimations and may be different after applying Birdchain in real life. 
 
 *Please note that Birdchain itself does not guarantee any payments to its users.*
 
@@ -415,10 +415,10 @@ Hard cap of the ICO - **10,500 ETH**
 
 ### Token distribution
 
-* Maximum coin supply 580,263,158
-* Total ICO distribution 441,000,000
-* Team and founders 52,223,684
-* Involving oorporate contributors and other expenses 580,263,158
+* Maximum coin supply **580,263,158**
+* Total ICO distribution **441,000,000**
+* Team and founders **52,223,684**
+* Involving oorporate contributors and other expenses **580,263,158**
 
 ## Purpose of the Token
 Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
@@ -451,7 +451,7 @@ BIRD as a utility token in the future will only provide opportunity to access Bi
 The BIRD has a specific utility use case. It serves a crucial role in settlement-making with a potentially very large number of mobile phones on the Birdchain network by allowing a fast and open blockchain-based transaction protocol that would not be possible using fiat currency. If the BIRD was not be based on the blockchain technology, it would be similar to purchasing a ticket or any other document which proves that the person has a right to use a particular service.
 
 ## Please Note
-In this white paper, references to “Birdchain”, “we”, “us” or “our” are to Birdchain OÜ, a company incorporated under the laws of Estonia with registry code 14362929, and references to “BIRD” or “Birdchain token” are to blockchain tokens created by Birdchain in connection with the project described in this white paper. In some cases, the term “Birdchain” has also been used to refer to the service proposed to be developed by us.         
+In this white paper, references to “Birdchain”, “we”, “us” or “our” are to [Birdchain OÜ](https://www.e-krediidiinfo.ee/14362929-BIRDCHAIN%20O%C3%9C?lang=en), a company incorporated under the laws of Estonia with registry code 14362929, and references to “BIRD” or “Birdchain token” are to blockchain tokens created by Birdchain in connection with the project described in this white paper. In some cases, the term “Birdchain” has also been used to refer to the service proposed to be developed by us.         
  
 We will announce the date of BIRD sale and all related details on our official website: www.birdchain.io. The rights and obligations of the holders of BIRDS and Birdchain as the issuer will be governed by the terms and conditions of the Birdchain token, which will be available on the same website, and the Estonian law. Please carefully follow the instructions stated on the website to avoid being scammed. Birdchain tokens are not securities or any other form of investment in any jurisdiction. The sale of tokens should not be considered as either offering of securities or as investment advice, solicitation nor an endorsement of any kind. Any persons deciding to acquire Birdchain token must do this at its own risk and discretion following a thorough analysis of the risks associated.
  
