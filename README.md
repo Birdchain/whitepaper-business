@@ -410,6 +410,7 @@ Token sale will be implemented in several steps:
 ## Tokens in numbers
 
 Soft cap of the ICO - **1,500 ETH**
+
 Hard cap of the ICO - **10,500 ETH**
 
 |           | ETH       | BIRDs         |
