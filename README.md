@@ -27,7 +27,7 @@
     1. [SWOT](#swot)
     2. [Finances](#finances)
 5. [Token sale](#token-sale)
-    1. [Tokens in numbers](#tokens-in-numbers)
+    1. [Soft and Hard cap's](#soft-and-hard-caps)
     2. [Purpose of the Token](#purpose-of-the-token)
     3. [Rules of the Token sale](#rules-of-the-token-sale)
     4. [ICO](#ico)
@@ -407,18 +407,11 @@ Token sale will be implemented in several steps:
 * Open pre-sale (starting 2018.01.18)
 * Main ICO event (TBD)
 
-## Tokens in numbers
+## Soft and Hard cap's
 
 Soft cap of the ICO - **1,500 ETH**
 
 Hard cap of the ICO - **10,500 ETH**
-
-|           | ETH       | BIRDs         |
-| :---      | :---:     | :---:         | 
-| Pre-Sale  | 500      | 21,000,000    |  
-| ICO       | 10,000    | 420,000,000   |  
-| Team, Founders, others   | 3,315     |   139,263,158     | 
-| Totals    | 10,500    | 580,263,158   |
 
 ### Token distribution
 
