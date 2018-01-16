@@ -413,11 +413,12 @@ Soft cap of the ICO - 1 500 Ether
 
 Individualy asigned cap for all contributors - 300 Ether. Does not apply for coorporate contributors that are prebuying Birdchain services.
 
-|           | ETH       | BIRDs         | Bonus %       | BIRDs with bonus  |
-| :---      | :---:     | :---:         | :---:         | :---:             | 
-| Pre-Sale  |  500      | 21,000,000    | 21,000,000    |                   | 
-| ICO       | 10,000    | 420,000,000   | 420,000,000   |                   | 
-| Totals    | 10,500    | 41,000,000    | 441,000,000   |                   | 
+|           | ETH       | BIRDs         |
+| :---      | :---:     | :---:         | 
+| Pre-Sale  | 500      | 21,000,000    |  
+| ICO       | 10,000    | 420,000,000   |  
+| Team, Founders, others   | 3,315     |   139,263,158     | 
+| Totals    | 10,500    | 580,263,158   |
 
 ### Token distribution
 
