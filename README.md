@@ -408,10 +408,9 @@ Token sale will be implemented in several steps:
 * Main ICO event (TBD)
 
 ## Tokens in numbers
-Hard cap of the ICO - 10 500 Ether
-Soft cap of the ICO - 1 500 Ether
 
-Individualy asigned cap for all contributors - 300 Ether. Does not apply for coorporate contributors that are prebuying Birdchain services.
+Soft cap of the ICO - **1,500 ETH**
+Hard cap of the ICO - **10,500 ETH**
 
 |           | ETH       | BIRDs         |
 | :---      | :---:     | :---:         | 
