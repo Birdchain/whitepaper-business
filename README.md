@@ -419,7 +419,7 @@ Hard cap of the ICO - **10,500 ETH**
 * Maximum coin supply **580,263,158**
 * Total ICO distribution **441,000,000**
 * Team and founders **52,223,684**
-* Involving corporate contributors and other expenses **580,263,158**
+* Involving corporate contributors and other expenses **87,039,474**
 
 ## Purpose of the Token
 Birdchain token is NOT AN ASSET NOR A SECURITY. It is a utility token. Birdchain tokens do not represent or confer any ownership right or stake, share, security, or equivalent rights, or any right to receive dividends, other payments, intellectual property rights, or any other form of participation in or relating to the project described in this white paper and/or in Birdchain or any of its affiliates.
