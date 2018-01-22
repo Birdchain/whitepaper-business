@@ -469,7 +469,7 @@ Any citizens and residents of and persons located in Russia, China, Canada or th
 Birdchain does not make and hereby disclaims, any representation, warranty or undertaking in any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
 # Exchanges
-We believe that it is better to get listed in one major exchange than in couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Binance**, **Bittrex**, or **Kucoin**. Our calculations are that token will be listed within a month after our ICO.
+We believe that it is better to get listed in one major exchange than in couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on  **Bittrex**, **Kucoin** or some other well know exchange. Our calculations are that token will be listed within a month after our ICO.
 
 # Appendix
 * “How off-chain trading will work” by Martin Koeppelmann 
