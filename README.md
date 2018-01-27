@@ -37,9 +37,9 @@
 7. [Appendix](#appendix)
 
 # Abstract
-Team of the Birdchain is **not** a start-up. It is part of a parent company named Vertex. Vertex is a profitable company with a team of experienced professionals whose profesionalism and skills were tested in action. The founding team has successfully co-launched several different businesses. 
+A team of the Birdchain is **not** a start-up. It is part of a parent company named Vertex. Vertex is a profitable company with a team of experienced professionals whose professionalism and skills were tested in action. The founding team has successfully co-launched several different businesses. 
  
-Birdchain is a decentralized application (Dapp), similar to instant messenger. The big diference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
+Birdchain is a decentralized application (Dapp), similar to instant messenger. The big difference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
 
 All features of the Birdchain are designed to create strong BIRD token. It stands out with low initial cost and token flexibility, as a unique currency with favorable viability. 
 
@@ -47,7 +47,7 @@ The official app presentation is planned at the Mobile World Congress in Barcelo
 
 In short:
 1) Birdchain is DApp that rewards;
-2) The intelligent features system create internal economics and allow people to earn and spend money within the app;
+2) The intelligent features system create internal economics and allow people to earn and spend money on the app;
 3) Dapps are the future of the blockchain. Everyone at the moment invests in protocols rather than actual applications. A comparison: whether to invest in HTML protocol or an Uber app? 
 
 **Join the ICO with the potential of real adaptability in the future.**
@@ -77,9 +77,9 @@ Birdchain team members are individuals with a set of unique experiences to make 
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee, and others). This business allowed our team to design and test new ways of advertisement. It exposed several unique user experience patterns to us which led to developing very efficient campaigns. Moreover, we learnt a lot about software and app development in the user communication field. We will adapt this knowledge to the Birdchain app and service.
+**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee, and others). This business allowed our team to design and test new ways of advertisement. It exposed several unique user experience patterns to us which led to developing very efficient campaigns. Moreover, we learned a lot about software and app development in the user communication field. We will adopt this knowledge to the Birdchain app and service.
 
-In 2013, we invested in **advanced micro laser manufacture** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered to be one of the most promising Eastern European start-ups. Currently, we have more orders for our lasers than we are able to manufacture. 
+In 2013, we invested in **advanced microlaser manufacturer** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered to be one of the most promising Eastern European start-ups. Currently, we have more orders for our lasers than we are able to manufacture. 
 
 
 **Retail**. In 2013 we launched the first in the region rent-to-buy service (bekredito.lt).
@@ -94,7 +94,11 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 
 **[Andreas Petrow](https://www.linkedin.com/in/andreypetrow)**
 
-7+ years of experience working in financial services & data providing business. Currently he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
+7+ years of experience working in financial services & data providing business. Currently, he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
+
+**[Rob Eijgenraam](https://www.linkedin.com/in/robeijgenraam)**
+
+Rob Eijgenraam is a online marketing expert, founder of ICO Marketing company CryptoLeads.io and a co-founder of Purple Minds. He is a speaker about cryptocurrency marketing and organizer of crypto educational events. His passion about Bitcoin and Blockchain comes from a belief in open systems and a permissionless society and market place.
 
 # Birdchain. The app that rewards
 Birdchain is a decentralized app that will help people to make a passive income and simultaneously will offer cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
@@ -110,14 +114,14 @@ All methods of money earning will be based on the volunteering principle. App us
 We will officially present the app at the Mobile World Congress in Barcelona in 2019.
 
 # Raising value of the token
-Our goal is to create strong token which would be useful for our contributors and could circulate in the world easily. We believe that circulation and spread of the token is the key to its value. The more people and companies would use our token, the more it would be used, the stronger it will be. Here are some key points that makes BIRD token to stand out:
+Our goal is to create a strong token which would be useful for our contributors and could circulate in the world easily. We believe that circulation and spread of the token is the key to its value. The more people and companies would use our token, the more it would be used, the stronger it will be. Here are some key points that make BIRD token to stand out:
 1. **Low initial cost**. During the ICO, the BIRD will be sold at the lowest price to create a higher incentive for contributors. 
 2. **Token flexibility**. When the BIRD value and demand increases, it can be fragmented into 18 decimals to serve the market needs. 
 3. **Unique currency**. Exclusively BIRD tokens are used for purchasing Birdchain A2P service and rewarding Birdchain app users. Ensuring the BIRD token has a real demand. 
 4. **Favorable viability**. To have a sustainable business it needs only 100 000 app installs. Each phone can sell about 100 SMS per day on a very conservative approach.
 5. **High desirability**. Providing the possibility of an income to its users, the Birdchain App is highly appealing to the public. The more users install the app, the more SMS flux it creates meaning a faster BIRD rotation, demand and appreciation. 
 6. New features and higher **BIRD circulation**. We will drive demand and circulation of BIRDs with new Birdchain features and services.
-7. **Embracing the competition**. Our A2P SMS service will be appealing to all companies that look for lower SMS price and high quality service. 
+7. **Embracing the competition**. Our A2P SMS service will be appealing to all companies that look for lower SMS price and high-quality service. 
 8. Detailed **financial forecast**. Check it out here: [Finances](#finances)
 
 ## Streams of the Token
@@ -187,29 +191,29 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 | True View     | 98%      | 22%        | 80%                  | 60%       | 
 | Real CPM***   | 31$      | 66$        | 37$                  | 87.5$     | 
 
-* An increase of two-factor authentication and security via SMS. Today personal data is transferred over the web more often than ever before. Seeking to add a security layer, two-factor authentication has become the go-to method for companies that aim to protect their users. Sending an SMS as an authentication has become very popular, because customers usually have a mobile device on them at almost any given moment.
+* An increase in two-factor authentication and security via SMS. Today personal data is transferred over the web more often than ever before. Seeking to add a security layer, two-factor authentication has become the go-to method for companies that aim to protect their users. Sending an SMS as an authentication has become very popular because customers usually have a mobile device on them at almost any given moment.
 * A 2-way authentication has a staggering 99.9% reachability rate across all mobile users, as long as the number provided is correct. It does not require to have an internet connection. Mobile bandwidth is enough to receive a two-factor authentication or marketing message. 
 * No need to install additional apps. SMS messages can be received and read on any mobile phone in any network, almost anywhere in the world.
 
-**In the ideal world**, when business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMSs and operators that CAN send them. 
+**In the ideal world**, when a business wants to conduct an SMS marketing campaign, it has to contact aggregators. Aggregators are companies that mediate between businesses which WANT to send SMS and operators that CAN send them. 
 ![Ideal SMS path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png?raw=true)
 
-**In real world**, it is not that straightforward.
+**In the real world**, it is not that straightforward.
 ![Real-world path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/09.png?raw=true)
 
-As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straigh as possible.
+As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straight as possible.
 ![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png?raw=true)
 
 **The problems:**
 1. People have unlimited SMS plans which they do not use;
-2. Companies overpay for the A2P SMS service and are constantly looking for opportunities todecrease the price;
+2. Companies overpay for the A2P SMS service and are constantly looking for opportunities to decrease the price;
 
 **The solution:**
 1. People can automatically sell their unused SMS to businesses via Birdchain instant messaging app. Companies get an up to 6 times cheaper service. People get paid for every single SMS which is sold.
 
 ![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png?raw=true)
 
-## How SMS gateway is going to work?
+## How is SMS gateway going to work?
 
 **For end-users of the app** who want to employ their unused SMSs and grant themselves monthly passive income should:
 1. Download a Birdchain instant messaging app:
@@ -217,7 +221,7 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 2. Open settings:
     1. Set the number of SMS they want to be sold*;
     2. Click “Send”;
-3. Chat with your friends and family via Birdchain app, while SMS are automatically sold in the
+3. Chat with your friends and family via Birdchain app, while SMS is automatically sold in the
 background;
 4. Check in-app wallet to track their earnings and number of messages sold.
 
@@ -233,7 +237,7 @@ background;
     1. sends SMSs only to the contacts located in the same country;
     2. sends SMS only to the same carrier numbers;
     3. finds the best prices for the campaign;
-    4. forms Smart Contracts between the business and every single Birdchain app user whose SMSs are going to be purchased;
+    4. forms Smart Contracts between the business and every single Birdchain app user whose SMS are going to be purchased;
 6. Birdchain sends out the messages;
 7. Birdchain uses blockchain to verify the delivery of every single SMS;
 8. When delivery is confirmed and the conditions of the Smart Contract are fulfilled, company bid is equally distributed among all app users whose SMS were used to deliver the messages.
@@ -256,10 +260,10 @@ In 2015, Application-to-person (A2P) SMS market was worth $57.3 billion and is f
 
 Until recent years, SMS marketing also used to be considered fast, safe, and reliable. However, as the market grew, it was monopolized and got distorted. Most of the market is shared amongst a few key players.
 
-Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages : SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
+Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has some huge advantages: SMS has an open rate of 99% and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has a flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
 
 ![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/WP-Grafikai01.png?raw=true)
->>>>grafikas 
+ 
 
 
 ## SMS F.A.Q.
@@ -267,32 +271,32 @@ Despite these A2P SMS market defects, the demand for this service is increasing 
 No. Birdchain will send SMS messages only to the numbers provided by the company. Businesses will have to collect their own contact database. Birdchain will only facilitate the A2P SMS distribution service.
 
 **How will operators react to your service?**
-It is unlikely for operators to take any real action in the next three-four years. First of all, we assume that SMS delivery is of low importance to them as it generates relatively small profits. Secondly, we assume that operators are not going to risk getting sued for privacy violation (reading private messages) and even if they won, the cost of victory would be too high. Thirdly, if a Birdchain app user does not send more messages per day/month than they can send according to their operator’s Fair Usage Agreement, operator will not have any pretext to check what messages were sent from the phone.
+It is unlikely for operators to take any real action in the next three-four years. First of all, we assume that SMS delivery is of low importance to them as it generates relatively small profits. Secondly, we assume that operators are not going to risk getting sued for privacy violation (reading private messages) and even if they won, the cost of victory would be too high. Thirdly, if a Birdchain app user does not send more messages per day/month than they can send according to their operator’s Fair Usage Agreement, the operator will not have any pretext to check what messages were sent from the phone.
 
-**How Birdchain will protect privacy of a sender?**
+**How will Birdchain protect the privacy of a sender?**
 Sender’s number will be visible to the person who receives SMS. At the moment, there is no way to avoid it. We understand that this might be a drawback for some potential app users so, from the earliest Birdchain versions, we are going to implement several security features:
 
 Firstly, we will not send transactional or promotional messages to Birdchain app user’s contact list. The message will be delivered from someone else's phone. 
 
 Secondly, the name of the sending company will be clearly stated in the message text so that receiver would know who to contact in case he/she wanted to cancel the subscription.
 
-Thirdly, for the first 72 hours after sending the promotional or transactional message, Birdchain app will block all incoming calls and messages from the specific number to which it will been sent. It means that the person who receives an SMS will not be able to contact the person whose phone was used to deliver it.
+Thirdly, for the first 72 hours after sending the promotional or transactional message, Birdchain app will block all incoming calls and messages from the specific number to which it will be sent. It means that the person who receives an SMS will not be able to contact the person whose phone was used to deliver it.
 
-**How much money people will be able to earn?**
+**How much money will people be able to earn?**
 The answer to this question strongly depends on the country and demand for the Birdchain service. Rough calculations suggest that under average conditions a Birdchain app user in the USA could earn **50-100 USD** per month. More or less the same amount could be earned in most parts of the world. Exceptions: in developing countries earnings may be lower due to lower regular A2P SMS service prices; under perfect conditions in Germany and Belgium monthly earnings could reach up to 300 euros. These are theoretical estimations and may be different after applying Birdchain in real life. 
 
 *Please note that Birdchain itself does not guarantee any payments to its users.*
 
 # Content engagement
-One of the easiest ways for people to start earning money will be the involvement in the content engagement. Foremost, we will develop the opportunity to receive BIRD Tokens for previewing the adverts. Later, we will install a live stream and provide other opportunities of content broadcast.
+One of the easiest ways for people to start earning money will be the involvement in the content engagement. Foremost, we will develop the opportunity to receive BIRD Tokens for previewing the adverts. Later, we will install a live stream and provide other opportunities for the content broadcast.
 
-## How content engagement is going to work?
+## How is content engagement going to work?
 
 **Video viewing**
 
-For every video ad preview, users will get a reward of a certain amount of tokens. To accomplish this, users ought to open a designated app section and begin previewing the adverts. After the video preview, BIRD tokens would be automatically transferred to their account.
+For every video ad preview, users will get a reward for a certain amount of tokens. To accomplish this, users ought to open a designated app section and begin previewing the adverts. After the video preview, BIRD tokens would be automatically transferred to their account.
 
-Companies will be able to choose the amount they are willing to pay for an video preview and indicate their target group demographics: location, age, gender and other data. The company will only have to indicate the amount their want to assign (and transfer the sum as BIRD tokens), then choose the maximum amount of payment for a single preview, the number of times the entry could be previewed by the same person, and the preview video ad duration required, to merit earning the preview payment. The price of a single preview will be calculated accordingly. In case the company's campaign budget is not expended, the remaining amount will return to the company's wallet.
+Companies will be able to choose the amount they are willing to pay for a video preview and indicate their target group demographics: location, age, gender and other data. The company will only have to indicate the amount their want to assign (and transfer the sum as BIRD tokens), then choose the maximum amount of payment for a single preview, the number of times the entry could be previewed by the same person, and the preview video ad duration required, to merit earning the preview payment. The price of a single preview will be calculated accordingly. In case the company's campaign budget is not expended, the remaining amount will return to the company's wallet.
 
 **Live stream**
 
@@ -311,11 +315,11 @@ As it turned out, people aren't against viewing corporate advertisements multipl
 Comming soon
 
 # In-app mini-games
-To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users would be able to spend the earned tokens. Marketplace of in-app applications will the that space where users will be able to install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in the creation of the perfect IM application. However, the greatest potential we are seeing in the growing mobile gaming market. 
+To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users would be able to spend the earned tokens. A marketplace of in-app applications will that space where users will be able to install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in the creation of the perfect IM application. However, the greatest potential we are seeing in the growing mobile gaming market. 
 
 ![Mobile game market](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/MobileGames2.png)
 
-## How mini-games are going to work?
+## How are mini-games going to work?
 The Birdchain app will hold a marketplace where users will be able to download the needed extension. It could be a work-friendly app (such as a calendar, work scheduler, or a calculator), or some uncomplicated games.
 
 In the starting stages of the Birdchain app development, the Birdchain team themselves will present several simple yet engaging games, for users to spend their earned valuables. For example, we know from previous experience the slot machine game will be very successful.
@@ -327,12 +331,12 @@ Birdchain app users will pay with BIRD tokens for the installed applications and
 ## Mini-games F.A.Q.
 Comming soon
 
-# Personal data marketplance
+# Personal data marketplace
 Facebook, Google, Apple and other companies collect and sell not only the demographic data of their users but also information about their hobbies and habits. And people get no benefits for providing this information. Birdchain Personal data marketplace reinstates the personal data processing to the people.
 
 *Important: Birdchain will not store any personal consumers' information and will not share it with other parties, with the exception of the information necessary for providing Birdchain services and helping people to earn valuables.*
 
-## How marketplace is going to work? 
+## How is marketplace going to work?
 This tool will work in two ways: it will allow companies to conduct surveys or to directly purchase their personal data.
 
 In the app settings, people will be able to set whether they want additional earnings by participating in such surveys and by providing their personal information to third parties. The Birdchain app will require entering some demographic information about the user.
@@ -371,7 +375,7 @@ Comming soon
 
 # Business prospects
 ## SWOT
-| **Strenghts**                                                                       | **Weaknesses**                                 |
+| **Strengths**                                                                       | **Weaknesses**                                 |
 | :---------------------------------------------------------------------------------- | :--------------------------------------------- |
 | Almost 10 years of experience in A2P SMS market                                     | * Visible sender number                        |
 | Profitable and successful company                                                   |                                                | 
