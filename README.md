@@ -39,11 +39,11 @@
 # Abstract
 A team of the Birdchain is **not** a start-up. It is part of a parent company named Vertex. Vertex is a profitable company with a team of experienced professionals whose professionalism and skills were tested in action. The founding team has successfully co-launched several different businesses. 
  
-Birdchain is a decentralized application (Dapp), similar to instant messenger. The big difference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
+Birdchain is a decentralized application (Dapp), similar to instant messenger, for Android smartphones. The big difference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
 
 All features of the Birdchain are designed to create strong BIRD token. It stands out with low initial cost and token flexibility, as a unique currency with favorable viability. 
 
-The official app presentation is planned at the Mobile World Congress in Barcelona in 2019. 
+The official Android app presentation is planned at the Mobile World Congress in Barcelona in 2019. 
 
 In short:
 1) Birdchain is DApp that rewards;
@@ -77,7 +77,7 @@ Birdchain team members are individuals with a set of unique experiences to make 
 
 The founding team has successfully co-launched several different businesses: 
 
-**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee, and others). This business allowed our team to design and test new ways of advertisement. It exposed several unique user experience patterns to us which led to developing very efficient campaigns. Moreover, we learned a lot about software and app development in the user communication field. We will adopt this knowledge to the Birdchain app and service.
+**Social network** with more than 1 000 000 unique users (flirtas.lt, flirts.lv, flirtak.pl, teidi.ee, and others). This business allowed our team to design and test new ways of advertisement. It exposed several unique user experience patterns to us which led to developing very efficient campaigns. Moreover, we learned a lot about software and dapp development in the user communication field. We will adopt this knowledge to the Birdchain dapp and service.
 
 In 2013, we invested in **advanced microlaser manufacturer** (integratedoptics.com). Today we manufacture the smallest lasers in the world and our company is considered to be one of the most promising Eastern European start-ups. Currently, we have more orders for our lasers than we are able to manufacture. 
 
