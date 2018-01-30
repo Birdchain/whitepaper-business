@@ -342,9 +342,10 @@ This tool will work in two ways: it will allow companies to conduct surveys or t
 In the app settings, people will be able to set whether they want additional earnings by participating in such surveys and by providing their personal information to third parties. The Birdchain app will require entering some demographic information about the user.
 
 **Surveys**
-![Birdchain Survey](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg?raw=true)
 
 Based upon to users' demographic information, the company will have an opportunity to offer users to participate in surveys and be rewarded for participation. The remuneration amount will be set by the company.
+
+![Birdchain Survey](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg?raw=true)
 
 We will notify the randomly selected user about the possibility to share their opinion and gain BIRD tokens. They will be provided with company's information, the survey theme and the remuneration amount for the answers. The user will be rewarded after completing the questionnaire.
 
