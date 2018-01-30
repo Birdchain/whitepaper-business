@@ -354,6 +354,8 @@ This feature is more expensive than surveys, but companies can acquire considera
 
 Companies seeking to purchase Birdchain users' personal data will be required to indicate the search target, sample size, the type of information they want to receive and how much they are willing to pay for personal data of a single user.
 
+![Birdchain Personal data](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Personal_Data.jpg?raw=true)
+
 The Birdchain app will randomly select individuals from the list of users that meet the company's specified criteria. Users will be notified about the possibility of selling their personal data. They will be provided with company's information, the required data specificity and the amount of BIRD token remuneration. A person will be able to confirm or reject the offer.
 
 By choosing to confirm the offer, the person will have to input all the required personal information. For example, contact details, birthday, sex, place of residence, lifestyle, habits, income, and etc. A person will receive a reward immediately.
