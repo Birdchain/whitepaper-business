@@ -100,9 +100,13 @@ A founder of Fastr, a reading-training application development firm, and AssistU
 
 **[Andreas Petrow](https://www.linkedin.com/in/andreypetrow)**
 
+![Andreas](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/andreas80x80.png)
+
 7+ years of experience working in financial services & data providing business. Currently, he is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. Whereas the main focus lies on Portfolio Analytics and Quantitative investment approach.
 
 **[Rob Eijgenraam](https://www.linkedin.com/in/robeijgenraam)**
+
+![Rob](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/rob80x80.png)
 
 Rob Eijgenraam is a online marketing expert, founder of ICO Marketing company CryptoLeads.io and a co-founder of Purple Minds. He is a speaker about cryptocurrency marketing and organizer of crypto educational events. His passion about Bitcoin and Blockchain comes from a belief in open systems and a permissionless society and market place.
 
