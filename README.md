@@ -94,6 +94,8 @@ Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epet
 
 **[Anatoly Ressin](https://www.linkedin.com/in/anatolyressin)** 
 
+![Anatoly](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/anatoly80x80.png)
+
 A founder of Fastr, a reading-training application development firm, and AssistUnion which builds intelligent and performing web-enabled systems. Also has been a team member of Civic as a contractor, senior software developer at C.T.Co and #Decent as a core developer. At the moment he is a CEO of BlockVis a company involved in organizing blockchain competence and education opportunities and structuring the blockchain market in Latvia and abroad.
 
 **[Andreas Petrow](https://www.linkedin.com/in/andreypetrow)**
