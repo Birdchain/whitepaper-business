@@ -387,7 +387,7 @@ Coming soon
 ## SWOT
 | **Strengths**                                                                       | **Weaknesses**                                 |
 | :---------------------------------------------------------------------------------- | :--------------------------------------------- |
-| Almost 10 years of experience in A2P SMS market                                     | * Visible sender number                        |
+| Almost 10 years of experience in A2P SMS market                                     | Visible sender number                          |
 | Profitable and successful company                                                   |                                                | 
 | In-depth expertise of the market and business                                       |                                                | 
 | Team is gathered from different successful projects and share unique experiences    |                                                |
@@ -402,10 +402,10 @@ Coming soon
 
 | **Opportunities**                                                                   | **Threats**                                    |
 | :---------------------------------------------------------------------------------- | :--------------------------------------------- |
-| Aggregators are interested in the lowest possible price of A2P SMS service          | * Competition with other IM apps               |
-| Aggregators have enormous SMS traffic                                               | * Competition after forking our service        |
+| Aggregators are interested in the lowest possible price of A2P SMS service          | Competition with other IM apps                 |
+| Aggregators have enormous SMS traffic                                               | Competition after forking our service          |
 | Versatility of the SMS                                                              |                                                |
-| People are interested in getting additional income with little effort - it will    |                                                |
+| People are interested in getting additional income with little effort - it will     |                                                |
 | accelerate adoption of Birdchain app                                                |                                                |
 | Potential to grow in services                                                       |                                                |
 | Becoming global leader of decentralized A2P SMS delivery                            |                                                |
