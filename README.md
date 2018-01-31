@@ -38,6 +38,8 @@
 
 # Abstract
 A team of the Birdchain is **not** a start-up. It is part of a parent company named Vertex. Vertex is a profitable company with a team of experienced professionals whose professionalism and skills were tested in action. The founding team has successfully co-launched several different businesses. 
+
+![Vertex](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.png)
  
 Birdchain is a decentralized application (Dapp), similar to instant messenger, for Android smartphones. The big difference is that Birdchain will allow its users to make a monthly passive income. Simultaneously Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of Birdchain app is to create internal economics, where its users will be able to earn, transfer (to exchanges) or spend their BIRD tokens without leaving the app. 
 
