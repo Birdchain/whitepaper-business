@@ -414,7 +414,8 @@ Coming soon
 
 
 ## Finances
-Comming soon
+![Birdchain Finances](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/FinancialForecast.png?raw=true)
+![Birdchain Finances 2020](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/ForecastSummary.png?raw=true)
 
 # Token sale
 Token sale will be implemented in several steps:
