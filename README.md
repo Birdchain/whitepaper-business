@@ -199,7 +199,9 @@ Here is why:
 * SMS requires no data subscription (roaming scenarios for example);
 * SMS is by far the most standardized messaging technology.
 
-![Phone users](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png?raw=true)
+<p align="center">
+  <img width="700" height="396" alt="Phone users" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png">
+</p>
 
 A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024. The reasons for A2P growth:
 * SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it, and SMS has the highest engagement rate compared to emails and OTT apps. 
