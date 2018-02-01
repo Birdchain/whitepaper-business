@@ -41,7 +41,7 @@
 A team of the Birdchain is not a start-up. It is part of a parent company, named Vertex. Vertex is a profitable company with a team of experienced professionals, whose professionalism and skills were tested in action. The founding team has successfully co-launched several businesses.
 
 <p align="center">
-  <img width="700" height="185" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.jpg">
+  <img width="700" height="185" alt="Vertex" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.jpg">
 </p>
  
 Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. Birdchain will be developed exclusively for Android devices. 
@@ -62,7 +62,7 @@ In short:
 The team behind Birdchain has been a part of  [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/). In 2009, Vertex started our A2P SMS aggregation business, called [VertexSMS](https://vertexsms.com/?lang=en). Since then, [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo, and many others.
 
 <p align="center">
-  <img width="700" height="240" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Clients.jpg">
+  <img width="700" height="240" alt="Clients" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Clients.jpg">
 </p>
  
 Vertex is a profitable company. In 2015, Vertex received an award for being the fastest growing ITT company in Lithuania. Vertex continued to grow in 2016. In 2012, Vertex was recognized as one of the fastest growing companies in Latvia.
@@ -95,7 +95,7 @@ In 2013, we invested in **advanced microlaser manufacturer** (integratedoptics.c
 Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Joao Martins](https://www.linkedin.com/in/joao-martins-porto), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Tomas Vitkauskas](https://www.linkedin.com/in/tomasvit6/), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Kristina Mataciunaite](https://www.linkedin.com/in/kristina-mataciunaite-41690b149), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
 <p align="center">
-  <img width="700" height="776" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Team.jpg">
+  <img width="700" height="776" alt="Team" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Team.jpg">
 </p>
 
 ### Advisors
@@ -183,7 +183,9 @@ Some examples of a transactional SMSs:
 * G-123456 is your verification code.
 * Hair Salon appointment reminder: haircut tomorrow at 10:30AM with Charles. If you have questions, please call 0161 55.
 
-![SMS stats](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png?raw=true)
+<p align="center">
+  <img width="700" height="396" alt="SMS stats" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png">
+</p>
 
 You may wonder:
 > Why do Facebook, Microsoft, Google, Apple and many other high-tech companies want to send SMS? Why would anyone want to use technology from the ‘80s?
