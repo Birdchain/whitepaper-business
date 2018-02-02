@@ -495,6 +495,10 @@ Birdchain does not make and hereby disclaims, any representation, warranty, or u
 # Exchanges
 We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Bittrex**, **Kucoin**, or some other well-known exchange. Our calculations are that token will be listed within a month after our ICO.
 
+<p align="center">
+  <img width="860" height="1348" alt="Team" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap5.jpg">
+</p>
+
 # Appendix
 * “How off-chain trading will work” by Martin Koeppelmann 
 * “Ethereum Lightning Network and Beyond” by Robert McCone 
