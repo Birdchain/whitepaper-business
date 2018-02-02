@@ -360,7 +360,9 @@ In the app settings, people can set whether they want additional earnings by par
 
 Based upon users' demographic information, the company will can offer users the opportunity to participate in surveys and be rewarded for participation. The remuneration amount will be set by the company.
 
-![Birdchain Survey](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg?raw=true)
+<p align="center">
+  <img width="700" height="265" alt="Birdchain Survey" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg">
+</p>
 
 We will notify the randomly selected user about the possibility to share their opinion and gain BIRD tokens. They will be provided with the company's information, the survey theme, and the remuneration amount for the answers. The user will be rewarded after completing the questionnaire.
 
@@ -369,7 +371,9 @@ This feature is more expensive than surveys, but companies can acquire considera
 
 Companies seeking to purchase Birdchain users' personal data will have to indicate the search target, sample size, the information they want to receive, and how much they will pay for personal data of a single user.
 
-![Birdchain Personal data](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Personal_Data.jpg?raw=true)
+<p align="center">
+  <img width="700" height="265" alt="Personal Data" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Personal_Data.jpg">
+</p>
 
 The Birdchain app will randomly select individuals from the list of users that meet the company's specified criteria. Users will be notified about the possibility of selling their personal data. They will be provided with the company’s information, the required data specificity, and the BIRD token remuneration. A person can confirm or reject the offer.
 
@@ -496,7 +500,7 @@ Birdchain does not make and hereby disclaims, any representation, warranty, or u
 We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on **Bittrex**, **Kucoin**, or some other well-known exchange. Our calculations are that token will be listed within a month after our ICO.
 
 <p align="center">
-  <img width="860" height="1348" alt="Team" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap5.jpg">
+  <img width="860" height="1348" alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap5.jpg">
 </p>
 
 # Appendix
