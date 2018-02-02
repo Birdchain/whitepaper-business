@@ -361,7 +361,7 @@ In the app settings, people can set whether they want additional earnings by par
 Based upon users' demographic information, the company will can offer users the opportunity to participate in surveys and be rewarded for participation. The remuneration amount will be set by the company.
 
 <p align="center">
-  <img width="700" height="265" alt="Birdchain Survey" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg">
+  <img width="700" height="265" alt="Survey" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg">
 </p>
 
 We will notify the randomly selected user about the possibility to share their opinion and gain BIRD tokens. They will be provided with the company's information, the survey theme, and the remuneration amount for the answers. The user will be rewarded after completing the questionnaire.
