@@ -62,7 +62,7 @@ In short:
 The team behind Birdchain has been a part of  [the European-based company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/). In 2009, Vertex started our A2P SMS aggregation business, called [VertexSMS](https://vertexsms.com/?lang=en). Since then, [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, MasterCard, SalesForce, TransferGo, and many others.
 
 <p align="center">
-  <img width="700" height="240" alt="Clients" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Clients.jpg">
+  <img alt="Clients" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Clients.jpg">
 </p>
  
 Vertex is a profitable company. In 2015, Vertex received an award for being the fastest growing ITT company in Lithuania. Vertex continued to grow in 2016. In 2012, Vertex was recognized as one of the fastest growing companies in Latvia.
