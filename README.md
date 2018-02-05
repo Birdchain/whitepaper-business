@@ -217,7 +217,10 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 * No need to install additional apps. SMS messages can be received and read on any mobile phone in any network, almost anywhere in the world.
 
 **In the ideal world**, when a business wants to conduct an SMS marketing campaign, it must contact aggregators. Aggregators are companies that mediate between businesses that WANT to send SMS and operators that CAN send them.  
-![Ideal SMS path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png?raw=true)
+
+<p align="center">
+  <img alt="Ideal SMS path" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/IdeaWorld.png">
+</p>
 
 **In the real world**, it is not that straightforward.
 ![Real-world path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/09.png?raw=true)
