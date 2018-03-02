@@ -102,31 +102,31 @@ Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epet
 
 **[Anatoly Ressin](https://www.linkedin.com/in/anatolyressin)** 
 
-![Anatoly](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/anatoly2.png)
+![Anatoly](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/200xanatoly.png)
 
 A founder of Fastr, a reading-training application development firm, and AssistUnion, which builds intelligent and performing web-enabled systems. Has been a team member of Civic as a contractor, senior software developer at C.T.Co and #Decent as a core developer. At the moment, he is a CEO of BlockVis, a company involved in organizing blockchain competence and education opportunities and structuring the blockchain market in Latvia and abroad.
 
 **[Andreas Petrow](https://www.linkedin.com/in/andreypetrow)**
 
-![Andreas](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/andreas2.png)
+![Andreas](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/200xandreas.png)
 
 7+ years of experience working in financial services & data providing business. He is a leading Relationship Manager within Standard & Poor’s – improving client relations and consulting Asset Managers in Northern Europe. Andrey is developing and cultivating strategic relationships, maintaining and developing existing business at CEO-Level. By helping customers develop their businesses using advanced analytics, standing up financial-data analytical tools, creating and maintaining financial models, and onboarding compelling new datasets – growth is always a top priority. The focus lies on Portfolio Analytics and Quantitative investment approach.
 
 **[Rob Eijgenraam](https://www.linkedin.com/in/robeijgenraam)**
 
-![Rob](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/rob2.png)
+![Rob](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/200x-rob.png)
 
 Rob Eijgenraam is an online marketing expert, founder of ICO Marketing company CryptoLeads.io, and a co-founder of Purple Minds. He is a speaker about cryptocurrency marketing and an organizer of crypto educational events. His passion for Bitcoin and Blockchain comes from a belief in open systems and a permissionless society and market place.
 
 **[Paulius Petretis](https://www.linkedin.com/in/sauga)**
 
-![Rob](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/paulius2.png)
+![Paulius](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/200xpaulius.png)
 
 Paulius Petretis is a Data Privacy and Information Security expert, guest speaker at various conferences and seminars, Trainer at exclusive training courses. Paulius manages VORAS Consulting which offers consultancy services including data privacy and information security management, social engineering and IT service management. Certification in CISSP-ISSMP, CISM, CGEIT, CRISC, CISA, PMP, CIW-SA!
 
 **[David A. Cohen](https://www.linkedin.com/in/davidallencohen)**
 
-![Rob](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/david2.png)
+![David](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/200xdavid.png)
 
 David A. Cohen is internationally renowned for his pioneering work in the Decentralized Software industry and recently in the Digital Currency and Blockchain industry.  David is working on next generation blockchain architectures such as Hashgraph, and is currently advisor to Hashgraph. David is a former IOTA Foundation member.  He is also working with FarmaTrust, WePower, Wireline.io, and other blockchain companies.  He is Founder of Dcntral.ai, a blockchain-based cybersecurity software company.
 
