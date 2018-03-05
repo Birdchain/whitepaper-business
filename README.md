@@ -444,7 +444,6 @@ Token sale will be implemented in several steps:
 ## Soft and Hard cap's
 
 Soft cap of the ICO - **1,500 ETH**
-
 Hard cap of the ICO - **10,500 ETH**
 
 ### Token distribution
