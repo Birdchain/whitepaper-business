@@ -15,24 +15,19 @@
     3. [Content engagement](#content-engagement)
         1. [How content engagement is going to work?](#how-content-engagement-is-going-to-work) 
         2. [Tested concept](#tested-concept)
-        3. [Content F.A.Q.](#content-faq)
     4. [In-app mini-games](#in-app-mini-games)
         1. [How mini-games are going to work?](#how-mini-games-are-going-to-work) 
-        2. [Mini-games F.A.Q.](#mini-games-faq)
     5. [Personal data marketplace](#personal-data-marketplance)
         1. [How marketplace is going to work?](#how-marketplace-is-going-to-work) 
         2. [Working examples](#working-examples)
-        3. [Marketplace F.A.Q.](#marketplace-faq)
 4. [Business prospects](#business-prospects)
     1. [SWOT](#swot)
     2. [Finances](#finances)
 5. [Token sale](#token-sale)
     1. [Soft and Hard cap's](#soft-and-hard-caps)
     2. [Purpose of the Token](#purpose-of-the-token)
-    3. [Rules of the Token sale](#rules-of-the-token-sale)
-    4. [ICO](#ico)
-    5. [Are Birdchain tokens Securities?](#are-birdchain-tokens-securities)
-    6. [Please Note](#please-note)
+    3. [Are Birdchain tokens Securities?](#are-birdchain-tokens-securities)
+    4. [Please Note](#please-note)
 6. [Exchanges](#exchanges)
 7. [Appendix](#appendix)
 
@@ -345,9 +340,6 @@ Experimenting with new opportunities for members to broadcast adverts, we have d
 
 People aren't against viewing corporate advertisements multiple times, as long as they are getting at least a symbolical reward for that. The main users' request was to view more varied and diverse advertisements.
 
-## Content F.A.Q.
-Coming soon
-
 # In-app mini-games
 To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users could spend the earned tokens. A marketplace of in-app applications will be a space where users can install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in creating the perfect IM application. However, the greatest potential we are seeing is in the growing mobile gaming market.
 
@@ -361,9 +353,6 @@ In the starting stages of the Birdchain app development, the Birdchain team will
 We will create the SDK (software development kit) to third parties, so they could develop games and apps customizable to the Birdchain application. Those will be placed on a marketplace, and app users can find and select the most enchanting ones for them.
 
 Birdchain app users will pay with BIRD tokens for the installed applications and games. Third parties can choose the preferred monetization method. We expect about 20 percent of the apps to be sold by the "pay and hold" principle, and the remaining will be charged by subscription.
-
-## Mini-games F.A.Q.
-Coming soon
 
 # Personal data marketplace
 Facebook, Google, Apple, and other companies collect and sell not only the demographic data of their users but also information about their hobbies and habits. And people get no benefits for providing this information. Birdchain Personal data marketplace reinstates the personal data processing to the people.
@@ -412,9 +401,6 @@ As Birdchain is based upon *volunteering principle*, users will decide how much 
 
 Essentially, Birdchain is disrupting the market by reinstating the control of personal data and other information back to the people.
 
-## Marketplace F.A.Q.
-Coming soon
-
 # Business prospects
 ## SWOT
 | **Strengths**                                                                       | **Weaknesses**                                 |
@@ -453,7 +439,7 @@ Coming soon
 Token sale will be implemented in several steps:
 * Closed pre-sale (2018.01.01-2018.01.18)
 * Open pre-sale (starting 2018.01.18)
-* Main ICO event (TBD)
+* Main ICO event (2018.03.01-2018.05.31)
 
 ## Soft and Hard cap's
 
@@ -480,12 +466,6 @@ Smart contracts enable the existence of Birdchain token as a truly transparent a
 BIRDs are distributed and kept on the main Ethereum network. To optimize the transaction cost and performance, all micro transactions are processed off-chain, and only the final stakes are returned to the Ethereum network. We believe in the idea of keeping tokens on Ethereum and see it as a bank platform that is excellent for entering exchange markets.
 
 ![Token flow](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node2.png?raw=true)
-
-## Rules of the Token sale
-Coming soon
-
-## ICO
-Coming soon
 
 ## Are Birdchain tokens Securities?
 **No**, Birdchain tokens are not and are not intended to be securities, financial instruments, or investment products of any kind.
