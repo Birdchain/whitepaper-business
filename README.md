@@ -176,7 +176,7 @@ The main goal of Birdchain is to disrupt the A2P SMS market with blockchain tech
 
 Birdchain will be the first (in the history of the world!) non-governmental initiative to create Global Basic Income.
 
-Depending on a country and market activity, Birdchain app users should be able to earn 30-300 USD per month. This means Birdchain could create basic passive income for its users globally.
+Depending on a country and market activity, Birdchain app users should be able to earn up to 150 USD per month. This means Birdchain could create basic passive income for its users globally.
 
 We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. However, Birdchain guarantees no revenue to Birdchain token holders or Birdchain app users.
 
