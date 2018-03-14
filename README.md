@@ -497,7 +497,7 @@ Birdchain does not make and hereby disclaims, any representation, warranty, or u
 We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on some well-known exchanges. Our calculations are that token will be listed within a month after our ICO.
 
 <p align="center">
-  <img alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Roadmap-6.png">
+  <img alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap.png">
 </p>
 
 # Appendix
