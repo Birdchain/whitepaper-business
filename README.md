@@ -289,7 +289,7 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 ## The Growing Demand
 In 2015, the Application-to-person (A2P) SMS market was worth $57.3 billion and is forecasted to grow to $83 billion by 2024.
 
-![Growing number of SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/03.png?raw=true)
+![Growing number of SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/trillion-messages.png)
 
 Until recent years, SMS marketing was considered fast, safe, and reliable. However, as the market grew, it was monopolized and got distorted. Most of the market is shared amongst a few key players.
 
