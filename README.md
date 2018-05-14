@@ -153,24 +153,6 @@ Our goal is to create a strong token that would be useful for our contributors a
 7. **Embracing the competition**. Our A2P SMS service will be appealing to all companies that look for lower SMS price and high-quality service.
 8. Detailed **financial forecast**. Check it out here: [Finances](#finances)
 
-## Streams of the Token
-This is how BIRD token will circulate in the market. Please note that these schematics are simplified.
-
-### ICO stage
-![ICO stage](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-01.png?raw=true)
-
-### Earning from unused SMS sales
-![Earning from unused SMS sales](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-02.png?raw=true)
-
-### Spending BIRD tokens
-![Spending BIRD tokens](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-03.png?raw=true)
-
-### BIRD token circulation
-![ICO stage](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_4_FIX-04.png?raw=true)
-
-### Full scheme of BIRD token circulation
-![Full scheme of BIRD token circulation](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC_grafikas_Internal_Economics_2-05.png?raw=true)
-
 ## GBI - Global Basic Income
 The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology to make it better, faster, more transparent, and fair-priced. However, we believe that, soon it will become obvious that Birdchain is much more than just a (r)evolutionary idea.
 
