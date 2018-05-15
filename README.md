@@ -226,11 +226,11 @@ The reasons for A2P growth:
 ![Real-world path](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/09.png?raw=true)
 
 As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straight as possible.
-![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png?raw=true)
+![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png)
 
 # Issues to Solve
 
-As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Due to technical nuances our solution for Expected messages is Android exclusive and solution to Unexpected messages will work on both iOS and Android. Thus is why we separate both approaches. Nonetheless, each of them supports and complements another. 
+As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Due to technical nuances our solution for Expected messages is Android exclusive and solution to Unexpected messages will work on both iOS and Android. This is why we separate both approaches. Nonetheless, each of them supports and complements another. 
 
 <p align="center">
   <img alt="Birdchain Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Asset%203.png">
@@ -246,7 +246,7 @@ Solution:
 
 Birdchain will employ unused SMS of regular people and reward them for every single used SMS. This background process is completely automatic.
 
-This approach will grant us access to cheap and reliable rout of A2P message delivery. We will track deliverability reports and log them on blockchain – provide unprecedented level of transparency to the market.
+This approach will grant us access to cheap and reliable route of A2P message delivery. We will track deliverability reports and log them on blockchain – provide unprecedented level of transparency to the market.
 
 For carriers we will present Birdchain solution as loyalty program that will help them to onboard more network users and get bigger market share. 
 
@@ -279,7 +279,7 @@ Design planning of application architecture and performance becomes more demandi
 
 The Birdchain network is a mobile centered distributed application with a centralized server core which helps people to make monthly passive income and help companies to distribute content. The client side application should be available exclusively on Android devices and on all future-released open source operational systems with the ability to use related devices in the Birdchain network.
 
-Based on a given details we decide to set a client side application as a center of the business model, and a centralized server infrastructure as a data and communication support provider. Such a mobile-centric architecture make it really easy to scale in future or even to replace a centralized architecture on a decentralized network with a custom consensus. Taking back to our research of existing solutions the closest architecture for the future decentralization is the directed acyclic graph ledger or a lightning network protocol in future. But to make any of available in future distributed architectures we have to be sure it’s possible to provide minimum or zero fee for the transaction, required consensus of nodes to be sure users are safe from a double spend issue, and to make the transaction as fast as possible(meaning less than 4-5 seconds). Unfortunately there is still no any such available distributed ledgers including IOTA Tangle. 
+Based on a given details we decide to set a client side application as a center of the business model, and a centralized server infrastructure as a data and communication support provider. Such a mobile-centric architecture make it really easy to scale in future or even to replace a centralized architecture on a decentralized network with a custom consensus. Taking back to our research of existing solutions the closest architecture for the future decentralization is the directed acyclic graph ledger or a lightning network protocol in future. But to make any available in future distributed architectures we have to be sure it’s possible to provide minimum or zero fee for the transaction, required consensus of nodes to be sure users are safe from a double spend issue, and to make the transaction as fast as possible(meaning less than 4-5 seconds). Unfortunately there is still no any such available distributed ledgers including IOTA Tangle. 
 
 ## Definitions, acronyms, and abbreviations
 
@@ -323,7 +323,7 @@ We propose to refer to the Birdchain network as to the closed economy model whic
 
 Since it’s a data-centric product it will need to store the data. For that, a centralized database will be used with a potential to transform into a custom distributed ledger. Both the mobile application and web portal will communicate with the database, however in a different ways. The mobile application will only use the database to receive a newly appeared obligation, it’s status and initial requirements for requested commodity; then send a Proof-of-Work to the database. Also mobile application should have an access to the current account’s balance via wallet and to the token-to-ETH exchange functionality. All of the database communicate will go over Internet, all actions for the Proof-of-Work will go through local telecom networks.
 
-The mobile application has some restrictions about the resource allocation. To avoid problems with overloading the operating system the application should not contain any unrelated to account’s actions data.
+The mobile application has some restrictions about the resource allocation. To avoid problems with overloading the operating system the application should not contain any data unrelated to account’s actions.
 
 ### Product Functions
 
@@ -348,7 +348,7 @@ Consumers can only request a commodity and select a region. Consumers should hav
 Administrators acts only to handle statistical information, report bugs and respond to users. Administrators can’t change mining pool configurations, cancel transactions etc.
 
 ### Constraints
-The mobile application is constrained by the system interface to the SMS amd Internet Access within the Android Operating System. Since the interface is the same and is available on all phones. Since application doesn’t work offline, it is crucial that there is an Internet connection for the application to function.
+The mobile application is constrained by the system interface to the SMS and Internet Access within the Android Operating System. Since the interface is the same and is available on all phones. Since application doesn’t work offline, it is crucial that there is an Internet connection for the application to function.
 
 Both the web portal and mobile application should not be constrained by the capacity of the database. Since the database is shared between both applications, it may be forced to queue incoming requests and therefore increase the time it takes to fetch the data. In future this should be solved by a distributed database. We don’t see any additional significant efforts to transfer the data while changing between distributed and centralized database architecture and agree such architecture as enough for the minimum viable product and next architecture upgrades.
 
