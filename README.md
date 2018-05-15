@@ -8,28 +8,54 @@
     1. [Raising value of the Token](#raising-value-of-the-token)
         1. [Streams of the Token](#streams-of-the-token)
         2. [GBI - Global Basic Income](#gbi---global-basic-income)
-    2. [SMS gateway](#sms-gateway)
-        1. [How SMS gateway is going to work?](#how-sms-gateway-is-going-to-work) 
-        2. [The Growing Demand](#the-growing-demand)
-        3. [SMS F.A.Q.](#sms-faq)
-    3. [Content engagement](#content-engagement)
-        1. [How content engagement is going to work?](#how-content-engagement-is-going-to-work) 
-        2. [Tested concept](#tested-concept)
-    4. [In-app mini-games](#in-app-mini-games)
-        1. [How mini-games are going to work?](#how-mini-games-are-going-to-work) 
-    5. [Personal data marketplace](#personal-data-marketplance)
-        1. [How marketplace is going to work?](#how-marketplace-is-going-to-work) 
-        2. [Working examples](#working-examples)
-4. [Business prospects](#business-prospects)
-    1. [SWOT](#swot)
-    2. [Finances](#finances)
-5. [Token sale](#token-sale)
+    2. [Overview](#overview)
+        1. [What is A2P messaging and why it is important?](#what-is-A2P-messaging-and-why-it-is-important) 
+        2. [Definitions, acronyms, and abbreviations](#definitions-acronyms-and-abbreviations)
+        3. [MVP Overview](#mvp-overview)
+    3. [Overall Description](#overall-description)
+        1. [Product Perspective](#product-perspective) 
+        2. [Tokenization](#tokenization)
+        3. [Product Functions](#product-functions)
+        4. [Constraints](#constraints)
+    4. [User Flow](#user-flow)
+        1. [Ads Subscriber](#ads-subscriber) 
+        2. [Ads Provider](#ads-provider) 
+    5. [Specific Requirements](#specific-requirements)
+        1. [Netting](#netting) 
+        2. [Escrow](#escrow)
+        3. [Battery Life](#battery-life)
+    6. [Backend Microservices Details and Functional Scheme](#backend-microservices-details-and-functional-scheme)
+        1. [Operational Service](#operational-service) 
+        2. [OAuth 2.0 Authentication](#oauth-2.0-authentication)
+        3. [Proxy Service](#proxy-service)
+        4. [Channel Builder](#channel-builder) 
+        5. [Cold Storage](#cold-storage)
+        6. [Hot Storage](#hot-storage)
+        7. [Ethereum Operator](#ethereum-operator) 
+        8. [Ethereum Manager](#ethereum-manager)
+        9. [Administrative Service](#administrative-service)
+        10. [Front End Applications](#front-end-applications) 
+        11. [Mobile Applications](#mobile-applications)
+    7. [Smart Contracts Details and Functional Scheme](#smart-contracts-details-and-functional-scheme)
+        1. [Balance Storage Contract](#balance-storage-contract) 
+        2. [Campaign Creation Factory Contract](#campaign-creation-factory-contract)
+        3. [Ads Campaign Contract](#ads-campaign-contract)
+        4. [Escrow Contract](#escrow-contract) 
+        5. [Proxy Contract](#proxy-contract)
+        6. [Token Contract](#token-contract)
+    8. [Operations on Smart Contracts and Required Toolset](#operations-on-smart-contracts-and-required-toolset)
+    9. [Server Setup](#server-setup)
+    10. [Prioritization and Release Plan](#prioritization-and-release-plan)
+        1. [Prioritization](#prioritization)
+        2. [Release Plan](#release-plan)
+4. [Token sale](#token-sale)
     1. [Soft and Hard cap's](#soft-and-hard-caps)
     2. [Purpose of the Token](#purpose-of-the-token)
+    3. [Fund Allocation](#fund-allocation)
     3. [Are Birdchain tokens Securities?](#are-birdchain-tokens-securities)
     4. [Please Note](#please-note)
-6. [Exchanges](#exchanges)
-7. [Appendix](#appendix)
+5. [Exchanges](#exchanges)
+6. [Appendix](#appendix)
 
 # Abstract
 
@@ -162,7 +188,13 @@ Depending on a country and market activity, Birdchain app users should be able t
 
 We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. However, Birdchain guarantees no revenue to Birdchain token holders or Birdchain app users.
 
-# SMS gateway
+# Overview
+Architecture, performance management, and capacity planning of applications depends on the ability to model these distributed applications at design time as well as during normal operations. This paper specifies overall description and some details on the functional requirements of performance and architecture modeling of the Birdchain Network. These specifications include the need to model transactions consisting of multiple, nested, synchronous and concurrent client-server interactions using tractable techniques and best practice. Example of application model with a centralized backend is presented based on the past experience and as a result of the current research. Suggestions for future work concludes the paper.
+
+Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
+
+## What is A2P messaging and why it is important?
+
 An Application To Person (A2P) SMS is sent from an application — typically a web app — to a mobile subscriber. There are several types of the most popular A2P SMS:
 * SMS notifications;
 * SMS-based two-factor authentications;
@@ -230,192 +262,328 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 
 ![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png?raw=true)
 
-## How is SMS gateway going to work?
+## Definitions, acronyms, and abbreviations
 
-**End-users of the app** who want to employ their unused SMSs and grant themselves monthly passive income should:
-1. Download a Birdchain instant messaging app:
-  1. Set Birdchain as a default messaging app;
-2.	Open settings:
-  1.	Set the number of SMS they want to be sold*;
-  2.	Click “Send”;
-3.	Chat with your friends and family via Birdchain app, while SMS is automatically sold in the background;
-4.	Check in-app wallet to track their earnings and number of messages sold.
+* **Provider** - Ads content provider.
+* **Receiver** - Ads content receiver.
+* **Android & iOS Mobile Applications** - Application for mobile devices that acts as a messaging channels and Ethereum wallet. 
+* **Web Portal** - Browser interface for senders to provide a way to start ads campaign, escrow funds for it and to monitor the campaign status.
+* **Administration Application** - Application that provides a possibility for the administrative staff to avoid illegal campaigns. Also it provides a statistical information on users activities. Should be available from browser.
+* **Birdchain network** - A set of microservices and different kind of databases to provide the core of the network and various caches to the final network clients - mobile applications, smart contracts and web portals. Birdchain network contains all required data inside to be fully functional and completely separated from any infrastructural components and administrational user interfaces.
+* **Ethereum Smart Contracts** - Backend services provided inside the Ethereum ledger. All of them are custom services created by Birdchain developers to give a possibility to get rewards and exchange tokens and provide escrows.
 
-**For businesses** looking for a fairly priced A2P SMS service:
-1. Before using the Birdchain service, the company must gather a list of phone numbers (contacts);
-2. The company must visit the Birdchain web-app and log in;
-3. The **company must purchase BIRD tokens** to send A2P SMSs;
-4. The company sets the campaign by taking these steps:
-    1. uploading their contacts;
-    2. writing the text of the SMS message;
-    3. setting the maximum amount (bid) it wants to pay for the campaign;
-5. Birdchain analyses the phone numbers and finds the best way to conduct the campaign:
-    1. sends SMSs only to the contacts in the same country;
-    2. sends SMS only to the same carrier numbers;
-    3. finds the best prices for the campaign;
-    4. forms Smart Contracts between the business and every single Birdchain app user whose SMS will be purchased;
-6. Birdchain sends out the messages;
-7. Birdchain uses blockchain to verify the delivery of every single SMS;
-8. When delivery is confirmed and the conditions of the Smart Contract are fulfilled, company bid is equally distributed among all app users whose SMS were used to deliver the messages.
+## MVP Overview
+he Birdchain MVP is a messenger application with the ability to share ads content between content providers and content receivers. The client side application is divided into two parts. 
 
-![Sending SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node.png?raw=true)
+* Mobile applications - iOS and Android apps - used by ads viewers
+* Browser front end application - used by content providers
+* Backend microservices - different services to provide viewers-to-providers communications and various infrastructural services like push notifications, ethereum services etc.
 
-**What Will Not Birdchain Do?**
-1. Birdchain will not provide phone numbers to companies. Birdchain only facilitates the service;
-2. Birdchain will not use the Birdchain app user contact list;
-3. Birdchain will not allow service price to exceed 80 percent of the country’s average;
-4. Birdchain will not allow companies to send messages without clearly stating their name;
-5. Birdchain will not allow people who received a transactional or promotional message to contact the Birdchain app user for 72 hours after receiving it;
-6. Birdchain will not collect user’s personal data.
+# Overall Description
+This section will give an overview of the whole system. The system will be explained in its context to show how it interacts with other systems and introduce the basic functionality of it. It will also describe what type of users that will use the system and what functionality is available for each type. At last, the constraints and assumptions for the system will be presented.
 
-## The Growing Demand
-In 2015, the Application-to-person (A2P) SMS market was worth $57.3 billion and is forecasted to grow to $83 billion by 2024.
+## Product perspective
+This system will consist of three parts: mobile applications - Android and iOS, one web portal for ads providers and a backend server - various microservices - with a database(s) and caches.
 
-![Growing number of SMS](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/trillion-messages.png)
+While the web portal will be used for managing user specific information on profile and payment details and administrative access for selected users. Mobile applications has minimum amount of information provided to Birdchain and super-fast sign up consisted from only one step - user phone number should be provided.
 
-Until recent years, SMS marketing was considered fast, safe, and reliable. However, as the market grew, it was monopolized and got distorted. Most of the market is shared amongst a few key players.
+Backend server will contain current Birdchain network state including analytics, statistical information, administrative actions and various caches.
 
-Despite these A2P SMS market defects, the demand for this service is increasing every year. As a marketing channel, SMS has huge advantages: SMS has an open rate of 99%, and 90% of consumers read the SMS within the first three minutes of receipt. Also, it has flexibility to reach one or many customers, and it is the most convenient communication channel to the end user.
+## Tokenization
+BIRD token is an initial Birdchain token created with a purpose to provide an initial coin offering and to use the token into an application as a supply commodity. This is a plain Ethereum ERC20 token with the ability to use onto crypto exchanges and can be stored into any Ethereum wallet.
 
-![Growing SMS price](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/WP-Grafikai01.png?raw=true)
- 
-## SMS F.A.Q.
-**Will Birdchain send messages to my contact list?**
-**No.** Birdchain will send SMS messages only to the numbers provided by the company. Businesses must collect their own contact database. Birdchain will only facilitate the A2P SMS distribution service.
+In Birdchain environment users can exchange token into obligations with Birdchain itself  to spread ads into receiver channels - all existing users of mobile applications.
 
-**How will operators react to your service?**
-It is unlikely for operators to take any real action in the next three-four years. First, we assume SMS delivery is of low importance to them, as it generates relatively small profits. Second, we assume operators will not risk getting sued for privacy violation (reading private messages), and even if they won, the cost of victory would be too high. Third, if a Birdchain app user does not send more messages per day/month than they can send according to their operator’s Fair Usage Agreement, the operator will have no pretext to check what messages were sent from the phone.
+## Product Functions
+Mobile application is a gate to Birdchain network. It acts as a messenger where user can subscribe to channels, every channel is a filtered topic of ads available in the network. Filtering by the content and by the location gives a possibility not just to earn by reviewing ads content but, but also to be subscribed to a useful content stream. 
 
-**How will Birdchain protect the privacy of a sender?**
-Sender’s number will be visible to the person who receives SMS. At the moment, there is no way to avoid it. This might be a drawback for some potential app users so, from the earliest Birdchain versions, we will implement several security features:
+Ads content is a rich media with images and sound attached, all text is represented via HTML markup. User can view ads and get a reward. Also user can share it within Birdchain network or outside of Birdchain to Facebook, Twitter etc. Naturally every sharing should be paid to the user in BIRD token. 
 
-First, we will not send transactional or promotional messages to Birdchain app user’s contact list. The message will be delivered from someone else's phone. 
-
-Second, the name of the sending company will be stated in the message text, so receiver would know who to contact if he/she wanted to cancel the subscription.
-
-Third, for the first 72 hours after sending the promotional or transactional message, Birdchain app will block all incoming calls and messages from the specific number to which it will be sent, meaning the person who receives an SMS cannot contact the person whose phone was used to deliver it.
-
-**How much money will people be able to earn?**
-The answer to this question strongly depends on the country and demand for the Birdchain service. Rough calculations suggest, under average conditions, a Birdchain app user in the Germany, Netherlands, and other countries could earn **up to 150 USD** per month. More or less the same amount could be earned in most parts of the world. Exceptions: in developing countries, earnings may be lower due to lower average A2P SMS service prices; under perfect conditions in Germany and Belgium (where A2P SMS prices are the highest in the world), monthly earnings could be higher. These are theoretical estimations and may be different after applying Birdchain in real life.
-
-*Please note that Birdchain does not guarantee any payments to its users.*
-
-# Content engagement
-One of the easiest ways for people to earn money will be involvement in content engagement. Foremost, we will develop the opportunity to receive BIRD Tokens for previewing the adverts. Later, we will install a live stream and provide other opportunities for content broadcast.
-
-## How is content engagement going to work?
-
-**Video viewing**
-For every video ad preview, users will get a reward for a certain number of tokens. To accomplish this, users ought to open a designated app section and preview the adverts. After the video preview, BIRD tokens would be automatically transferred to their account.
-
-Companies can choose the amount they will pay for a video preview and indicate their target group demographics: location, age, gender, and other data. The company must only indicate the amount they want to assign (and transfer the sum as BIRD tokens), then choose the maximum payment for a single preview, the number of times the entry could be previewed by the same person, and the preview video ad duration required to merit earning the preview payment. The price of a single preview will be calculated. If the company's campaign budget is not expended, the remaining amount will return to the company's wallet.
-
-**Live stream**
-At a later stage, we will enable users to create and broadcast content within the Birdchain app. The viewers can stream the content for free or after paying the number of BIRD tokens set by the content generating user. In both cases, viewers can additionally donate BIRD tokens if they like the content.
-
-At the moment, the best example of such merit-based gaining would be the twitch.tv platform, where people share how they play games and are rewarded by other players/viewers. That is not the only adaptation of this feature. Users can share moments of their life, travel, or adventure.
-
-## Tested concept
-This feature has the potential of becoming the main momentum of Bird token circulation. The team developing Birdchain has engaged in developing the social network with over 1 million unique users. The content engagement feature has proven to be very successful.
-
-Experimenting with new opportunities for members to broadcast adverts, we have developed a system allowing granting rewards for users for previewing video ads. The results of user involvement were exceptionally good. Within a 6-month period since the feature launching, **80 percent** of the online users were using it.
-
-People aren't against viewing corporate advertisements multiple times, as long as they are getting at least a symbolical reward for that. The main users' request was to view more varied and diverse advertisements.
-
-# In-app mini-games
-To create an internal economy and promote BIRD tokens' circulation, we must create a space where our app users could spend the earned tokens. A marketplace of in-app applications will be a space where users can install additional add-ons, increasing the efficiency of the Birdchain app and aiding them in creating the perfect IM application. However, the greatest potential we are seeing is in the growing mobile gaming market.
-
-![Mobile game market](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/MobileGames2.png)
-
-## How are mini-games going to work?
-The Birdchain app will hold a marketplace where users can download the needed extension. It could be a work-friendly app (such as a calendar, work scheduler, or a calculator), or some uncomplicated games.
-
-In the starting stages of the Birdchain app development, the Birdchain team will present several simple, yet engaging, games for users to spend their earned valuables. For example, we know from experience the slot machine game will be very successful.
-
-We will create the SDK (software development kit) to third parties, so they could develop games and apps customizable to the Birdchain application. Those will be placed on a marketplace, and app users can find and select the most enchanting ones for them.
-
-Birdchain app users will pay with BIRD tokens for the installed applications and games. Third parties can choose the preferred monetization method. We expect about 20 percent of the apps to be sold by the "pay and hold" principle, and the remaining will be charged by subscription.
-
-# Personal data marketplace
-Facebook, Google, Apple, and other companies collect and sell not only the demographic data of their users but also information about their hobbies and habits. And people get no benefits for providing this information. Birdchain Personal data marketplace reinstates the personal data processing to the people.
-
-*Important: Birdchain will not store any personal consumers' information and will not share it with other parties, except for the information necessary for providing Birdchain services and helping people to earn valuables.*
-
-## How is marketplace going to work?
-This tool will work in two ways: it will allow companies to conduct surveys or to purchase their personal data directly.
-In the app settings, people can set whether they want additional earnings by participating in such surveys and by providing their personal information to third parties. The Birdchain app will require entering demographic information about the user.
-
-**Surveys**
-
-Based upon users' demographic information, the company will can offer users the opportunity to participate in surveys and be rewarded for participation. The remuneration amount will be set by the company.
+*E.x. I’m a crypto evangelist and I’m interested in earning some BIRD tokens by viewing ads or sharing it, but also my interests are about new computer hardware prices on the market and in visiting blockchain related events. That’s why I have a separate channel in Birdchain messenger with all related ads beside all other. Probably I have a lot of blockchain related friends and I will be happy to share just posted crypto event ads with them.
 
 <p align="center">
-  <img alt="Survey" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Survey.jpg">
+  <img alt="Mobile App" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Mobile%20App%20Mocks.png">
 </p>
 
-We will notify the randomly selected user about the possibility to share their opinion and gain BIRD tokens. They will be provided with the company's information, the survey theme, and the remuneration amount for the answers. The user will be rewarded after completing the questionnaire.
+Once user gets his BIRD token via viewing or sharing ads, the wallet inside the application can help to exchange BIRD into ETH and to withdraw it to any other Ethereum address. Based on the requirement of EIP20 token standard, user’s wallet is pretty straightforward and well known to all Ethereum users around the globe.
 
-**Personal data**
-This feature is more expensive than surveys, but companies can acquire considerably more valuable information.
+Thinking of future it’s natural to add a possibility to all users create its own ads right from the mobile application. That’s how a plain user can spend its BIRD tokens. This idea is well suited for a small business owners and public persons.
 
-Companies seeking to purchase Birdchain users' personal data will have to indicate the search target, sample size, the information they want to receive, and how much they will pay for personal data of a single user.
+## Constraints
+Since the interface is the same and is available on all phones - iOS and Android - there is no constraint in messenger usage. Since application doesn’t fetch new data offline, it is crucial that there is an Internet connection for the application to function.
+
+Both the web portal and mobile application should not be constrained by the capacity of the database. Meaning all content should be fetched when app is online and stored inside the database for the future offline review. 
+
+# User Flow
+There are two types of the user - ads subscribers and ads producers. Both of the acting as a separate entities. But we specify that ads subscriber will be available to make actions belonging to ads producers in future releases.
+
+## Ads Subscriber
 
 <p align="center">
-  <img alt="Personal Data" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Personal_Data.jpg">
+  <img alt="User Flow. Ads Subscriber" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/User%20Flow.%20Ads%20Subscriber.png">
 </p>
 
-The Birdchain app will randomly select individuals from the list of users that meet the company's specified criteria. Users will be notified about the possibility of selling their personal data. They will be provided with the company’s information, the required data specificity, and the BIRD token remuneration. A person can confirm or reject the offer.
+Subscriber user flow starts from the sign up into the network. The only required field for sign up is a phone number. Birdchain will verify the phone number with SMS in future releases. Other options like email, gender, should be added optionally and have to be used for more targeted ads suggestion. 
 
-By confirming the offer, the person must input all the required personal information. For example, contact details, birthday, sex, place of residence, lifestyle, habits, income etc. A person will receive a reward immediately.
+Next app should ask a user for a passcode or fingerprint if available. It’s necessary to save valuable user information inside crypto secured storages - Keychain on iOS, Android Keystore System on Android.
 
-## Working examples
-Tech giants, like Facebook and Google, dominate the global digital advertising market year after year. Google is likely to make $72.69 billion in ad revenues in 2017, while Facebook will make $33.76 billion. Together, that equates to a 46.4 percent share of advertisers' total global digital ad spend. 
+Next user should select preferences for precisely targeted ads. Backend should provide ads content based on user preferences, his profile information.
 
-To become world leaders  *both companies had to bend our perception of privacy*. 
+Backend should create new public address for ETH and BIRD tokens. Both balances are available in settings for the work with them. User can withdraw BIRD or exchange BIRD into ETH and then withdraw ETH. User should be able to recover his account or create a new one with a mnemonic phrase. Note: mnemonic phrase never stored inside the application, this is a security reason and user should be warned.
 
-Google saves every user’s search history. As a large part of the search giant's business model is based around advertising, it must know their users. Google uses the advantage of storing personal data.
+Once all information has been entered, app started a socket connection with the server. Socket connection is only available when messenger feed is on screen. Otherwise connection will drain phone battery. Ads coming into the feed in the same fashion messages come into plain messenger applications.
 
-Facebook uses private personal data and advanced algorithms tracks users, even when they are not using Facebook because of their extensive surveillance network on sites that link to them. 
+User can preview ads, for every preview user get a reward on his BIRD balance. User can respond to the ads, response will be available to ads provider. User can share ads within his social accounts - Facebook, Twitter, etc. For every ads sharing user should get a reward.
+User can withdraw received tokens or change them into Ethereum token in a wallet section of the application.
 
-Additionally, Facebook and Google (and other companies) collect and sell not only the users' demographic data but also information about their hobbies and habits. And people get no benefits for providing this invaluable information simply by agreeing with imposed privacy policies of such tech giants. 
+Settings section should provide user with all required inputs to change feed preferences, to filter incoming push notifications, to view a help information, terms of services and privacy policy of the application, to change user profile information, link social networking accounts. In future releases it should be possible to create several accounts and link them under the on super user. 
 
-As Birdchain is based upon *volunteering principle*, users will decide how much of their personal information they are willing to relinquish. Birdchain will not store any personal consumers' information and will not share it with other parties, except for the information necessary for providing Birdchain services.
+2-factors authentication nowadays is a must and should be provided to the user later. When available, all user information should be changed using it. For example to use a combination of pin code and a code sent to another user’s device.
 
-Essentially, Birdchain is disrupting the market by reinstating the control of personal data and other information back to the people.
+## Ads Provider
 
-# Business prospects
-## SWOT
-| **Strengths**                                                                       | **Weaknesses**                                 |
-| :---------------------------------------------------------------------------------- | :--------------------------------------------- |
-| Almost 10 years of experience in A2P SMS market                                     | Visible sender number                          |
-| Profitable and successful company                                                   |                                                | 
-| In-depth expertise of the market and business                                       |                                                | 
-| Team is gathered from different successful projects and share unique experiences    |                                                |
-| Owning all required technologies for A2P SMS delivery                               |                                                |
-| Huge potential market - US$56 billion in 2015                                       |                                                |
-| Market is growing - 5 percent annually                                              |                                                |
-| Direct access to potential clients - our current and previous clients               |                                                |
-| Birdchain will introduce very competitive prices                                    |                                                |
-| Passive income will accelerate mass adoption of Birdchain app                       |                                                |
-| Experience developing social/chat apps                                              |                                                |
+<p align="center">
+  <img alt="User Flow. Ads Provider" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/User%20Flow.%20Ads%20Provider.png">
+</p>
 
+Ads provider is a user who is willing to show ads in a selected region for users in a selected targeting scope. Provider should pay to Birdchain system with BIRD tokens or ETH tokens in order to submit a campaign. Campaign should fit into Birdchain’s Terms of Services.
+First step to become a birdchain ads provider is to sign up on browser application and provide a user related information like email, password, first and last name etc. On sign up Birdchain shows a mnemonic phrase or uses a mnemonic phrase provided by the user to identify and link Ethereum address to specified account. In case when user doesn’t have a mnemonic phrase and accepts a new one, Birdchain should ask user to write it into a safe place in order to restore the account later.
 
-| **Opportunities**                                                                   | **Threats**                                    |
-| :---------------------------------------------------------------------------------- | :--------------------------------------------- |
-| Aggregators are interested in the lowest possible price of A2P SMS service          | Competition with other IM apps                 |
-| Aggregators have enormous SMS traffic                                               | Competition after forking our service          |
-| Versatility of the SMS                                                              |                                                |
-| People are interested in getting additional income with little effort - it will     |                                                |
-| accelerate adoption of Birdchain app                                                |                                                |
-| Potential to grow in services                                                       |                                                |
-| Becoming global leader of decentralized A2P SMS delivery                            |                                                |
-| Growing interest in cryptocurrencies                                                |                                                |
-| No direct competitors                                                               |                                                |
+After user have successfully signed in, he can start new campaign creation process. To begin a new campaign user should provide campaign details including transaction volume of the campaign. User should escrow BIRD tokens to his account, from this tokens receivers will get their reward for ads viewing or sharing. **There is no real transactions inside Birdchain network, but netting is used. Ethereum transactions happen only on withdrawal from Birdchain to external address.** This is how Birdchain can make transactions a way faster than in Ethereum ledger and avoid issues of paying the gas for every transaction inside the network.
 
+All campaign ads should be provided as a rich media content consisted from HTML, image or even video and audio content.
+Once the balance is less than one viewing fee, campaign stops. User can load more money to his address and proceed with the campaign, or to finish a campaign successfully.
 
-## Finances
-![Birdchain Finances](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/FinancialForecast.png?raw=true)
-![Birdchain Finances 2020](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/FinancialForecastSummary.png)
+User can withdraw BIRD or ETH tokens left after the finish of the campaign or after campaign has been stopped. In case user have been restored his account, all amount available in Birdchain is also available in his external wallets.
+
+Additionally Birdchain can provide various cryptocurrencies as exchange functionality. Unfortunately there is no direct possibilities to exchange EIP20 tokens into other types of crypto beside connection to the external exchange API like Kraken or manually by system administrator.
+
+# Specific Requirements
+## Netting
+There are 3 types of token transactions inside the system:
+* User escrow BIRD token in order to create a new campaign. This transaction requires ETH token to be converted inside BIRD and BIRD token is escrowed inside correspondent smart contract. As the other options ETH escrowed without exchanging it into BIRD. And as the third option Birdchain can escrow the amount user wants to use in Birdchain network and assign virtual BIRD tokens which will be used inside the system. Every payment to the developer is a netting operation where there is no transactions happen inside Ethereum ledger but all calculations lay inside of Birdchain backend. Either way should be chosen but the third one will drastically reduce the amount of gas spent on transactions. In such a case transactional gas will be used only when user escrow the amount and withdraw the spend or the reward.
+* The second type is a payment to ads viewers and sharers. In order to reduce the amount of gas we propose to change Ethereum transactions onto netting operations between providers and viewers.
+* The third one is a withdraw operation. For viewers it happens when they have collected enough BIRD tokens to withdraw or exchange into ETH token. For providers it happens when there is a spend after campaign has been finished, or campaign has been cancelled and provider wants to get his money back.
+
+## Escrow
+
+Ads provider should be able to begin the campaign and in order to make ads viewers sure their actions will be paid, provider escrow the required amount to the corresponded smart contract on the full length of the campaign.
+
+## Battery Life
+
+Battery lifetime is critical when we use sockets in mobile applications. It’s very easy to drain the battery and force user to uninstall the application. Birdchain app should use socket connections only in the case of foreground mode with ads feed visible on the screen. All other communication should be provided as a plain REST queries. Also app should use push notifications to receive all valuable information requested by the user (all notification options are in Settings part of the app).
+
+# Functional Requirements
+
+This section provides all details on user interaction with the system. All user stories and possible use cases provided below with the reference to interface mockups.
+
+## Backend Microservices Details and Functional Scheme
+
+Here we provide backend decomposition and microservices overview. Core microservices included into Birdchain Network solution are:
+
+<p align="center">
+  <img alt="Microservices" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Microservices%20Scheme%20v.2.png">
+</p>
+
+### Operational Service
+
+**Warning: operational service should be architectured with a mind that it contains three different microservices - authentication, mobile messaging channels, campaign logic. This microservices should act separately and have to be splitted into three in future releases.
+
+Operational Service represents the core logic of the entire backend. *This is an obvious component and should be done in the first milestone.* It handles all campaign and mobile communication infrastructure tasks:
+* New campaign creation
+* Campaign cancellation
+* Campaign finalization
+* Queries Ethereum network to deploy new campaign instance smart contracts
+* Listens to Ethereum events
+* Handles Ethereum exceptions and react on them
+* Contains internal data storage with all current campaign states
+* Update Birdchain database with completed, failed and cancelled campaigns
+* Handles mobile messaging channels.
+
+Operational Service consists of next components:
+* **Task Manager** - contains all business logic of the Operational Service. Reacts on incoming messages from other microservices, handles internal data storage and changes a current state appropriately to users actions. Operational Service can update database. Task Manager send tasks to Campaign Creation Service. Task Manager has a direct connection with future Network Administrators Service in order to monitor the status of all ongoing operations and suspend, cancel and resume all tasks on any emergency. 
+* **Campaign Manager** - serves to send new campaign creational requests to Ethereum Smart Contracts. Interoperate with Ethereum Manager Service; listens to Ethereum Manager on a successful campaign event.
+Query Broker - a queue manager to avoid concurrent requests overloading. It can be any of battle-tested brokers - RabbitMQ, ZeroMQ, SQS etc.
+* **Hot Storage** - plain in-memory key-value storage. All microservice state should stored in it and taken from it on the request. Because we use Elixir in a stack, it’s natural to use ETS (Erlang Terms Storage).
+* **Cold Storage** - disk-based key-value storage. It should be used on process / service restarts to save data from Hot Storage and on data restore to Hot Storage. Elixir and Erlang stack provides DETS for it.
+* **Repository API** - is a microservice that handles all incoming connections to Hot Storage. It manages communication between microservice and Hot Storage, it saves Hot Storage state to Cold Storage on a request or regularly within some discrete time. 
+
+Operational Service always starts with initial state and contains current state that describes all available temporary data that helps to communicate between internal services.
+
+Operational Service has next communication interfaces:
+* **Instance API** - handles all communications between microservices inside Birdchain Backend. Instance API never talks to users and to any third party services outside Birdchain Network.
+* **Management API** - handles all communication between entire microservice and Administrative Service(not described on the scheme above). Serves for microservice configuration and monitoring during its work. Task Manager is a single instance that uses this interface.
+* **Ethereum Proxy** - handles all requests to Ethereum Smart Contracts and listens to all specified events from Ethereum network. Campaign Creation Service is a single instance that uses this interface.
+
+### OAuth 2.0 Authentication
+
+Birdchain authentication built on top of OAuth 2.0 protocol. We decide to use OAuth as a battle-tested technology available and well known for all platforms. More details on OAuth protocol can be found on the link below:
+[OAuth Specification](https://oauth.net/2/)
+
+### Proxy Service
+
+Proxy Service represents a set of small microservices used primarily to handle incoming connections:
+* **Router** - should be used to navigate incoming queries to corresponded microservices, each microservice has its own API. There is quite many APIs exposed to receive incoming connections that’s why one routing point becomes very useful.
+* **Logger** - it’s a good practice to log everything is coming and going out, collect statistical information and Birdchain should do this at one point instead of on every API endpoint.
+* **Rate limiter** - rate limiter should be used to guard possible attach vector related to DDoS attack.
+* **Load balancer** - we have to use load balancers on every cluster of hardware servers in the network to be sure we can spawn new instances on warnings related to the lack of resources.
+* **TLS terminator** - we propose to terminate HTTPS traffic before Birdchain network. We define all servers as private and there is no possibility for the man-in-the-middle attack or any other chances to take out valuable user information.
+
+Proxy Service should be used for all incoming connections from client side applications excluding direct Ethereum connections.
+
+### Channel Builder
+
+Every user communicates with Birdchain network with its own ads channel. We propose to link user’s mobile application with a socket connection when user is online - than we can send ads like in all other messaging apps - immediately on ads appear. 
+
+Channel builder represents a cluster of nodes linked to each other with a process registry. Every node runs thousands of processes that contain every user’s state - ads feed. Every user is always connected to such a process while he’s online and application is in a foreground mode. On application turned into background or stopped modes channel should persist for a short time and self-destroy saving its state into cold storage. On new user session new channel should be created restoring its state from the cold storage.
+
+The best choice for such functionality is a Phoenix framework built on top of Erlang Virtual Machine. EVM is designed to handle millions of concurrent connections and mainly used in messengers and telecoms.
+
+For interprocess communication it’s a good option to use Process Groups 2 (PG2) library from Erlang environment. 
+
+### Cold Storage
+
+To provide the best consistency of the data and fastest response, we propose to use relational PostgreSQL database for the cold storage. Beside it’s a battle tested database with marvelous amount of great features and extensions, there is a great support of it in Elixir community and it has libraries which are great in usage.
+
+Database should be splitted into schemas according to microservices to provide multi-tenancy and future distribution and sharding - key features of the scale process.
+
+### Hot Storage
+
+As a hot storage for every microservice we propose to use Erlang native key-value in-memory storage ETS (Erlang Terms Storage) and its companion DETS as a filesystem backup of ETS. It has a native Erlang-Elixir support and provides super fast turnaround on reads and writes.
+
+### Ethereum operator
+
+Ethereum Operator is a transaction processing microservice. It sends requests to Ethereum ledger via Parity full Ethereum node laid inside the microservice. Also it listends events from it. 
+
+Ethereum Operator microservice contains the next components:
+* **Parity Node** - full Ethereum client node.
+* **Sender Server** - sends requests to Ethereum Smart Contracts. 
+* **Listener Server** - listens to Ethereum events and transfer them outside.
+
+Ethereum Operator has next communication interfaces:
+* **Parity Node**  - incoming and outgoing Ethereum connections;
+* **Instance API** - access to Ethereum from outside of the microservice;
+* **Event Generator** - event transferring gate. Microservices should connect via the socket to Event Generator and receive all incoming events. 
+
+### Ethereum Manager
+
+Ethereum Manager is a microservice contains specifications and their implementation in order to work with Ethereum Smart Contracts created specifically for Birdchain Network. Ethereum manager from the one side listens to Ethereum Operator for specified Ethereum Events, and from the other side sends requests via Ethereum Operator to Ethereum ledger.
+
+Ethereum Manager microservice contains the next components:
+* **Deque Manager & Contract Listener** - the service created with the reason to listen to events coming from Ethereum Operator and to enqueue them into the hot storage. Also it deque events from the hot storage sending them correspondent Birdchain microservices.
+* **Contract Caller** - listens to incoming requests from Birdchain Network and pass them to Ethereum Operator. Listens for the OK response from Ethereum Operator.
+
+Ethereum Manager has next communication interfaces:
+* **Instance API** - access to Ethereum Manager inside Birdchain Network.
+* **Socket Provider** - socket connections pool available in order to listen to incoming events.
+
+### Administrative Service
+
+Birdchain network should be monitored by administrative staff to avoid various illegal content. It should be done automatically by various filters and manually by accepting new campaigns and monitoring of their status. Also Administrative Service should contain all required tools to watch the health of servers and databases, receive information from Logger and statistical information from all other services. Administrator Service should use automatic tools to filter and cancel various malicious and illegal content sent by ads providers.
+
+Administrative Service is an Elixir application running on a single node and providing REST API for administrative front end application. Administrative Service is communicating via REST with all other services, including database health checks and database content check. 
+
+### Front End Applications
+
+Front End Applications are ReactJS browser apps linked via REST API to Birdchain API. On the first stage of the development only ads providers will use browser front end to create new ads, get ads statistics and transfer their funds.
+
+There are two different front end applications in the network:
+* Ads provider application
+* Administrator application
+
+Both applications linked to their own API endpoints via REST protocol. For the local cache in browser we assume the usage of Redux and Local Storage. Same as mobile applications browser apps will use OAuth 2.0 protocol to establish stateless sessions with the server. In order to update information reactively we propose to use socket connections in future releases.
+
+Design mockups should be provided before starting to build any of them, we’re following a convention - design first. In order to provide the best user experience Birdchain should have its own set of user interface React components library. All of them will be used in container components. 
+
+Administrator Application should contain features required for monitoring and handling all cold storages available in Birdchain. Every storage should have its own component and interface to manage user’s data.
+
+Administrative Application should have an interface to confirm new campaigns. Campaign should be confirmed only in a case when there is enough BIRD or ETH token sent to Escrow Contract.
+
+Administrative Application should have all statistical information from microservices on user load, ip locations and others.
+
+### Mobile Applications
+
+There are two types of mobile applications - for Android devices and for iOS devices. We propose to use reactive architecture and Model-View-View-Model architecture for both of them in order to provide real time updates fetched via socket connection and plain HTTP REST endpoints. Socket connection should be used for ads stream only in order to save user’s battery lifetime.
+
+iOS technology stack should be based on top of Swift programming language and contain next technologies: 
+* ReactiveX (RxSwift) for the reactive architecture
+* Core Data (SQLite3) for the local cache and permanent storage
+* Core Location to determine user’s location for a better ads targeting
+* Alamofire for plain HTTP requests
+* Facebook’s Socket Rocket for socket connections.
+
+Android technology stack should be based on top of Kotlin programming language and contain next technologies:
+* Architecture Components to provide MVVM architecture into Android environment
+* Room for the local cache and permanent storage
+* Volley for HTTP requests
+* Socket.io for socket connections.
+
+## Smart Contracts Details and Functional Scheme
+
+Birdchain network uses Ethereum ledger to provide users with a default payment gate based on ETH and BIRD tokens done on ERC20 (EIP20) standard. Birdchain is linked with Ethereum ledger via Operational Service and User Wallets. Smart contracts development should be provided by Solidity developer and fully tested manually and by providing automated unit testing use cases. It’s a requirement for any contract deployed into a blockchain ledger to be sure that even stochastic bugs are not presented in a code. Once contract has been deployed, there is no possibility to change or update it. It’s possible only to deploy a new contract with a new address and all state variables are empty. Such upgrades is a usual case of issues related to the next balance airdrops, balance lost or funds locks. Smart contract development should be done only by a highly skilled developer with obvious code review.
+
+<p align="center">
+  <img alt="Smart Contract" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Ethereum%20Smart%20Contracts%20Functional%20Scheme%20rev.2.png?raw=true">
+</p>
+
+### Balance Storage Contract
+
+Balance storage contract is a business model and its solidity realization that handles all current balances inside Birdchain network. Usually it’s a simple mapper between addresses and values linked to addresses. All balance related operations - transactions and getters should be settled into the contract too.
+
+### Campaign Creation Factory Contract
+
+Campaign creation factory is a contract which handles all required actions to deploy a new campaign contract instances into Ethereum network escrow contract instances. Every campaign has two separate smart contracts for handling all of transactions.
+
+### Ads Campaign Contract
+
+All campaign related functionality including related information data structures and various getters. Campaign contract is a parent contract for the Escrow contract and is able to act on user’s behalf and destroy both Escrow contract and itself.
+
+### Escrow Contract
+
+All escrow related functionality including withdraw, balance storage and various getters. Escrow contract is a mapper between campaign address and deposited tokens. 
+
+### Proxy Contract
+
+Proxy contract acts as a middleware between all Birdchain contracts and incoming requests. Proxy contract is a safety action in order to not to change initial addresses for backend and frontend queries to Ethereum. Once Birdchain dev team decide to upgrade the contract, there is no possibility to left initial contract address and simply swap the contract on a newer version. This is why we have a mapping between addresses available for the public and internal Birdchain contracts addresses.
+
+### Token Contract
+
+Token contract is a standard EIP20 (ERC20) contract created by Birdchain for the ICO with a BIRD symbol. Birdchain network will use BIRD for all transactions, BIRD is available in any Ethereum wallet.
+
+## Operations on Smart Contracts and required toolset
+
+The decision to use standardized ERC20 token gives a possibility to work with plain Ethereum wallets and with a toolset created for Ethereum. It’s straightforward to start using Web3JS library just from the browser using Metamask app (available on Chrome and Firefox) to directly communicate with Ethereum ledger and send transactions. 
+
+Various Ethereum browsers like Mist and Parity are also available to communicate with Ethereum, they have all required toolset from the scratch, including Ethereum wallet and a full Ethereum node.
+
+Android applications can communicate with Ethereum directly using Web3J library, it’s similar to Web3JS but is created on top of Java.
+Development toolset should include Truffle framework, all contracts should be unit tested using JS testing environment - Mocha and Chai. All testing use cases and user stories for acceptance tests have to be described before smart contracts development started.
+
+# Server Setup
+
+In this section we describe rough setup of the server environment. This environment includes microservice clusters of nodes, required load balancing and various endpoints.
+
+**TBD**
+
+# Prioritization and Release Plan
+
+## Prioritization
+
+| Requirement ID | Title                                | Requirement Type |
+|:--------------:|:-------------------------------------|:-----------------|
+|                | Android Messaging Application        | Function         |
+|                | iOS Messaging Application            | Function         |
+|                | Ads Provider Web Portal              | Function         |
+|                | Operational Service                  | Function         |
+|                | Ethereum Smart Contracts             | Function         |
+|                | System Availability                  | Quality          |
+|                | Communication Security               | Quality          |
+|                | System reliability and response time | Quality          |
+
+## Release Plan	
+The requirements were divided into three releases based on the prioritization and their dependencies. The three different releases were assembled so that each would work as a fully functional application.
+			
+In the first release the requirements that build up the foundation of the application were included, together with the most highly prioritized requirements and their dependencies.
 
 # Token sale
 Token sale will be implemented in several steps:
@@ -428,7 +596,7 @@ Token sale will be implemented in several steps:
 Soft cap of the ICO - **1,500 ETH**
 Hard cap of the ICO - **10,500 ETH**
 
-### Token distribution
+## Token distribution
 
 * Maximum coin supply **580,263,158**
 * Total ICO distribution **441,000,000**
@@ -447,6 +615,10 @@ Smart contracts enable the existence of Birdchain token as a truly transparent a
 BIRDs are distributed and kept on the main Ethereum network. To optimize the transaction cost and performance, all micro transactions are processed off-chain, and only the final stakes are returned to the Ethereum network. We believe in the idea of keeping tokens on Ethereum and see it as a bank platform that is excellent for entering exchange markets.
 
 ![Token flow](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BC-node2.png?raw=true)
+
+## Fund allocation
+![Birdchain Finances](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/FinancialForecast.png?raw=true)
+![Birdchain Finances 2020](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/FinancialForecastSummary.png)
 
 ## Are Birdchain tokens Securities?
 **No**, Birdchain tokens are not and are not intended to be securities, financial instruments, or investment products of any kind.
