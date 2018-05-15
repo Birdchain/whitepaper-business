@@ -35,7 +35,7 @@
 
 # Abstract
 
-A team of the Birdchain is not a start-up. It is part of a parent company, named Vertex. Vertex is a profitable company with a team of experienced professionals, whose professionalism and skills were tested in action. The founding team has successfully co-launched several businesses.
+The team of the Birdchain is not a start-up. It is part of a parent company, named Vertex. Vertex is a profitable company with a team of experienced professionals, whose professionalism and skills were tested in action. The founding team has successfully co-launched several businesses.
 
 <p align="center">
   <img alt="Vertex" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.png">
