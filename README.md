@@ -8,46 +8,22 @@
     1. [Raising value of the Token](#raising-value-of-the-token)
         1. [Streams of the Token](#streams-of-the-token)
         2. [GBI - Global Basic Income](#gbi---global-basic-income)
-    2. [Overview](#overview)
-        1. [What is A2P messaging and why it is important?](#what-is-A2P-messaging-and-why-it-is-important) 
-        2. [Definitions, acronyms, and abbreviations](#definitions-acronyms-and-abbreviations)
-        3. [MVP Overview](#mvp-overview)
-    3. [Overall Description](#overall-description)
-        1. [Product Perspective](#product-perspective) 
-        2. [Tokenization](#tokenization)
-        3. [Product Functions](#product-functions)
-        4. [Constraints](#constraints)
-    4. [User Flow](#user-flow)
-        1. [Ads Subscriber](#ads-subscriber) 
-        2. [Ads Provider](#ads-provider) 
-    5. [Specific Requirements](#specific-requirements)
-        1. [Netting](#netting) 
-        2. [Escrow](#escrow)
-        3. [Battery Life](#battery-life)
-    6. [Backend Microservices Details and Functional Scheme](#backend-microservices-details-and-functional-scheme)
-        1. [Operational Service](#operational-service) 
-        2. [OAuth 2.0 Authentication](#oauth-2.0-authentication)
-        3. [Proxy Service](#proxy-service)
-        4. [Channel Builder](#channel-builder) 
-        5. [Cold Storage](#cold-storage)
-        6. [Hot Storage](#hot-storage)
-        7. [Ethereum Operator](#ethereum-operator) 
-        8. [Ethereum Manager](#ethereum-manager)
-        9. [Administrative Service](#administrative-service)
-        10. [Front End Applications](#front-end-applications) 
-        11. [Mobile Applications](#mobile-applications)
-    7. [Smart Contracts Details and Functional Scheme](#smart-contracts-details-and-functional-scheme)
-        1. [Balance Storage Contract](#balance-storage-contract) 
-        2. [Campaign Creation Factory Contract](#campaign-creation-factory-contract)
-        3. [Ads Campaign Contract](#ads-campaign-contract)
-        4. [Escrow Contract](#escrow-contract) 
-        5. [Proxy Contract](#proxy-contract)
-        6. [Token Contract](#token-contract)
-    8. [Operations on Smart Contracts and Required Toolset](#operations-on-smart-contracts-and-required-toolset)
-    9. [Server Setup](#server-setup)
-    10. [Prioritization and Release Plan](#prioritization-and-release-plan)
-        1. [Prioritization](#prioritization)
-        2. [Release Plan](#release-plan)
+    2. [What is A2P Messaging and Why it is Important?](#what-is-A2P-messaging-and-why-it-is-important)
+    3. [Issues to Solve](#issues-to-solve)
+    3. [Birdchain App](#birdchain-app)
+        1. [Scope](#scope)
+    4. [Expected Messages a.k.a. Transactional messages](#expected-messages-a.k.a.-transactional-messages)	
+        1. [Overall Description (Expected Messages)](#overall-description-expected-messages)
+        2. [Specific Requirements (Expected Messages)](#specific-requirements-expected-messages) 
+        3. [Functional Requirements and Use Cases](#functional-requirements-and-use-cases)
+        4. [Prioritization and Release Plan](#prioritization-and-release-plan)
+    5. [Unexpected Messages a.k.a. Promotional messages](#unexpected-messages-a.k.a.-promotional-messages)
+        1. [Overall Description (Unexpected Messages)](#overall-description-unexpected-messages) 
+        2. [User Flow](#user-flow)
+        3. [Specific Requirements (Unexpected Messages)](#specific-requirements-unexpected-messages)
+        4. [Functional Requirements](#functional-requirements)
+        5. [Server Setup](#server-setup)	
+        6. [Prioritization and Release Plan (Unexpected Messages)](#prioritization-and-release-plan-unexpected-messages)	
 4. [Token sale](#token-sale)
     1. [Soft and Hard cap's](#soft-and-hard-caps)
     2. [Purpose of the Token](#purpose-of-the-token)
@@ -267,6 +243,7 @@ Issues:
 * A2P messaging is extremely expensive. Single A2P message in Belgium costs 0,1 USD, in Japan – 0,08 USD, in New Zealand – 0,1 USD. 
 
 Solution:
+
 Birdchain will employ unused SMS of regular people and reward them for every single used SMS. This background process is completely automatic.
 
 This approach will grant us access to cheap and reliable rout of A2P message delivery. We will track deliverability reports and log them on blockchain – provide unprecedented level of transparency to the market.
@@ -283,6 +260,7 @@ Issues:
 * Recent events revealed that people do not like how Facebook and Google exploit their personal information. These companies make billions in revenue and actual owners of this data are not rewarded in any way.
 
 Solution:
+
 Birdchain will allow businesses to send direct rich media messages for Birdchain users. Users are rewarded to engage with the message. They can get additional – bigger – reward for sharing the message with people who might be interested in it. Hence the name – P2P marketing.
 
 Birdchain app will prevent delivery of the same message to a person more than once. Even from different phones. 
@@ -320,7 +298,7 @@ Android Miner Application Application downloaded from Play Store. This applicati
 * **Public Interfaces** - Both Birdchain Network and Ethereum Smart Contracts have public interfaces to provide the data for anyone who is willing to make an audit actions and to the third party software providers.
 * **Private Interfaces** - All provided by Birdchain and Edenlab teams infrastructure that gives a possibility to the final users - commodity providers, obligation providers, administrators - to operate within the Birdchain network and to act as middle mans between Birdchain economy and outside world.
 
-## Overall Description
+## Overall Description (Expected Messages)
 
 This section will give an overview of the whole system. The system will be explained in its context to show how it interacts with other systems and introduce the basic functionality of it. It will also describe what type of stakeholders that will use the system and what functionality is available for each type. At last, the constraints and assumptions for the system will be presented.
 
@@ -377,7 +355,7 @@ The mobile application is constrained by the system interface to the SMS amd Int
 
 Both the web portal and mobile application should not be constrained by the capacity of the database. Since the database is shared between both applications, it may be forced to queue incoming requests and therefore increase the time it takes to fetch the data. In future this should be solved by a distributed database. We don’t see any additional significant efforts to transfer the data while changing between distributed and centralized database architecture and agree such architecture as enough for the minimum viable product and next architecture upgrades.
 
-## Specific Requirements
+## Specific Requirements (Expected Messages)
 
 This section contains all of the functional and quality requirements of the system. It gives a detailed description of the system and all its features.
 
@@ -622,18 +600,12 @@ Wallets Service has next communication interfaces:
 
 | Requirement ID | Title                                                        | Requirement Type |
 |:--------------:|:-------------------------------------------------------------|:-----------------|
-|                | Provider Android App - Authentication/Authorization scheme - | Function         |
-|                | Telephone number and region registration within the system.  |                  |
-|                | Provider Android App - Proof-of-Work - SMS gateway with      | Function         |
-|                | cryptographical confirmation with the receipt.               |                  |
-|                | Consumer Web Portal with a database -                        | Function         |
-|                | Authentication/Authorization scheme - two-factor             |                  |
-|                | authentication within email and text message confirmation.   |                  |
-|                | Consumer Web Portal - Obligation creation process - new      | Function         |
-|                | message campaign                                             |                  |
+|                | Provider Android App - Authentication/Authorization scheme - Telephone number and region registration within the system.| Function         |
+|                | Provider Android App - Proof-of-Work - SMS gateway with cryptographical confirmation with the receipt.     | Function         |
+|                | Consumer Web Portal with a database - Authentication/Authorization scheme - two-factor authentication within email and text message confirmation.                       | Function         |
+|                | Consumer Web Portal - Obligation creation process - new message campaign     | Function         |
 |                | Both applications - wallet/exchanger                         | Function         |
-|                | Smart Contracts - glue between Provider Android App and a 	| Function         |
-|                | database                                                     |                  |
+|                | Smart Contracts - glue between Provider Android App and a database	| Function |
 |                | System Availability                                          | Quality          |
 |                | Communication Security                                       | Quality          |
 |                | System reliability and response time                         | Quality          |
@@ -644,10 +616,6 @@ The requirements were divided into three releases based on the prioritization an
 In the first release the requirements that build up the foundation of the application were included, together with the most highly prioritized requirements and their dependencies.
 
 # Unexpected Messages a.k.a. Promotional messages
-
-Architecture, performance management, and capacity planning of applications depends on the ability to model these distributed applications at design time as well as during normal operations. This paper specifies overall description and some details on the functional requirements of performance and architecture modeling of the Birdchain Network. These specifications include the need to model transactions consisting of multiple, nested, synchronous and concurrent client-server interactions using tractable techniques and best practice. Example of application model with a centralized backend is presented based on the past experience and as a result of the current research. Suggestions for future work concludes the paper.
-
-Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
 
 ## Definitions, acronyms, and abbreviations
 
@@ -666,7 +634,7 @@ The Birdchain MVP is a messenger application with the ability to share ads conte
 * Browser front end application - used by content providers
 * Backend microservices - different services to provide viewers-to-providers communications and various infrastructural services like push notifications, ethereum services etc.
 
-# Overall Description
+# Overall Description (Unexpected Messages)
 This section will give an overview of the whole system. The system will be explained in its context to show how it interacts with other systems and introduce the basic functionality of it. It will also describe what type of users that will use the system and what functionality is available for each type. At last, the constraints and assumptions for the system will be presented.
 
 ## Product perspective
@@ -745,7 +713,7 @@ User can withdraw BIRD or ETH tokens left after the finish of the campaign or af
 
 Additionally Birdchain can provide various cryptocurrencies as exchange functionality. Unfortunately there is no direct possibilities to exchange EIP20 tokens into other types of crypto beside connection to the external exchange API like Kraken or manually by system administrator.
 
-# Specific Requirements
+# Specific Requirements (Unexpected Messages)
 ## Netting
 There are 3 types of token transactions inside the system:
 * User escrow BIRD token in order to create a new campaign. This transaction requires ETH token to be converted inside BIRD and BIRD token is escrowed inside correspondent smart contract. As the other options ETH escrowed without exchanging it into BIRD. And as the third option Birdchain can escrow the amount user wants to use in Birdchain network and assign virtual BIRD tokens which will be used inside the system. Every payment to the developer is a netting operation where there is no transactions happen inside Ethereum ledger but all calculations lay inside of Birdchain backend. Either way should be chosen but the third one will drastically reduce the amount of gas spent on transactions. In such a case transactional gas will be used only when user escrow the amount and withdraw the spend or the reward.
@@ -952,7 +920,7 @@ In this section we describe rough setup of the server environment. This environm
 
 **TBD**
 
-# Prioritization and Release Plan
+# Prioritization and Release Plan (Unexpected Messages)
 
 ## Prioritization
 
