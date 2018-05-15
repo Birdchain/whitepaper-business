@@ -11,7 +11,6 @@
     2. [What is A2P Messaging and Why it is Important?](#what-is-A2P-messaging-and-why-it-is-important)
     3. [Issues to Solve](#issues-to-solve)
     3. [Birdchain App](#birdchain-app)
-        1. [Scope](#scope)
     4. [Expected Messages a.k.a. Transactional messages](#expected-messages-a.k.a.-transactional-messages)	
         1. [Overall Description (Expected Messages)](#overall-description-expected-messages)
         2. [Specific Requirements (Expected Messages)](#specific-requirements-expected-messages) 
@@ -41,7 +40,7 @@ The team of the Birdchain is not a start-up. It is part of a parent company, nam
   <img alt="Vertex" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.png">
 </p>
  
-Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. Birdchain will be developed exclusively for Android devices. 
+Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. 
 
 All features of the Birdchain create strong BIRD token. It stands out with low initial cost and token flexibility as a unique currency with favourable viability.
 
@@ -49,7 +48,7 @@ The official app presentation is planned at the Mobile World Congress in Barcelo
 
 In short:
 1) Birdchain is DApp that rewards;
-2) The intelligent features system creates internal economics and allows people to earn and spend money on the app;
+2) The intelligent features system creates internal economics and allows people to earn and spend crytocurrency on the app;
 3) Dapps are the future of the blockchain. Everyone at the moment invests in protocols, rather than actual applications. A comparison: whether to invest in HTML protocol or an Uber app? 
 
 **Join the ICO with the potential of real adaptability!**
@@ -132,17 +131,19 @@ He was the founder and CEO of Infotility where he pioneered the “Grid Edge” 
 David is a thought leader and has spoken at many venues such as MIT, TEDx, Consensus, Blockchain 100X and Singularity University.  He is an expert on Blockchain, Artificial Intelligence, Cybersecurity, and Edge Computing.
 
 # Birdchain. The app that rewards
+
 Birdchain is a decentralized app that will help people to make a passive income, while offering cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
 
-The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive money transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching. 
+The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive token transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching. 
 
 The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to earn BIRD tokens. 
 
-All methods of token earning via Birdchain aoo will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
+All methods of token earning via Birdchain app will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
 
 We will officially present the app at the Mobile World Congress in Barcelona in 2019.
 
 # Raising value of the token
+
 Our goal is to create a strong token that would be useful for our contributors and could circulate in the world easily. We believe circulation and spread of the token is the key to its value. The more people and companies that use our token, the more it would be used, the stronger it will be. Here are key points that make BIRD token stand out:
 1. **Low initial cost**. During the ICO, the BIRD will be sold at the lowest price to create a higher incentive for contributors.
 2. **Token flexibility**. When the BIRD value and demand increases, it can be fragmented into 18 decimals to serve market needs. 
@@ -154,6 +155,7 @@ Our goal is to create a strong token that would be useful for our contributors a
 8. Detailed **financial forecast**. Check it out here: [Finances](#finances)
 
 ## GBI - Global Basic Income
+
 The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology to make it better, faster, more transparent, and fair-priced. However, we believe that, soon it will become obvious that Birdchain is much more than just a (r)evolutionary idea.
 
 Birdchain will be the first (in the history of the world!) non-governmental initiative to create Global Basic Income.
@@ -273,12 +275,11 @@ Architecture, performance management, and capacity planning of applications depe
 
 Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
 
-## Scope
+# Expected Messages a.k.a. Transactional messages
+
 The Birdchain network is a mobile centered distributed application with a centralized server core which helps people to make monthly passive income and help companies to distribute content. The client side application should be available exclusively on Android devices and on all future-released open source operational systems with the ability to use related devices in the Birdchain network.
 
 Based on a given details we decide to set a client side application as a center of the business model, and a centralized server infrastructure as a data and communication support provider. Such a mobile-centric architecture make it really easy to scale in future or even to replace a centralized architecture on a decentralized network with a custom consensus. Taking back to our research of existing solutions the closest architecture for the future decentralization is the directed acyclic graph ledger or a lightning network protocol in future. But to make any of available in future distributed architectures we have to be sure it’s possible to provide minimum or zero fee for the transaction, required consensus of nodes to be sure users are safe from a double spend issue, and to make the transaction as fast as possible(meaning less than 4-5 seconds). Unfortunately there is still no any such available distributed ledgers including IOTA Tangle. 
-
-# Expected Messages a.k.a. Transactional messages
 
 ## Definitions, acronyms, and abbreviations
 
@@ -365,7 +366,7 @@ New account registration is the wallet creation process. Birdchain wallet has th
 
 If the user isn’t a first-time user, he/she should be able to see the history of transactions done within Proof-of-Work consensus, achieved reward as a current token balance and and access to the wallet-exchanger screen. 
 
-User interface should be minimized to make signup/signin flow as short as possible and all user actions have to be simple across the app. All application logic should be handled automagically by the backend - ledger (or database - centralized or decentralized), backend server(several separated microservices) and queue managers.
+User interface should be minimized to make signup/signin flow as short as possible and all user actions have to be simple across the app. All application logic should be handled automatically by the backend - ledger (or database - centralized or decentralized), backend server(several separated microservices) and queue managers.
 
 User should be able to login into the web interface with the telephone number he/she uses for providing commodities, email, passcode or fingerprint. Web interface functionality should be similar to the android app interface except the ability to start making the Proof-of-Work. 
 
