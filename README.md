@@ -134,13 +134,11 @@ David is a thought leader and has spoken at many venues such as MIT, TEDx, Conse
 # Birdchain. The app that rewards
 Birdchain is a decentralized app that will help people to make a passive income, while offering cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
 
-The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive money transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching.
+The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive money transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching. 
 
-The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to sell unused SMS and an opportunity to amass cryptocurrency from SMS messages. We will start with this feature because it has the highest potential of money earning initially. We have specialized in SMS delivery business for nearly ten years and hold a deep understanding of market specifics and SMS transmission technologies. Also, this will allow users to earn money from the first day.
+The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to earn BIRD tokens. 
 
-The next step will be taking on the other features described in this WP, which will allow people to earn money: Content Engagement, Personal Data Marketplace, and 3rd party in-app mini games.
-
-All methods of money earning will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
+All methods of token earning via Birdchain aoo will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
 
 We will officially present the app at the Mobile World Congress in Barcelona in 2019.
 
@@ -230,7 +228,7 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 
 # Issues to Solve
 
-As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Each of them supports and complements another in the final app.
+As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Due to technical nuances our solution for Expected messages is Android exclusive and solution to Unexpected messages will work on bonth iOS and Android. Thus is why we separate both approaches. Nonetheless, each of them supports and complements another. 
 
 <p align="center">
   <img alt="Birdchain Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Asset%203.png">
@@ -312,9 +310,7 @@ This system will consist of three parts: one mobile application, one web portal 
 * to find commodity providers and schedule message delivery
 * to share commodity within consumers network
 
-While the web portal will be used for managing user specific information on profile and payment details and administrative access for selected users.
-
-Backend server will contain current Birdchain network state including analytics, statistical information, administrative actions and various caches.
+While the web portal will be used for managing user specific information on profile and payment details and administrative access for selected users. Backend server will contain current Birdchain network state including analytics, statistical information, administrative actions and various caches.
 
 ### Tokenization
 
@@ -334,7 +330,7 @@ With the mobile application users will be able to provide their devices and mobi
 
 Rating should be normalized within each region to avoid abnormal outliers and to involve more newcomers into the selection. In future we propose to use Markov’s chain Monte Carlo algorithm to pick accounts within the probability space of each region using their transactions history chain and the transaction history chain of the consumer. Provider mobile application should work in a background mode as a mining entity. Also it should have a minimalistic user interface to provide current balance, current amount of proposed obligations and a history of completed transactions and spent commodities. Currently the only mobile platform available for this is Android.
 
-Consumer should be able to settle new obligations in a required region within web portal or within mobile interface. There is no problems at all to provide a fully featured applications both for iOS and Android platforms. The only interaction with the outside world is happening via Internet to the server(or to the distributed ledger in future releases). Both application should be linked to notification microservices deployed within back end bundle.
+Consumer should be able to settle new obligations in a required region within web portal or within mobile interface. There is no problems at all to provide a fully featured applications for Android platform. The only interaction with the outside world is happening via Internet to the server(or to the distributed ledger in future releases). Both application should be linked to notification microservices deployed within back end bundle.
 
 Web portal is available for both for consumers and for providers to give the access to current balance, to setup new obligations and for other statistical information.
 
@@ -379,11 +375,11 @@ All account validations should be done via SMS code verification. We suggest to 
 
 Application dashboard should give an ability to access different mining pools opened into the region where user operates. Mining pool is available to all miners, but contains several restrictions - rating system acts as a Proof-of-Stake; number of miners into the pool should be selected randomly from available users who have joined the mining pool manually. User selection happens randomly based on the probability calculated within user’s previous activity, his rating and several other factors. More details on user’s selection is explained in the section about the Birdchain Network.
 
-**Consumer Android and iOS Applications and Web Portal**
+**Consumer Android Application**
 
-This requirements should be met by all three applications - iOS, Android and Web Portal. A first-time user of the consumer should be able to sign up and provide a basic information like email and password. Also application should ask user about the passcode, fingerprint, SMS authentication etc. All available hardware and software techniques should be used to make user’s privacy and transaction security as strong as possible. Next screen should provide a list of active, finished and draft campaigns created by the user previously. 
+This requirements should be met by Android application. A first-time user of the consumer should be able to sign up and provide a basic information like email and password. Also application should ask user about the passcode, fingerprint, SMS authentication etc. All available hardware and software techniques should be used to make user’s privacy and transaction security as strong as possible. Next screen should provide a list of active, finished and draft campaigns created by the user previously. 
 
-User should have an access to the token wallet/exchanger. Wallet works absolutely the same as an android commodity provider application do. User should be able to exchange in-chain token into off-chain BRD and ETH crypto. User should be able to transfer off-chain cryptos from the account the any external address. Birdchain application doesn’t verify the address - user should be warned previously before the transaction begin. More cryptos should be provided as an options to ETH in future.
+User should have an access to the token wallet/exchanger. Wallet works absolutely the same as an Android commodity provider application do. User should be able to exchange in-chain token into off-chain BIRD and ETH crypto. User should be able to transfer off-chain cryptos from the account the any external address. Birdchain application doesn’t verify the address - user should be warned previously before the transaction begin. More cryptos should be provided as an options to ETH in future.
 
 When user starts a new campaign, available correspondent tokens should be locked by a smart contract as an escrow for commodity providers. Tokens should be released proportionally to the Proof-of-Work provided by the user. Amount of tokens locked is an automatic decision based on the price listed by all available providers in a region. Released amount of tokens should be calculated proportionally to the stake in the mining pool for every provider independently. Tokens are not eligible for the chargeback. Tokens outside the escrow can be exchanged to ETH or any other available currency on a request.
 
@@ -583,7 +579,7 @@ Wallet Service contains the next components:
 * **Contract Listener** - similarly to Ethereum Manager’s Contract Listener handles all incoming wallet events from Ethereum Operator and passing them through to the Balance manager.
 
 Wallets Service has next communication interfaces:
-* **Instance API** - links the service with Android, iOS apps and Web Portal. Handles all incoming user requests to the wallet service;
+* **Instance API** - links the service with Android app. Handles all incoming user requests to the wallet service;
 * **Socket Provider** - links all infrastructural microservices like Push Notifications and Email Notifications. Also handles incoming and outgoing requests to Ethereum Operator microservice. 
 
 ### Smart Contracts Details and Principal Scheme
