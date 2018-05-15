@@ -230,7 +230,7 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 
 # Issues to Solve
 
-As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Due to technical nuances our solution for Expected messages is Android exclusive and solution to Unexpected messages will work on bonth iOS and Android. Thus is why we separate both approaches. Nonetheless, each of them supports and complements another. 
+As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Due to technical nuances our solution for Expected messages is Android exclusive and solution to Unexpected messages will work on both iOS and Android. Thus is why we separate both approaches. Nonetheless, each of them supports and complements another. 
 
 <p align="center">
   <img alt="Birdchain Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Asset%203.png">
