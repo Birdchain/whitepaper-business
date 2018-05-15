@@ -188,12 +188,7 @@ Depending on a country and market activity, Birdchain app users should be able t
 
 We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. However, Birdchain guarantees no revenue to Birdchain token holders or Birdchain app users.
 
-# Overview
-Architecture, performance management, and capacity planning of applications depends on the ability to model these distributed applications at design time as well as during normal operations. This paper specifies overall description and some details on the functional requirements of performance and architecture modeling of the Birdchain Network. These specifications include the need to model transactions consisting of multiple, nested, synchronous and concurrent client-server interactions using tractable techniques and best practice. Example of application model with a centralized backend is presented based on the past experience and as a result of the current research. Suggestions for future work concludes the paper.
-
-Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
-
-## What is A2P messaging and why it is important?
+# What is A2P Messaging and Why it is Important?
 
 An Application To Person (A2P) SMS is sent from an application — typically a web app — to a mobile subscriber. There are several types of the most popular A2P SMS:
 * SMS notifications;
@@ -228,7 +223,11 @@ Here is why:
   <img alt="Phone users" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png">
 </p>
 
-A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024. The reasons for A2P growth:
+A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024.
+
+![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png)
+
+The reasons for A2P growth:
 * SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it, and SMS has the highest engagement rate compared to emails and OTT apps. 
 
 | User Count    | SMS Cost | Email Cost | AdWords Remarketing* | Facebook  | 
@@ -253,14 +252,402 @@ A2P SMS market is expected to grow by around 5% per year and reach $84 billion b
 As an independent aggregator, we see market flaws as opportunities for Birdchain. Birdchain makes the path of SMS sending as straight as possible.
 ![Path of the Birdchain](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/10.png?raw=true)
 
-**The problems:**
-1. People have unlimited SMS plans which they do not use;
-2. Companies overpay for the A2P SMS service and are constantly looking for opportunities to decrease the price.
+# Issues to Solve
 
-**The solution:**
-1. People can automatically sell their unused SMS to businesses via Birdchain instant messaging app. Companies get an up to 6 times cheaper service. People get paid for every single SMS sold.
+As Birdchain intends to solve two different groups of A2P messaging issues it takes two tailored approaches. Each of them supports and complements another in the final app.
 
-![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png?raw=true)
+<p align="center">
+  <img alt="Birdchain Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Asset%203.png">
+</p>
+
+**Expected messages**
+
+Issues:
+* Even though A2P messaging technology is longstanding, there are no reliable tools to measure deliverability. Without it, there is no transparency.
+* A2P messaging is extremely expensive. Single A2P message in Belgium costs 0,1 USD, in Japan – 0,08 USD, in New Zealand – 0,1 USD. 
+
+Solution:
+Birdchain will employ unused SMS of regular people and reward them for every single used SMS. This background process is completely automatic.
+
+This approach will grant us access to cheap and reliable rout of A2P message delivery. We will track deliverability reports and log them on blockchain – provide unprecedented level of transparency to the market.
+
+For carriers we will present Birdchain solution as loyalty program that will help them to onboard more network users and get bigger market share. 
+
+This solution will be Android exclusive. Covering 87,7 percent of the market.
+
+**Unexpected messages**
+
+Issues: 
+* Every day people are bombarded with billions of pieces of information. It is getting harder and more expensive for businesses to get in contact with their customers. A2P messaging could be the solution, but it is too expensive for companies to use daily. 
+* The technology is moldy. It is impossible to send images, videos, or formatted text – attributes which are necessary for every modern marketing campaign. 
+* Recent events revealed that people do not like how Facebook and Google exploit their personal information. These companies make billions in revenue and actual owners of this data are not rewarded in any way.
+
+Solution:
+Birdchain will allow businesses to send direct rich media messages for Birdchain users. Users are rewarded to engage with the message. They can get additional – bigger – reward for sharing the message with people who might be interested in it. Hence the name – P2P marketing.
+
+Birdchain app will prevent delivery of the same message to a person more than once. Even from different phones. 
+
+Rich media messages will allow businesses to send their clients images, videos, formatted text, and call-to-action buttons. 
+
+This feature will be Android and iOS compatible. Covering 99,8 of the market.
+
+# Birdchain app
+
+Architecture, performance management, and capacity planning of applications depends on the ability to model these distributed applications at design time as well as during normal operations. This paper specifies overall description and some details on the functional requirements of performance and architecture modeling of the Birdchain Network. These specifications include the need to model transactions consisting of multiple, nested, synchronous and concurrent client-server interactions using tractable techniques and best practice. Example of application model with a centralized backend is presented based on the past experience and as a result of the current research. Suggestions for future work concludes the paper.
+
+Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
+
+## Scope
+The Birdchain network is a mobile centered distributed application with a centralized server core which helps people to make monthly passive income and help companies to distribute content. The client side application should be available exclusively on Android devices and on all future-released open source operational systems with the ability to use related devices in the Birdchain network.
+
+Based on a given details we decide to set a client side application as a center of the business model, and a centralized server infrastructure as a data and communication support provider. Such a mobile-centric architecture make it really easy to scale in future or even to replace a centralized architecture on a decentralized network with a custom consensus. Taking back to our research of existing solutions the closest architecture for the future decentralization is the directed acyclic graph ledger or a lightning network protocol in future. But to make any of available in future distributed architectures we have to be sure it’s possible to provide minimum or zero fee for the transaction, required consensus of nodes to be sure users are safe from a double spend issue, and to make the transaction as fast as possible(meaning less than 4-5 seconds). Unfortunately there is still no any such available distributed ledgers including IOTA Tangle. 
+
+# Expected Messages a.k.a. Transactional messages
+
+## Definitions, acronyms, and abbreviations
+
+* **Commodities** - Available message quote provided via android application by a mobile phone owner.
+* **Obligations** - Required message quote asked by a company or individual for a messages distribution in a specific region
+* **Provider** - A person who interacts with the client side android application to provide commodities to the network
+* **Consumer** - Someone who interacts with the client side application to provide obligations to the network.
+Android Miner Application Application downloaded from Play Store. This application should be used by a person who is willing to provide a bulk of text messages in a specific region.
+* **Consumer Application** - Application downloaded from Play Store, App Store or a browser interface. This application should be used by a person or a company who is willing to request a bulk of text messages in a specific region.
+* **Web Portal** - Browser interface for consumers.
+* **Administration Application** - Application that provides a possibility for the moderating staff to avoid illegal campaigns and to provide tokens on a new campaign requests. Also it provides a statistical information on users activities. Should be available from browser, iOS and Android devices.
+* **Monitoring Application** - Application the provides a possibility for the development team to collect statistical information on Birdchain network and ledger(database) health. Monitoring Application should be linked to all available microservices, also mobile statistics should be well integrated into it.
+* **Birdchain network** - A set of microservices and different kind of databases to provide the core of the network and various caches to the final network clients** - mobile applications, smart contracts and web portals. Birdchain network contains all required data inside to be fully functional and completely separated from any infrastructural components and administrational user interfaces.
+* **Ethereum Smart Contracts** - Back end services provided inside the Ethereum ledger. All of them are custom services created by Birdchain developers to give a possibility to the final user to get both in-chain tokens and BRD crypto. Also smart contracts should provide all required business logic around token escrows.
+* **Public Interfaces** - Both Birdchain Network and Ethereum Smart Contracts have public interfaces to provide the data for anyone who is willing to make an audit actions and to the third party software providers.
+* **Private Interfaces** - All provided by Birdchain and Edenlab teams infrastructure that gives a possibility to the final users - commodity providers, obligation providers, administrators - to operate within the Birdchain network and to act as middle mans between Birdchain economy and outside world.
+
+## Overall Description
+
+This section will give an overview of the whole system. The system will be explained in its context to show how it interacts with other systems and introduce the basic functionality of it. It will also describe what type of stakeholders that will use the system and what functionality is available for each type. At last, the constraints and assumptions for the system will be presented.
+
+<p align="center">
+  <img alt="Functional Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Functional%20Scheme.png?raw=true">
+</p>
+
+### Product Perspective
+
+This system will consist of three parts: one mobile application, one web portal and a backend server with a database. The mobile application will have two parts:
+* to find commodity providers and schedule message delivery
+* to share commodity within consumers network
+
+While the web portal will be used for managing user specific information on profile and payment details and administrative access for selected users.
+
+Backend server will contain current Birdchain network state including analytics, statistical information, administrative actions and various caches.
+
+### Tokenization
+
+Birdchain is a two-party system:
+* **Commodity providers** - plain users with an available quota for message transactions.
+* **Obligation providers** - message content distributors. 
+
+We propose to refer to the Birdchain network as to the closed economy model which gives a possibility to exchange user provided commodities for a digital token. Token should be substitutable - any party can make a one-to-one exchange; should be singular - parties should not exchange one token for any amount of goods or services. Meaning Birdchain token has all characteristics of the utility token and should be used with the single purpose - exchange between provider and consumer parties. For the token minting service we will take Ethereum network. Token should be minted with a smart contract by a request from the client application and attached to the telephone number as a unique identifier and address. Each token should be baked by a single text message. Consumer party acts as a token provider changing currency(ETH, USDT, BTC or any other fiat currency available for the exchange in Birdchain network in the future).
+
+Since it’s a data-centric product it will need to store the data. For that, a centralized database will be used with a potential to transform into a custom distributed ledger. Both the mobile application and web portal will communicate with the database, however in a different ways. The mobile application will only use the database to receive a newly appeared obligation, it’s status and initial requirements for requested commodity; then send a Proof-of-Work to the database. Also mobile application should have an access to the current account’s balance via wallet and to the token-to-ETH exchange functionality. All of the database communicate will go over Internet, all actions for the Proof-of-Work will go through local telecom networks.
+
+The mobile application has some restrictions about the resource allocation. To avoid problems with overloading the operating system the application should not contain any unrelated to account’s actions data.
+
+### Product Functions
+
+With the mobile application users will be able to provide their devices and mobile operator text message quota to third party individuals and companies anonymously. The only information provided by every account should be mobile phone number. Using phone number we can provide user with the token balance. Accounts should be picked anonymously and randomly without sharing phone number information by selecting the required geographical location and linked selected accounts in a mining pool for every linked to the consumer. Pickup criteria is a request from the consumer for specific number of text message transactions within one region. Providers don’t have the ability to get information about the consumer or the amount of initial requested quota. System should not use the full amount of the provided message quota but pick the amount of transactions individually and randomly based on account’s rating and number of providers in a selected region. Every provider should have a rating. Rating should scale based on the amount of successfully done transactions. 
+
+Rating should be normalized within each region to avoid abnormal outliers and to involve more newcomers into the selection. In future we propose to use Markov’s chain Monte Carlo algorithm to pick accounts within the probability space of each region using their transactions history chain and the transaction history chain of the consumer. Provider mobile application should work in a background mode as a mining entity. Also it should have a minimalistic user interface to provide current balance, current amount of proposed obligations and a history of completed transactions and spent commodities. Currently the only mobile platform available for this is Android.
+
+Consumer should be able to settle new obligations in a required region within web portal or within mobile interface. There is no problems at all to provide a fully featured applications both for iOS and Android platforms. The only interaction with the outside world is happening via Internet to the server(or to the distributed ledger in future releases). Both application should be linked to notification microservices deployed within back end bundle.
+
+Web portal is available for both for consumers and for providers to give the access to current balance, to setup new obligations and for other statistical information.
+
+Web portal should communicate directly to the data handling microservice(or distributed ledger) and all available cache and notification services services.
+
+### User Characteristics
+
+There are three types of users that interact with the system: providers, consumers, administrators. Each of these three types of users has different use of the system so each of them has their own requirements.
+
+Providers can only use the mobile application to provide commodities and view their token balance. This means that the user have to be able to install the application and after providing required permissions(send text messages and internet access) application should be able to act as message sender. Application will automatically link user to the region and select user into the mining pool. User can’t change the region because it’s linked to the telephone number and user don’t have any influence on the rating system and mining pool initial selection. In case the phone has two SIM cards app should be able to act using both SIMs as two different accounts. Accounts can’t be merged, or splitted, or telephone number changed, all accounts actions are linked to the telephone number.
+
+Consumers can only request a commodity and select a region. Consumers should have a balance and a token exchanger access.
+
+Administrators acts only to handle statistical information, report bugs and respond to users. Administrators can’t change mining pool configurations, cancel transactions etc.
+
+### Constraints
+The mobile application is constrained by the system interface to the SMS amd Internet Access within the Android Operating System. Since the interface is the same and is available on all phones. Since application doesn’t work offline, it is crucial that there is an Internet connection for the application to function.
+
+Both the web portal and mobile application should not be constrained by the capacity of the database. Since the database is shared between both applications, it may be forced to queue incoming requests and therefore increase the time it takes to fetch the data. In future this should be solved by a distributed database. We don’t see any additional significant efforts to transfer the data while changing between distributed and centralized database architecture and agree such architecture as enough for the minimum viable product and next architecture upgrades.
+
+## Specific Requirements
+
+This section contains all of the functional and quality requirements of the system. It gives a detailed description of the system and all its features.
+
+### User Interface
+
+**Provider Android Application and Web Portal**
+
+A first-time user of the provider application should see the log-in screen when he/she opens the application. Login screen should fetch current telephone number and by a request create a new account or authenticate the user with the previously created one.
+
+New account registration is the wallet creation process. Birdchain wallet has three available types of tokens in it. The first one is the application token itself, the second one is ERC223 BRD token represented as a cryptocurrency and available on different crypto exchanges. The third one is Ethereum crypto - added into Birdchain wallet to provide a possibility to the user to exchange both in-chain token, BRD token onto ETH manually or automatically during mining process or later after token will be received by the user. Also it’s necessary to provide the ability to exchange singular in-chain token into available outside of the Birdchain network BRD token.  
+
+If the user isn’t a first-time user, he/she should be able to see the history of transactions done within Proof-of-Work consensus, achieved reward as a current token balance and and access to the wallet-exchanger screen. 
+
+User interface should be minimized to make signup/signin flow as short as possible and all user actions have to be simple across the app. All application logic should be handled automagically by the backend - ledger (or database - centralized or decentralized), backend server(several separated microservices) and queue managers.
+
+User should be able to login into the web interface with the telephone number he/she uses for providing commodities, email, passcode or fingerprint. Web interface functionality should be similar to the android app interface except the ability to start making the Proof-of-Work. 
+
+Provider should be able to pass through a detailed registration to get access to a multi account user interface. Multi account user interface should contain statistical information from all available accounts belonging to the user.
+
+All account validations should be done via SMS code verification. We suggest to use two-way authentication for all multi accounts settled into the network.
+
+Application dashboard should give an ability to access different mining pools opened into the region where user operates. Mining pool is available to all miners, but contains several restrictions - rating system acts as a Proof-of-Stake; number of miners into the pool should be selected randomly from available users who have joined the mining pool manually. User selection happens randomly based on the probability calculated within user’s previous activity, his rating and several other factors. More details on user’s selection is explained in the section about the Birdchain Network.
+
+**Consumer Android and iOS Applications and Web Portal**
+
+This requirements should be met by all three applications - iOS, Android and Web Portal. A first-time user of the consumer should be able to sign up and provide a basic information like email and password. Also application should ask user about the passcode, fingerprint, SMS authentication etc. All available hardware and software techniques should be used to make user’s privacy and transaction security as strong as possible. Next screen should provide a list of active, finished and draft campaigns created by the user previously. 
+
+User should have an access to the token wallet/exchanger. Wallet works absolutely the same as an android commodity provider application do. User should be able to exchange in-chain token into off-chain BRD and ETH crypto. User should be able to transfer off-chain cryptos from the account the any external address. Birdchain application doesn’t verify the address - user should be warned previously before the transaction begin. More cryptos should be provided as an options to ETH in future.
+
+When user starts a new campaign, available correspondent tokens should be locked by a smart contract as an escrow for commodity providers. Tokens should be released proportionally to the Proof-of-Work provided by the user. Amount of tokens locked is an automatic decision based on the price listed by all available providers in a region. Released amount of tokens should be calculated proportionally to the stake in the mining pool for every provider independently. Tokens are not eligible for the chargeback. Tokens outside the escrow can be exchanged to ETH or any other available currency on a request.
+
+Security flow is the same as provider application has, beside that there should be obvious email validation(miner’s application doesn’t force user to provide an email address, but asked for it as an optional security flow for the wallet account restore).
+
+<p align="center">
+  <img alt="Authentication Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Authentication%20Mockup.png">
+</p>
+
+<p align="center">
+  <img alt="Workflow Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Workflow%20Mockup.png">
+</p>
+
+### Minimum Hardware Requirements Statement 
+
+Any recommendations regarding centralized server configuration, cloud architecture and client-side applications which may be implemented using Birdchain software are based on Edenlab's experience and understanding of the customer’s intended use of a future product. 
+
+Individual requirements for the future setup, scalability and performance may vary. The optimal configuration of software and hardware may depend on a variety of factors, such as the  outbound message activity, complexity of applications and databases deployed and monitored, the size and complexity of the user options available, the amount and rate of delivery of the data within the Birdchain network, and many other factors. Hardware that does not meet the minimum requirements may result in varying degrees of performance degradation. Edenlab may require bringing the hardware platform into compliance with stated specifications before production deployment will be provided.
+
+### Software Interfaces
+
+The mobile application communicates with the server gateway, Ethereum ledger and telecom provider. In future releases there will be also API for the distributed ledger. The communication between the database and the web portal consists of operation concerning both reading and modifying the data, while communication between the database and the mobile application consists of only reading data, except provide Proof-of-Work statements.
+
+**TBD**
+
+### Communication Interfaces
+The communication between the different parts of the system is important since they depend on each other. 
+
+**TBD**
+
+## Functional Requirements and Use Cases
+
+This section provides all details on user interaction with the system. All user stories and possible use cases provided below with the reference to interface mockups.
+
+### Back End Microservices Details and Principal Scheme
+
+<p align="center">
+  <img alt="Microservice Principal Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Microservice%20Principal%20Scheme.png">
+</p>
+
+Here we provide back end decomposition and microservices overview. Core microservices included into Birdchain Network solution are:
+
+** Operational Service
+Operational Service represents the core logic of the entire back end. This is an obvious component and should be done in the first milestone. It handles all campaign infrastructural tasks:
+
+* New campaign creation
+* Campaign cancellation
+* Campaign finalization
+* Queries Ethereum network to deploy new campaign instance smart contracts
+* Listens to Ethereum events
+* Handles Ethereum exceptions and react on them
+* Deploy and Dismiss mining pool instances
+* Contains internal data storage with all current campaign states
+* Update Birdchain Ledger with completed, failed and cancelled campaigns.
+
+Operational Service consists of next components:
+* **Task Manager** - contains all business logic of the Operational Service. Reacts on incoming messages from other microservices, handles internal data storage and changes a current state appropriately to users actions. Operational Service can update Birdchain Ledger (Database). Task Manager send tasks to Campaign Creation Service and handles all the response from Mining Pool Broker. Task Manager has a direct connection with Network Administrators Service in order to monitor the status of all ongoing operations and suspend, cancel and resume all tasks on any emergency. 
+* **Campaign Creation Service** - serves to send new campaign creational requests to Ethereum Smart Contracts. Interoperate with Ethereum Manager Service; listens to Ethereum Manager on a successful campaign event. Sends a creational request to Mining Pool Broker in order of new Mining Pool creation.
+* **Pool Broker and Queue** - contains a queue of Mining Pool action tasks. Receives action tasks from Campaign Creation Service(on-submitted campaign); receives action tasks from Task Manager(on-suspend and on-cancel campaign); receives tasks from Mining Pools(on-finish campaign). Pool Broker and Queue service is linked with the Mining Pool Process Registry.
+* **Mining Pool Process Registry** - contains a key-value mapper with ongoing campaigns, serves as a service of zero-time delay access to any created mining pool instance.
+
+Operational Service always starts with initial state and contains current state that describes all available temporary data that helps to communicate between internal services.
+
+Initial State should contain:
+**TBD**
+
+Current State should contain:
+**TBD**
+
+Operational Service has next communication interfaces:
+* **Instance API** - handles all communications between microservices inside Birdchain Backend. Instance API never talks to users and to any third party services outside Birdchain Network. It serves message passing with all available SMS Mining Pools and with SMS Consumer Service.
+* **Management API** - handles all communication between entire microservice and Administrative Service(not described on the scheme above). Serves for microservice configuration and monitoring during its work. Task Manager is a single instance that uses this interface.
+* **Ethereum Proxy** - handles all requests to Ethereum Smart Contracts and listens to all specified events from Ethereum network. Campaign Creation Service is a single instance that uses this interface.
+
+**Mining Pool Server**
+
+Mining Pool Server contains all business model related to mining pool operations. This is an obvious component and should be done in the first milestone. As a central unit inside the service is a Task Manager. It contains internal data storage represented by a Repository and Hot and Cold key-value storages. There are two queues inside the microservices - workers queue and waiting workers queue.
+
+It handles next infrastructural tasks:
+* Request new bulk of workers from Phones On-Demand Producer microservice. 
+* Listen for the response of Phones On-Demand Producer with a batch of new agents.
+* Place agents into a working priority queue and additionally into a waiting priority queue. One agent should be represented in a queue only once. After agent successfully send an SMS it should be removed from both queues or added to waiting priority queue.
+
+Mining Pool Server consists of next components: 
+* **Task Manager** - handles all communication inside the microservice and receives incoming messages from Phone Agents, also it has all available functionality to remove and to send creational tasks to Phone Agents. Create tasks into SMS Broker & Queue service. Takes tasks from SMS Broker & Queue and send tasks to Phone Agents. It has Initial State and Current State. Updates Repository saving the current state to Storages. Takes users from Repository’s Working Queue. Store agent’s address with an assigned SMS task in SMS Broker & Queue.
+* **SMS Broker & Queue** - contains all current tasks assigned to agents.
+* **Phone Agents Manager** - listens to Task Manager and request new agents from Phone On-Demand Producer. Split agents into two priority queues - working queue and waiting queue based on user’s rating. Saves agent queues into Repository.
+* **Repository** - middleware between current state and two storages:
+	* In-memory hot key-value storage
+	* On-disk cold key-value storage
+
+Both storages should contain identical information in case they are synced. Hot storage can be ahead of the cold storage, but it always should be synced later. Cold storage should be used when there is an emergency and hot storage become inconsistent.
+
+Operational Service always starts with initial state and contains current state that describes all available temporary data that helps to communicate between internal services.
+
+Initial State should contain:
+**TBD**
+Current State should contain:
+**TBD**
+
+Operational Service has next communication interfaces:
+* **Instance API** - it serves message passing with all available Phone Agents and with Operational Service.
+* **Monitoring API** - monitors all communication between entire microservice and Administrative Service(not described on the scheme above). Also deliver statistical information to SMS Consumer Microservice.
+
+**Phone Agent**
+
+Phone Agent contains all logic of miner’s operation and it’s related states. This is an obvious component and should be done in the first milestone. It handles next tasks:
+* Sends requests to the linked mobile application with an SMS sending task;
+* Waiting for the response from the mobile unit on message sent;
+* Sends a receipt to the mining pool with a success / failure;
+* One agent can work with multiple pool units;
+* All tasks should be stored into a bag and taking from the bag randomly;
+* Has initial state and current state;
+* Has a hot key-value storage with all current state of the microservice in it.
+
+Phone Agent consists of next components:
+* **Task Manager** - receive tasks from Mining Pools, place tasks inside the bag. Serially takes tasks from the bag and send it to the mobile unit. Receives confirmation messages from the mobile unit and transfer them to the Mining Pool.
+
+Phone Agent always starts with initial state and contains current state that describes all available temporary data that helps to communicate between internal services. This state should be stored inside Hot key-value Storage,
+Initial State should contain:
+**TBD**
+Current State should contain:
+**TBD**
+
+Phone Agent has next communication interfaces:
+* **Instance API** - serves message passing with all correspondent Mining Pools. 
+* **User API** - message gateway for Android device. One agent should have only one correspondent mobile unit.
+
+**SMS Consumer Service**
+
+Service provided to buyers in order to create new campaigns. This is an obvious component and should be done in the first milestone. It handles the business model of a new campaign creation, campaign state actions and monitoring. It handles next tasks:
+* Receives requests from SMS consumers to start a new campaign or extended existing one;
+* Requests in-chain token and notify on a successful campaign creation in Ethereum Smart Contract;
+* Listen on a successful / fail event response from Operational Manager; 
+* Reads current campaign state from Birdchain Ledger.
+
+SMS Consumer Service contains of next services:
+* **Task Manager** - handles all tasks inside SMS Consumer Service, send new campaigns on approval, provides statistical information on current and finished campaigns;
+* **Campaign Listener Service** - listens to Ethereum Ledger events related to any of the current campaigns, transform it into a statistical information and provide to consumer applications;
+* **Monitor Service** - provides information from consumer’s corresponded mining pools, transform it and send a final statistical information to the user.
+
+SMS Consumer Service always starts with initial state and contains current state that describes all available temporary data that helps to communicate between internal services. 
+
+Initial State should contain:
+**TBD**
+Current State should contain:
+**TBD**
+
+SMS Consumer Service has next communication interfaces:
+* **Instance API** - serves message passing with Operational Service; 
+* **Consumer API** - message gateway for mobile devices and web portal for SMS consumers;
+* **Monitor API** - handles statistical information from Mining Pools;
+* **Ethereum Proxy** - listens to new campaign creational event from Ethereum Smart Contracts.
+
+**Birdchain Ledger**
+Microservice provides a data storage functionality and contains all transactional information of Birdchain. This is an obvious component and should be done in the first milestone. 
+
+Birdchain Ledger consists of the next components:
+* **Task Manager** - control unit of the ledger, saves and fetche transactions from the data storage;
+* **Data Storage** - ledger with all transactional data;
+* **Monitor Service** - logging unit with statistical abilities.
+
+Birdchain Ledger has next communication interfaces:
+* Sockets for microservice communications. Ledger is connected to SMS Consumer Service, Operational Service and Android Miner Applications
+* JSON-RPC for third party services and mobile applications.
+ 
+**Ethereum Operator**
+Ethereum Operator is a transaction processing microservice. It sends requests to Ethereum ledger via Parity full Ethereum node laid inside the microservice. Also it listends events from it. 
+
+Ethereum Operator microservice contains the next components:
+* **Parity Node** - full Ethereum client node.
+* **Sender Server** - sends requests to Ethereum Smart Contracts. 
+* **Listener Server** - listens to Ethereum events and transfer them outside.
+
+Ethereum Operator has next communication interfaces:
+* **Parity Node** - incoming and outgoing Ethereum connections;
+* **Instance API** - access to Ethereum from outside of the microservice;
+* **Event Generator** - event transferring gate. Microservices should connect via the socket to Event Generator and receive all incoming events. 
+
+**Ethereum Manager**
+Ethereum Manager is a microservice contains specifications and their implementation in order to work with Ethereum Smart Contracts created specifically for Birdchain Network. Ethereum manager from the one side listens to Ethereum Operator for specified Ethereum Events, and from the other side sends requests via Ethereum Operator to Ethereum ledger.
+
+Ethereum Manager microservice contains the next components:
+* **Deque Manager & Contract Listener** - the service created with the reason to listen to events coming from Ethereum Operator and to enqueue them into the hot storage. Also it deque events from the hot storage sending them correspondent Birdchain microservices.
+* **Contract Caller** - listens to incoming requests from Birdchain Network and pass them to Ethereum Operator. Listens for the OK response from Ethereum Operator.
+
+Ethereum Manager has next communication interfaces:
+* **Instance API** - access to Ethereum Manager inside Birdchain Network.
+* **Socket Provider** - socket connections pool available in order to listen to incoming events.
+
+**Wallets Service**
+Wallet Service handles all users requests related to their ethereum addresses and exchanging abilities. It’s a unified service both for SMS commodities providers(sellers) and SMS obligation providers(buyers). Wallets Service is similar to Ethereum Manager but handles only wallets business model of the Birdchain Network.
+
+Wallet Service contains the next components:
+* **Balances Manager** - contains all functionality related to Birdchain wallets, also contains local cache of all balances inside the networking including in-chain token, BRD public token and local ETH balances. Tightly coupled with in-memory Hot Storage.
+* **Contract Caller** - listens to incoming wallets coming from the service context (Balances Manager), then passing them through to Ethereum Operator.
+* **Contract Listener** - similarly to Ethereum Manager’s Contract Listener handles all incoming wallet events from Ethereum Operator and passing them through to the Balance manager.
+
+Wallets Service has next communication interfaces:
+* **Instance API** - links the service with Android, iOS apps and Web Portal. Handles all incoming user requests to the wallet service;
+* **Socket Provider** - links all infrastructural microservices like Push Notifications and Email Notifications. Also handles incoming and outgoing requests to Ethereum Operator microservice. 
+
+### Smart Contracts Details and Principal Scheme
+
+**TBD**
+<p align="center">
+  <img alt="Backend Principal Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Ethereum%20Smart%20Contracts%20Functional%20Scheme%20rev.2.png">
+</p>
+**TBD**
+
+## Prioritization and Release Plan
+
+### Prioritization
+
+| Requirement ID | Title                                                        | Requirement Type |
+|:--------------:|:-------------------------------------------------------------|:-----------------|
+|                | Provider Android App - Authentication/Authorization scheme - | Function         |
+|                | Telephone number and region registration within the system.  |                  |
+|                | Provider Android App - Proof-of-Work - SMS gateway with      | Function         |
+|                | cryptographical confirmation with the receipt.               |                  |
+|                | Consumer Web Portal with a database -                        | Function         |
+|                | Authentication/Authorization scheme - two-factor             |                  |
+|                | authentication within email and text message confirmation.   |                  |
+|                | Consumer Web Portal - Obligation creation process - new      | Function         |
+|                | message campaign                                             |                  |
+|                | Both applications - wallet/exchanger                         | Function         |
+|                | Smart Contracts - glue between Provider Android App and a 	| Function         |
+|                | database                                                     |                  |
+|                | System Availability                                          | Quality          |
+|                | Communication Security                                       | Quality          |
+|                | System reliability and response time                         | Quality          |
+
+### Release Plan				
+The requirements were divided into three releases based on the prioritization and their dependencies. The three different releases were assembled so that each would work as a fully functional application.
+					
+In the first release the requirements that build up the foundation of the application were included, together with the most highly prioritized requirements and their dependencies.
+
+# Unexpected Messages a.k.a. Promotional messages
+
+Architecture, performance management, and capacity planning of applications depends on the ability to model these distributed applications at design time as well as during normal operations. This paper specifies overall description and some details on the functional requirements of performance and architecture modeling of the Birdchain Network. These specifications include the need to model transactions consisting of multiple, nested, synchronous and concurrent client-server interactions using tractable techniques and best practice. Example of application model with a centralized backend is presented based on the past experience and as a result of the current research. Suggestions for future work concludes the paper.
+
+Design planning of application architecture and performance becomes more demanding as the client / server paradigm is used in commercial enterprise applications now scales with the ability to decentralize the dataflow and implement cryptographically secured payment gateways based on battle tested blockchain technologies. Modelling of the distributed applications with a centralized core node is crucial for every new service before the development starts. This paper motivates the need for modeling capabilities for these applications, and specifies the functional requirements of performance modeling of commercial distributed-client / centralized-server applications based on available technology solutions and required centralized servers and databases.
 
 ## Definitions, acronyms, and abbreviations
 
@@ -273,7 +660,7 @@ As an independent aggregator, we see market flaws as opportunities for Birdchain
 * **Ethereum Smart Contracts** - Backend services provided inside the Ethereum ledger. All of them are custom services created by Birdchain developers to give a possibility to get rewards and exchange tokens and provide escrows.
 
 ## MVP Overview
-he Birdchain MVP is a messenger application with the ability to share ads content between content providers and content receivers. The client side application is divided into two parts. 
+The Birdchain MVP is a messenger application with the ability to share ads content between content providers and content receivers. The client side application is divided into two parts. 
 
 * Mobile applications - iOS and Android apps - used by ads viewers
 * Browser front end application - used by content providers
