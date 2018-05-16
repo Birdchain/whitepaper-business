@@ -40,18 +40,17 @@ The team of the Birdchain is not a start-up. It is part of a parent company, nam
   <img alt="Vertex" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.png">
 </p>
  
-Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive and active income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. 
+Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive and active income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, and others. 
+
+One of the key features of Birdchain is that the app will allow its users to "sell" their unused SMS for BIRD tokens. These texts will be used by companies like Google, WesternUnion, Facebook, and many others, to deliver transactional messages. Transactional messages are expected by the end receiver. As these messages will be send automatically in the background of the app, it will offer app users passive income. 
+
+The other key feature - P2P advertising. The idea is quite simple: users get rewarded in BIRD tokens for receiving rich media messages from businesses. The receiver can get additional, bigger reward when they share it with people who might be interested in it. This feature will allow Birdchain exploit possibilities of promotional (unexpected) messages to increase usability and demand for BIRD token. This service will require some user interaction, thus it will help creating active mean of earnings. 
 
 All features of the Birdchain create strong BIRD token. It stands out with low initial cost and token flexibility as a unique currency with favourable viability.
 
 The official app presentation is planned at the Mobile World Congress in Barcelona in 2019.
 
-In short:
-1) Birdchain is DApp that rewards;
-2) The intelligent features system creates internal economics and allows people to earn and spend crytocurrency on the app;
-3) Dapps are the future of the blockchain. Everyone at the moment invests in protocols, rather than actual applications. A comparison: whether to invest in HTML protocol or an Uber app? 
-
-**Join the ICO with the potential of real adaptability!**
+**Join the ICO with the potential of real-world adaptability!**
 
 
 # Established business
@@ -132,44 +131,42 @@ David is a thought leader and has spoken at many venues such as MIT, TEDx, Conse
 
 # Birdchain. The app that rewards
 
-Birdchain is a decentralized app that will help people to make a passive and active income, while offering cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
+There are two main types of A2P messages: transactional (expected) and promotional (unexpected). Each type has unique purpose, problems, and motives to be used by businesses. Team of Birdchain employs almost 10 years of experience in the market to upgrade these services for businesses. At the same time we create oportunity for Birdchain app users to benefit from both types of A2P messages. 
 
-The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive token transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching. 
-
-The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to earn BIRD tokens. All methods of token earning via Birdchain app will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
-
-We will officially present the app at the Mobile World Congress in Barcelona in 2019.
+In the sections bellow you will find detailed information about what is A2P messaging market, how it works, what issues delivery of expected and unexpected messages have, and how people will get rewards for using our app. Considerable portion of this white paper is focused on technical implementation of the idea of the Birdchain as it is already has been started to develop after reaching softcap. 
 
 # Raising value of the token
 
-Our goal is to create a strong token that would be useful for our contributors and could circulate in the world easily. We believe circulation and spread of the token is the key to its value. The more people and companies that use our token, the more it would be used, the stronger it will be. Here are key points that make BIRD token stand out:
-1. **Low initial cost**. During the ICO, the BIRD will be sold at the lowest price to create a higher incentive for contributors.
+As Birdchain still is in the ICO stage, we would like to point out several reasons how BIRD token could increase its value after the app is fully developed. **Please note**: this is not a financial advice. Sole intent of this section is to introduce posible possitive effects on BIRD token value which lies in the fundamentals of our idea. 
+
+Our goal is to create a strong token that would be useful for our contributors and could circulate in the world easily. Here are key points that, in our opinion, makes BIRD token to stand out:
+1. **Low initial cost**. During the ICO, the BIRD is sold at the lowest price to create a higher incentive for contributors.
 2. **Token flexibility**. When the BIRD value and demand increases, it can be fragmented into 18 decimals to serve market needs. 
-3. **Unique currency**. Exclusively, BIRD tokens are used for purchasing Birdchain A2P service and rewarding Birdchain app users, ensuring the BIRD token has a real demand. 
-4. **Favorable viability**. To have a sustainable business, it needs only 100 000 app installs. Each phone can sell about 100 SMS per day on a conservative approach.
-5. **High desirability**. Providing the possibility of an income to its users, the Birdchain App is highly appealing to the public. The more users that install the app, the more SMS flux it creates, meaning a faster BIRD rotation, demand, and appreciation.
-6. New features and higher **BIRD circulation**. We will drive demand and circulation of BIRDs with new Birdchain features and services.
-7. **Embracing the competition**. Our A2P SMS service will be appealing to all companies that look for lower SMS price and high-quality service.
-8. Detailed **financial forecast**. Check it out here: [Finances](#finances)
+3. **Unique currency**. Exclusively, BIRD tokens are used for purchasing Birdchain A2P messaging services ensuring the BIRD token has a real demand. 
+4. **Favorable viability**. To have a sustainable business of delivering expected (transactional) messages, it needs only 100 000 app installs. Each phone can sell about 100 SMS per day on a conservative approach.
+5. **High desirability**. Providing the possibility of an income to its users, the Birdchain app is highly appealing to the public. The more users will install the app, the more SMS flux it will create, meaning a faster BIRD rotation, demand, and appreciation.
+6. New features and higher **BIRD circulation**. We will drive demand and circulation of BIRDs with new Birdchain features and services, which will be developed after launch of the app.
+7. **Embracing the competition**. Both of our key features will be appealing to all companies that look for lower price, high-quality service, and new channels to reach their customers.
+8. Detailed **financial forecast**. Check it out here: [Fund Allocation](#fund-allocation)
 
 ## GBI - Global Basic Income
 
-The main goal of Birdchain is to disrupt the A2P SMS market with blockchain technology to make it better, faster, more transparent, and fair-priced. However, we believe that, soon it will become obvious that Birdchain is much more than just a (r)evolutionary idea.
+The main goal of Birdchain is to disrupt the A2P messaging market with blockchain technology. We aim to make it better, faster, more transparent, and fair-priced. 
 
-Birdchain will be the first (in the history of the world!) non-governmental initiative to create Global Basic Income.
+However, we believe that, soon it can become obvious that Birdchain is much more than just a (r)evolutionary idea. Birdchain can become the first (in the history of the world!) non-governmental initiative to create Global Basic Income.
 
-Depending on a country and market activity, Birdchain app users should be able to earn up to 50 USD per month. This means Birdchain could create basic income for its users globally.
+Basically, all it takes for user to start earning BIRD tokens is to install the Birdchain app. Depending on a country and market activity, Birdchain app users should be able to earn up to 150 USD per month. Even in rich countries such additional income is welcomed as it might cover some monthly expences. It might have significantly higher impact in the less developed regions. 
 
 We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. However, Birdchain guarantees no revenue to Birdchain token holders or Birdchain app users.
 
 # What is A2P Messaging and Why it is Important?
 
 An Application To Person (A2P) SMS is sent from an application — typically a web app — to a mobile subscriber. There are several types of the most popular A2P SMS:
-* SMS notifications;
-* SMS-based two-factor authentications;
-* Automatic booking confirmations;
-* One-time passwords;
-* Loyalty programs and marketing messages.
+* SMS notifications (transactional);
+* SMS-based two-factor authentications (transactional);
+* Automatic booking confirmations (transactional);
+* One-time passwords (transactional);
+* Loyalty programs and marketing messages (promotional).
 
 Transactional SMS service is mostly used by social networks and companies to provide services of e-commerce and online retail, travel and transportation, financial services and payments, and gaming. Because of their effectiveness, promotional messages are sent by companies operating in almost all markets.
 
@@ -181,10 +178,7 @@ Some examples of a transactional SMSs:
   <img alt="SMS stats" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/07.png">
 </p>
 
-You may wonder:
-> Why do Facebook, Microsoft, Google, Apple and many other high-tech companies want to send SMS? Why would anyone want to use technology from the ‘80s?
-
-Here is why:
+Why modern companies deliver transactional SMS:
 * SMS is platform-independent;
 * SMS is network-independent;
 * SMS is geographically independent;
@@ -197,7 +191,7 @@ Here is why:
   <img alt="Phone users" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/06.png">
 </p>
 
-A2P SMS market is expected to grow by around 5% per year and reach $84 billion by 2024.
+A2P market is expected to grow by around 5% per year and reach $84 billion by 2024.
 
 ![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png)
 
@@ -234,13 +228,14 @@ As Birdchain intends to solve two different groups of A2P messaging issues it ta
   <img alt="Birdchain Scheme" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Asset%203.png">
 </p>
 
-**Expected messages**
+### Expected messages
 
-Issues:
+**Issues:**
+
 * Even though A2P messaging technology is longstanding, there are no reliable tools to measure deliverability. Without it, there is no transparency.
 * A2P messaging is extremely expensive. Single A2P message in Belgium costs 0,1 USD, in Japan – 0,08 USD, in New Zealand – 0,1 USD. 
 
-Solution:
+**Solution:**
 
 Birdchain will employ unused SMS of regular people and reward them for every single used SMS. This background process is completely automatic.
 
@@ -250,14 +245,15 @@ For carriers we will present Birdchain solution as loyalty program that will hel
 
 This solution will be Android exclusive. Covering 87,7 percent of the market.
 
-**Unexpected messages**
+### Unexpected messages
 
-Issues: 
-* Every day people are bombarded with billions of pieces of information. It is getting harder and more expensive for businesses to get in contact with their customers. A2P messaging could be the solution, but it is too expensive for companies to use daily. 
+**Issues:**
+
+* It is getting harder and more expensive for businesses to get in contact with their customers. Effectiveness of communication channels has decreased drastically. A2P messaging could be the solution, but it is too expensive for companies to use daily. 
 * The technology is moldy. It is impossible to send images, videos, or formatted text – attributes which are necessary for every modern marketing campaign. 
 * Recent events revealed that people do not like how Facebook and Google exploit their personal information. These companies make billions in revenue and actual owners of this data are not rewarded in any way.
 
-Solution:
+**Solution:**
 
 Birdchain will allow businesses to send direct rich media messages for Birdchain users. Users are rewarded to engage with the message. They can get additional – bigger – reward for sharing the message with people who might be interested in it. Hence the name – P2P marketing.
 
