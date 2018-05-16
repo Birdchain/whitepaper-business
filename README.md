@@ -132,13 +132,11 @@ David is a thought leader and has spoken at many venues such as MIT, TEDx, Conse
 
 # Birdchain. The app that rewards
 
-Birdchain is a decentralized app that will help people to make a passive income, while offering cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
+Birdchain is a decentralized app that will help people to make a passive and active income, while offering cheaper and better services to businesses. All the features and the demand for them are based on our work experience, insights, and knowledge.
 
 The first version for commercial consumption will be complete in 6 months. After the ICO, it will receive token transfers and will be capable of earning income for the app holder. Our contributors can test the version first. We will consider their feedback and will improve our app and tune it in line with the recommendation for the perfect launching. 
 
-The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to earn BIRD tokens. 
-
-All methods of token earning via Birdchain app will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
+The first version of the application will hold an interface, enabling communication with friends and family, and a possibility to earn BIRD tokens. All methods of token earning via Birdchain app will be based on the volunteering principle. App users can personally choose the means and amount of possible earnings.
 
 We will officially present the app at the Mobile World Congress in Barcelona in 2019.
 
@@ -637,7 +635,7 @@ This section will give an overview of the whole system. The system will be expla
 ## Product perspective
 This system will consist of three parts: mobile applications - Android and iOS, one web portal for ads providers and a backend server - various microservices - with a database(s) and caches.
 
-While the web portal will be used for managing user specific information on profile and payment details and administrative access for selected users. Mobile applications has minimum amount of information provided to Birdchain and super-fast sign up consisted from only one step - user phone number should be provided.
+The web portal will be used for managing user specific information on profile and payment details and administrative access for selected users. Mobile applications has minimum amount of information provided to Birdchain and super-fast sign up consisted from only one step - user phone number should be provided.
 
 Backend server will contain current Birdchain network state including analytics, statistical information, administrative actions and various caches.
 
@@ -667,7 +665,7 @@ Since the interface is the same and is available on all phones - iOS and Android
 Both the web portal and mobile application should not be constrained by the capacity of the database. Meaning all content should be fetched when app is online and stored inside the database for the future offline review. 
 
 # User Flow
-There are two types of the user - ads subscribers and ads producers. Both of the acting as a separate entities. But we specify that ads subscriber will be available to make actions belonging to ads producers in future releases.
+There are two types of the user - ads subscribers and ads producers. Both of them acting as a separate entities. But we specify that ads subscriber will be available to make actions belonging to ads producers in future releases.
 
 ## Ads Subscriber
 
@@ -688,7 +686,7 @@ Once all information has been entered, app started a socket connection with the 
 User can preview ads, for every preview user get a reward on his BIRD balance. User can respond to the ads, response will be available to ads provider. User can share ads within his social accounts - Facebook, Twitter, etc. For every ads sharing user should get a reward.
 User can withdraw received tokens or change them into Ethereum token in a wallet section of the application.
 
-Settings section should provide user with all required inputs to change feed preferences, to filter incoming push notifications, to view a help information, terms of services and privacy policy of the application, to change user profile information, link social networking accounts. In future releases it should be possible to create several accounts and link them under the on super user. 
+Settings section should provide user with all required inputs to change feed preferences, to filter incoming push notifications, to view a help information, terms of services and privacy policy of the application, to change user profile information, link social networking accounts. In future releases it should be possible to create several accounts and link them under the super user. 
 
 2-factors authentication nowadays is a must and should be provided to the user later. When available, all user information should be changed using it. For example to use a combination of pin code and a code sent to another user’s device.
 
