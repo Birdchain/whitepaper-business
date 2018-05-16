@@ -795,7 +795,7 @@ For interprocess communication it’s a good option to use Process Groups 2 (PG2
 
 To provide the best consistency of the data and fastest response, we propose to use relational PostgreSQL database for the cold storage. Beside it’s a battle tested database with marvelous amount of great features and extensions, there is a great support of it in Elixir community and it has libraries which are great in usage.
 
-Database should be splitted into schemas according to microservices to provide multi-tenancy and future distribution and sharding - key features of the scale process.
+Database should be splitted into schemes according to microservices to provide multi-tenancy and future distribution and sharding - key features of the scale process.
 
 ### Hot Storage
 
@@ -810,7 +810,7 @@ Ethereum Operator microservice contains the next components:
 * **Sender Server** - sends requests to Ethereum Smart Contracts. 
 * **Listener Server** - listens to Ethereum events and transfer them outside.
 
-Ethereum Operator has next communication interfaces:
+Ethereum Operator has the following communication interfaces:
 * **Parity Node**  - incoming and outgoing Ethereum connections;
 * **Instance API** - access to Ethereum from outside of the microservice;
 * **Event Generator** - event transferring gate. Microservices should connect via the socket to Event Generator and receive all incoming events. 
@@ -823,7 +823,7 @@ Ethereum Manager microservice contains the next components:
 * **Deque Manager & Contract Listener** - the service created with the reason to listen to events coming from Ethereum Operator and to enqueue them into the hot storage. Also it deque events from the hot storage sending them correspondent Birdchain microservices.
 * **Contract Caller** - listens to incoming requests from Birdchain Network and pass them to Ethereum Operator. Listens for the OK response from Ethereum Operator.
 
-Ethereum Manager has next communication interfaces:
+Ethereum Manager has the following communication interfaces:
 * **Instance API** - access to Ethereum Manager inside Birdchain Network.
 * **Socket Provider** - socket connections pool available in order to listen to incoming events.
 
