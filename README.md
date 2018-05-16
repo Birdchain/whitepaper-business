@@ -40,7 +40,7 @@ The team of the Birdchain is not a start-up. It is part of a parent company, nam
   <img alt="Vertex" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BirdChain-Whitepaper-Vertex.png">
 </p>
  
-Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. 
+Birdchain is a decentralized application (Dapp) similar to instant messenger. The big difference is Birdchain will allow its users to make a monthly passive and active income. Simultaneously, Birdchain will provide companies with higher quality and better-priced services: A2P SMS distribution, content engagement, personal data marketplace and others. The main goal of the Birdchain app is to create internal economics, where its users can earn, transfer (to exchanges), or spend their BIRD tokens, without leaving the app. 
 
 All features of the Birdchain create strong BIRD token. It stands out with low initial cost and token flexibility as a unique currency with favourable viability.
 
@@ -158,7 +158,7 @@ The main goal of Birdchain is to disrupt the A2P SMS market with blockchain tech
 
 Birdchain will be the first (in the history of the world!) non-governmental initiative to create Global Basic Income.
 
-Depending on a country and market activity, Birdchain app users should be able to earn up to 50 USD per month. This means Birdchain could create basic passive income for its users globally.
+Depending on a country and market activity, Birdchain app users should be able to earn up to 50 USD per month. This means Birdchain could create basic income for its users globally.
 
 We see this feature as a huge marketing opportunity and a chance to stand out in the global market of messaging apps. However, Birdchain guarantees no revenue to Birdchain token holders or Birdchain app users.
 
