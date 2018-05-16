@@ -385,11 +385,11 @@ When user starts a new campaign, available correspondent tokens should be locked
 Security flow is the same as provider application has, beside that there should be obvious email validation(miner’s application doesn’t force user to provide an email address, but asked for it as an optional security flow for the wallet account restore).
 
 <p align="center">
-  <img alt="Authentication Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Authentication%20Mockup.png">
+  <img alt="Authentication Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BIRD-Authentication-Mockup.png">
 </p>
 
 <p align="center">
-  <img alt="Workflow Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Workflow%20Mockup.png">
+  <img alt="Workflow Mockup" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BIRD-WorkflowMockup.png">
 </p>
 
 ### Minimum Hardware Requirements Statement 
@@ -652,7 +652,7 @@ Ads content is a rich media with images and sound attached, all text is represen
 *E.x. I’m a crypto evangelist and I’m interested in earning some BIRD tokens by viewing ads or sharing it, but also my interests are about new computer hardware prices on the market and in visiting blockchain related events. That’s why I have a separate channel in Birdchain messenger with all related ads beside all other. Probably I have a lot of blockchain related friends and I will be happy to share just posted crypto event ads with them.
 
 <p align="center">
-  <img alt="Mobile App" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Mobile%20App%20Mocks.png">
+  <img alt="Mobile App" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/BIRD-Mobile-App-Mocks.png?raw=true">
 </p>
 
 Once user gets his BIRD token via viewing or sharing ads, the wallet inside the application can help to exchange BIRD into ETH and to withdraw it to any other Ethereum address. Based on the requirement of EIP20 token standard, user’s wallet is pretty straightforward and well known to all Ethereum users around the globe.
@@ -670,7 +670,7 @@ There are two types of the user - ads subscribers and ads producers. Both of the
 ## Ads Subscriber
 
 <p align="center">
-  <img alt="User Flow. Ads Subscriber" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/User%20Flow.%20Ads%20Subscriber.png">
+  <img alt="User Flow. Ads Subscriber" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Vector-UserFlow-AdsSubscriber.png">
 </p>
 
 Subscriber user flow starts from the sign up into the network. The only required field for sign up is a phone number. Birdchain will verify the phone number with SMS in future releases. Other options like email, gender, should be added optionally and have to be used for more targeted ads suggestion. 
@@ -693,7 +693,7 @@ Settings section should provide user with all required inputs to change feed pre
 ## Ads Provider
 
 <p align="center">
-  <img alt="User Flow. Ads Provider" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/User%20Flow.%20Ads%20Provider.png">
+  <img alt="User Flow. Ads Provider" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Vector-UserFlow-AdsProvider.png">
 </p>
 
 Ads provider is a user who is willing to show ads in a selected region for users in a selected targeting scope. Provider should pay to Birdchain system with BIRD tokens or ETH tokens in order to submit a campaign. Campaign should fit into Birdchain’s Terms of Services.
@@ -732,7 +732,7 @@ This section provides all details on user interaction with the system. All user 
 Here we provide backend decomposition and microservices overview. Core microservices included into Birdchain Network solution are:
 
 <p align="center">
-  <img alt="Microservices" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Microservices%20Scheme%20v.2.png">
+  <img alt="Microservices" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Vector-Backend-Functional-Scheme.png">
 </p>
 
 ### Operational Service
@@ -873,7 +873,7 @@ Android technology stack should be based on top of Kotlin programming language a
 Birdchain network uses Ethereum ledger to provide users with a default payment gate based on ETH and BIRD tokens done on ERC20 (EIP20) standard. Birdchain is linked with Ethereum ledger via Operational Service and User Wallets. Smart contracts development should be provided by Solidity developer and fully tested manually and by providing automated unit testing use cases. It’s a requirement for any contract deployed into a blockchain ledger to be sure that even stochastic bugs are not presented in a code. Once contract has been deployed, there is no possibility to change or update it. It’s possible only to deploy a new contract with a new address and all state variables are empty. Such upgrades is a usual case of issues related to the next balance airdrops, balance lost or funds locks. Smart contract development should be done only by a highly skilled developer with obvious code review.
 
 <p align="center">
-  <img alt="Smart Contract" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Ethereum%20Smart%20Contracts%20Functional%20Scheme%20rev.2.png?raw=true">
+  <img alt="Smart Contract" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Vector-Eth-Smart-Contracts.png">
 </p>
 
 ### Balance Storage Contract
