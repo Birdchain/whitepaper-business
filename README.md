@@ -855,14 +855,14 @@ Administrative Application should have all statistical information from microser
 
 There are two types of mobile applications - for Android devices and for iOS devices. We propose to use reactive architecture and Model-View-View-Model architecture for both of them in order to provide real time updates fetched via socket connection and plain HTTP REST endpoints. Socket connection should be used for ads stream only in order to save user’s battery lifetime.
 
-iOS technology stack should be based on top of Swift programming language and contain next technologies: 
+iOS technology stack should be based on top of Swift programming language and contain the following technologies: 
 * ReactiveX (RxSwift) for the reactive architecture
 * Core Data (SQLite3) for the local cache and permanent storage
 * Core Location to determine user’s location for a better ads targeting
 * Alamofire for plain HTTP requests
 * Facebook’s Socket Rocket for socket connections.
 
-Android technology stack should be based on top of Kotlin programming language and contain next technologies:
+Android technology stack should be based on top of Kotlin programming language and contain the following technologies:
 * Architecture Components to provide MVVM architecture into Android environment
 * Room for the local cache and permanent storage
 * Volley for HTTP requests
@@ -894,7 +894,7 @@ All escrow related functionality including withdraw, balance storage and various
 
 ### Proxy Contract
 
-Proxy contract acts as a middleware between all Birdchain contracts and incoming requests. Proxy contract is a safety action in order to not to change initial addresses for backend and frontend queries to Ethereum. Once Birdchain dev team decide to upgrade the contract, there is no possibility to left initial contract address and simply swap the contract on a newer version. This is why we have a mapping between addresses available for the public and internal Birdchain contracts addresses.
+Proxy contract acts as a middleware between all Birdchain contracts and incoming requests. Proxy contract is a safety action in order to not to change initial addresses for backend and frontend queries to Ethereum. Once Birdchain dev team decide to upgrade the contract, there is no possibility to leave initial contract address and simply swap the contract on a newer version. This is why we have a mapping between addresses available for the public and internal Birdchain contracts addresses.
 
 ### Token Contract
 
