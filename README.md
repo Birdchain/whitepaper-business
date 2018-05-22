@@ -55,6 +55,10 @@ The official app presentation is planned at the Mobile World Congress in Barcelo
 
 # Established business
 
+<p align="center">
+  <img alt="Flags" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Flags.png">
+</p>
+
 The heart of Birdchain is [the European Union (Lithuania) company JSC “Vertex”](https://rekvizitai.vz.lt/en/company/vertex/). In 2009, Vertex started our A2P SMS aggregation business, called [VertexSMS](https://vertexsms.com/?lang=en). Since then, [VertexSMS](https://vertexsms.com/?lang=en) has delivered more than 2.6 billion SMS messages globally for various international brands, including Western Union, SalesForce, TransferGo, and many others.
 
 <p align="center">
