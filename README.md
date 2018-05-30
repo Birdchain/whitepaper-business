@@ -201,7 +201,7 @@ A2P market is expected to grow by around 5% per year and reach $84 billion by 20
 ![A2P SMS market growth](https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/04.png)
 
 The reasons for A2P growth:
-* SMS is the most effective and the cheapest way to reach customers. 98 percent of people read an SMS within three minutes from receiving it, and SMS has the highest engagement rate compared to emails and OTT apps. 
+* SMS is the most effective and the cheapest way to reach customers. 97 percent of people read an SMS within three minutes from receiving it, and SMS has the highest engagement rate compared to emails and OTT apps. 
 
 | User Count    | SMS Cost | Email Cost | AdWords Remarketing* | Facebook  | 
 | :---          | :---:    | :---:      | :---:                | :---:     |
