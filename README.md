@@ -50,8 +50,6 @@ All features of the Birdchain create strong BIRD token. It stands out with low i
 
 The official app presentation is planned at the Mobile World Congress in Barcelona in 2019.
 
-**Join the ICO with the potential of real-world adaptability!**
-
 
 # Established business
 
@@ -142,10 +140,10 @@ In the sections bellow you will find detailed information about what is A2P mess
 
 # Raising value of the token
 
-As Birdchain still is in the ICO stage, we would like to point out several reasons how BIRD token could increase its value after the app is fully developed. **Please note**: this is not a financial advice. Sole intent of this section is to introduce posible possitive effects on BIRD token value which lies in the fundamentals of our idea. 
+**Please note**: this is not a financial advice. Sole intent of this section is to introduce posible possitive effects on BIRD token value which lies in the fundamentals of our idea. 
 
 Our goal is to create a strong token that would be useful for our contributors and could circulate in the world easily. Here are key points that, in our opinion, makes BIRD token to stand out:
-1. **Low initial cost**. During the ICO, the BIRD is sold at the lowest price to create a higher incentive for contributors.
+1. **Low initial cost**. During the ICO, the BIRD was sold at the lowest price to create a higher incentive for contributors.
 2. **Token flexibility**. When the BIRD value and demand increases, it can be fragmented into 18 decimals to serve market needs. 
 3. **Unique currency**. Exclusively, BIRD tokens are used for purchasing Birdchain A2P messaging services ensuring the BIRD token has a real demand. 
 4. **Favorable viability**. To have a sustainable business of delivering expected (transactional) messages, it needs only 100 000 app installs. Each phone can sell about 100 SMS per day on a conservative approach.
@@ -999,7 +997,7 @@ Any citizens and residents of and persons in Canada, or the United States of Ame
 Birdchain does not make and hereby disclaims, any representation, warranty, or undertaking in any form to any entity or person, including any representation, warranty, or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
 # Exchanges
-We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on some well-known exchanges. Our calculations are that token will be listed within a month after our ICO.
+We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on some well-known exchanges. 
 
 <p align="center">
   <img alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap.png">
