@@ -996,9 +996,6 @@ Any citizens and residents of and persons in Canada, or the United States of Ame
  
 Birdchain does not make and hereby disclaims, any representation, warranty, or undertaking in any form to any entity or person, including any representation, warranty, or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
-# Exchanges
-We believe it is better to get listed in one major exchange than in a couple of small ones. It will be easier for both: our contributors and companies that will use our tokens to purchase Birdchain services. We will focus on getting BIRD token listed on some well-known exchanges. 
-
 <p align="center">
   <img alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/roadmap.png">
 </p>
