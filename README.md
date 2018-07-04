@@ -997,7 +997,7 @@ Any citizens and residents of and persons in Canada, or the United States of Ame
 Birdchain does not make and hereby disclaims, any representation, warranty, or undertaking in any form to any entity or person, including any representation, warranty, or undertaking in relation to the accuracy and completeness of any information set out in this whitepaper. Birdchain reserves the right to amend the white paper until the ICO starts.
 
 <p align="center">
-  <img alt="Roadmap" src="hwhitepaper-business/WP images/Roadmap.png">
+  <img alt="Roadmap" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Roadmap.png?raw=true">
 </p>
 
 # Appendix
