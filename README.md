@@ -90,7 +90,7 @@ In 2013, we invested in **advanced microlaser manufacturer** (integratedoptics.c
 
 **Retail**. In 2013, we launched the first in the region rent-to-buy service (bekredito.lt).
 
-Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Joao Martins](https://www.linkedin.com/in/joao-martins-porto), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Tomas Vitkauskas](https://www.linkedin.com/in/tomasvit6/), [Simas Radkevicius](https://www.linkedin.com/in/simonasrad), [Martynas Rackauskas](https://www.linkedin.com/in/martynas-ra%C4%8Dkauskas-b3648a14b), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
+Birdchain team is led by [Ernestas Petkevicius](https://www.linkedin.com/in/epetkevicius), [Audrius Vrubliauskas](https://www.linkedin.com/in/outrum), [Aurimas Sabaitis](https://www.linkedin.com/in/sabaitis), [Marius Petrauskas](https://www.linkedin.com/in/mariuspetrauskas), [Joao Martins](https://www.linkedin.com/in/joao-martins-porto), [Arminas Keraitis](https://www.linkedin.com/in/arminas-keraitis-460a4a40), [Tomas Vitkauskas](https://www.linkedin.com/in/tomasvit6/), [Aiste Surutkoviciute](https://www.linkedin.com/in/aistesur), and [Zygimantas Vanagas](https://www.linkedin.com/in/zygimantas-vanagas).
 
 <p align="center">
   <img alt="Team" src="https://github.com/Birdchain/whitepaper-business/blob/master/WP%20images/Team%202.png">
